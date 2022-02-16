@@ -1,11 +1,11 @@
-# FAQ Test
+# AltStore Wiki
 
-This repository serves to provide a single location for the documentation related to the AltStore.
+Welcome to AltStore! The following guide is meant to help you install AltStore and get you started sideloading apps!
 
 Please note that the official website for AltStore is [altstore.io](https://altstore.io) and the open source repository for AltStore can be found [here.](https://github.com/rileytestut/AltStore)
 
-## Getting Started (Mac)
+## [Getting Started (Mac)](broken-reference)
 
-## Getting Started (Windows)
+## [Getting Started (Windows)](getting-started-windows/getting-started-windows.md)
 
 ## [AltStore URL Schemes](url-schemes.md)

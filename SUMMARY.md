@@ -1,8 +1,12 @@
 # Table of contents
 
-* [FAQ Test](README.md)
+* [AltStore Wiki](README.md)
 
 ## Getting Started (Mac)
 
-* [Getting Started (Mac)](getting-started-mac/getting-started-mac.md)
-* [Mail Plug-in](getting-started-mac/mail-plug-in.md)
+* [Installing AltStore](getting-started-mac/installing-altstore.md)
+* [Enable Mail Plug-in](getting-started-mac/enable-mail-plug-in.md)
+
+## Getting Started (Windows)
+
+* [Getting Started (Windows)](getting-started-windows/getting-started-windows.md)
