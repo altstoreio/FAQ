@@ -1,11 +1,11 @@
-# Welcome to AltStore-Docs
+# FAQ Test
 
 This repository serves to provide a single location for the documentation related to the AltStore.
 
 Please note that the official website for AltStore is [altstore.io](https://altstore.io) and the open source repository for AltStore can be found [here.](https://github.com/rileytestut/AltStore)
 
-## [Frequently Asked Questions](faq.md)
+## Getting Started (Mac)
 
-## [AltStore Sources](sources.md)
+## Getting Started (Windows)
 
 ## [AltStore URL Schemes](url-schemes.md)

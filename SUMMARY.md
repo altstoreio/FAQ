@@ -1,12 +1,8 @@
 # Table of contents
 
 * [FAQ Test](README.md)
-* [Page 3](page-3.md)
 
-## Group 1
+## Getting Started (Mac)
 
-* [Page 1](group-1/page-1.md)
-
-***
-
-* [Page 2](page-2.md)
+* [Getting Started (Mac)](getting-started-mac/getting-started-mac.md)
+* [Mail Plug-in](getting-started-mac/mail-plug-in.md)
