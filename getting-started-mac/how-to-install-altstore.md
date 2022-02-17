@@ -7,9 +7,7 @@ description: >-
 
 # How to Install AltStore
 
-
-
-1. Download AltServer for Mac ([https://altstore.io](https://altstore.io))
+1. [Download AltServer for Mac](https://cdn.altstore.io/file/altstore/altserver.zip)&#x20;
 2. Copy “AltServer.app” to your Applications folder.
 
 {% embed url="https://www.youtube.com/clip/UgkxR-B2JfOAYoA61z013rzzJd354JZaEK-G" %}
@@ -18,11 +16,9 @@ description: >-
 
 {% embed url="https://www.youtube.com/clip/UgkxqhjUT0tqALek9ieqnD6sjyEKoY944noF" %}
 
-4\. Connect your iPhone to your computer and make sure it is unlocked.
+4\. Connect your iPhone to your computer and make sure it is unlocked (trust your iPhone with your computer if needed)
 
-5\. Trust your iPhone with your computer (if needed).
-
-6\. Wi-Fi sync your iPhone:
+5\. Wi-Fi sync your iPhone:
 
 * (Mojave) Open iTunes and enable iTunes Wi-Fi sync for your phone
 
@@ -42,5 +38,6 @@ description: >-
 
 10\. Wait a few seconds, then AltStore will be send a notification that it has been successfully installed to your phone (if you don't get this notification, try restarting your iOS device). Restart your device and AltStore should appear.&#x20;
 
-* <mark style="color:purple;">AltStore may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.</mark>&#x20;
+* <mark style="color:purple;">When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.</mark>&#x20;
 
+**You are now ready to sideload apps using AltStore! You can go to this page to learn more about apps in AltStore**

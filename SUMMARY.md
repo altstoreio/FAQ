@@ -10,3 +10,7 @@
 ## Getting Started (Windows)
 
 * [How to Install AltStore](getting-started-windows/how-to-install-altstore.md)
+
+## Sideloading Apps
+
+* [Page 1](sideloading-apps/page-1.md)
