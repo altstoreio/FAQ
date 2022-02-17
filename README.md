@@ -8,4 +8,3 @@ Please note that the official website for AltStore is [altstore.io](https://alts
 
 ## [Getting Started (Windows)](getting-started-windows/getting-started-windows.md)
 
-## [AltStore URL Schemes](url-schemes.md)
