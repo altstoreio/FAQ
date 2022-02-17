@@ -1,4 +1,6 @@
-# Getting Started (Mac)
+# How to Install AltStore
+
+
 
 1. Download AltServer for Mac ([https://altstore.io](https://altstore.io))
 2. Copy “AltServer.app” to your Applications folder.
