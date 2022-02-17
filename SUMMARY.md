@@ -4,13 +4,15 @@
 
 ## Getting Started (Mac)
 
-* [How to Install AltStore](getting-started-mac/how-to-install-altstore.md)
+* [How to Install AltStore (macOS)](getting-started-mac/how-to-install-altstore-macos.md)
 * [Enable Mail Plug-in](getting-started-mac/enable-mail-plug-in.md)
+* [Troubleshooting (macOS)](getting-started-mac/troubleshooting-macos.md)
 
 ## Getting Started (Windows)
 
 * [How to Install AltStore](getting-started-windows/how-to-install-altstore.md)
+* [Troubleshooting (Windows)](getting-started-windows/troubleshooting-windows.md)
 
 ## Sideloading Apps
 
-* [Page 1](sideloading-apps/page-1.md)
+* [Untitled](sideloading-apps/untitled.md)

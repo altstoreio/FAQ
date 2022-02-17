@@ -5,7 +5,7 @@ description: >-
   sideloading apps!
 ---
 
-# How to Install AltStore
+# How to Install AltStore (macOS)
 
 1. [Download AltServer for Mac](https://cdn.altstore.io/file/altstore/altserver.zip)&#x20;
 2. Copy “AltServer.app” to your Applications folder.
@@ -40,4 +40,6 @@ description: >-
 
 * <mark style="color:purple;">When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.</mark>&#x20;
 
-**You are now ready to sideload apps using AltStore! You can go to this page to learn more about apps in AltStore**
+**You are now ready to sideload apps using AltStore!** [**You can continue here to learn more about apps in AltStore**](broken-reference)****
+
+****[**For troubleshooting continue here**](troubleshooting-macos.md)****
