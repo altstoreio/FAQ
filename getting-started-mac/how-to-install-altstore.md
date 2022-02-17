@@ -1,6 +1,10 @@
+---
+description: >-
+  This page will help guide you through the process of Installing AltStore onto
+  your IPhone so that you can get started sideloading apps!
+---
+
 # How to Install AltStore
-
-
 
 1. Download AltServer for Mac ([https://altstore.io](https://altstore.io))
 2. Copy “AltServer.app” to your Applications folder.
@@ -15,17 +19,25 @@
 
 5\. Trust your iPhone with your computer (if needed).
 
-6\. Wi-Fi sync your iPhone
+6\. Wi-Fi sync your iPhone:
 
-* (Mojave only) Open iTunes and enable iTunes Wi-Fi sync for your phone
-* (Catalina only) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
+* (Mojave) Open iTunes and enable iTunes Wi-Fi sync for your phone
 
-7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your phone.
+![](../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
+
+* (Catalina) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
+
+![](../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
+
+7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your phone
+
+* (First time only) AltServer will ask you to install a Mail plug-in. Follow the instructions on next page to continue.
 
 8\. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
 
 {% embed url="https://www.youtube.com/clip/Ugkxiw3iqUciHywYD6lE9nxAtqzMp512580e" %}
 
-9\. (First time only) AltServer will ask you to install a Mail plug-in. Follow the instructions to continue (or see below for more detailed instructions).
+10\. Wait a few seconds, then AltStore will be send a notification that it has been successfully installed to your phone (if you don't get this notification, try restarting your iOS device). Restart your device and AltStore should appear.&#x20;
 
-10\. Wait a few seconds, then AltStore will be send a notification that it has been successfully installed to your phone. Restart your device if it does not appear.&#x20;
+* (First time only) AltStore may say "Untrusted Developer". If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.&#x20;
+

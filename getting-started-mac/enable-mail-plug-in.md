@@ -1,4 +1,4 @@
-# Mail Plug-in
+# Enable Mail Plug-in
 
 1. Click “Install Mail Plug-in” from the AltServer menu.
 
@@ -12,3 +12,5 @@
 6. Click “Apply and Restart Mail” to finish installation.
 
 {% embed url="https://www.youtube.com/clip/UgkxTtbK8bDInOMJCqVU8Pea-vhofIuTqNH-" %}
+
+7\.  Return to the previous page to finish installation
