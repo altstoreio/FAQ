@@ -9,4 +9,4 @@
 
 ## Getting Started (Windows)
 
-* [Getting Started (Windows)](getting-started-windows/getting-started-windows.md)
+* [How to Install AltStore](getting-started-windows/how-to-install-altstore.md)

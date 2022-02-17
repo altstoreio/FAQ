@@ -13,4 +13,4 @@
 
 {% embed url="https://www.youtube.com/clip/UgkxTtbK8bDInOMJCqVU8Pea-vhofIuTqNH-" %}
 
-7\.  Return to the previous page to finish installation
+7\.  [Return to the previous page to finish installation](how-to-install-altstore.md)

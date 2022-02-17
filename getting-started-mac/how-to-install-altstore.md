@@ -1,10 +1,13 @@
 ---
 description: >-
-  This page will help guide you through the process of Installing AltStore onto
-  your IPhone so that you can get started sideloading apps!
+  This page will help guide you through the process of installing AltStore onto
+  your iOS device using a macOS computer. Soon you will be able to start
+  sideloading apps!
 ---
 
 # How to Install AltStore
+
+
 
 1. Download AltServer for Mac ([https://altstore.io](https://altstore.io))
 2. Copy “AltServer.app” to your Applications folder.
@@ -31,7 +34,7 @@ description: >-
 
 7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your phone
 
-* (First time only) AltServer will ask you to install a Mail plug-in. Follow the instructions on next page to continue.
+* ****:octagonal\_sign: **** [**For "Install Mail Plug-in" notification, follow the instructions on next page.**](enable-mail-plug-in.md)****
 
 8\. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
 
@@ -39,5 +42,5 @@ description: >-
 
 10\. Wait a few seconds, then AltStore will be send a notification that it has been successfully installed to your phone (if you don't get this notification, try restarting your iOS device). Restart your device and AltStore should appear.&#x20;
 
-* (First time only) AltStore may say "Untrusted Developer". If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.&#x20;
+* <mark style="color:purple;">AltStore may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.</mark>&#x20;
 
