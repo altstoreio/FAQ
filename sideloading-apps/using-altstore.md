@@ -2,7 +2,7 @@
 
 This guide is for the public version of AltStore. For added features (like adding more apps to your AltStore) you can sign up for the [Patreon ](https://www.patreon.com/rileytestut)to get access to the beta version of AltStore.&#x20;
 
-To learn more about the beta, you can continue here
+To learn more about the beta, you can continue [here](beta-features/)
 
 ## AppleID
 
