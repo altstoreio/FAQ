@@ -16,6 +16,8 @@
 ## Sideloading Apps
 
 * [Using AltStore](sideloading-apps/using-altstore.md)
+* [Beta Features](sideloading-apps/beta-features/README.md)
+  * [Adding Apps to AltStore (Sources)](sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)
 
 ## Trusted Apps
 
