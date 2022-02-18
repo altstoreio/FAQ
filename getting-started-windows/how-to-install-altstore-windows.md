@@ -5,7 +5,7 @@ description: >-
   sideloading apps!
 ---
 
-# How to Install AltStore
+# How to Install AltStore (Windows)
 
 ## **Before Installing AltStore:**
 
@@ -43,6 +43,6 @@ description: >-
 
 **You are now ready to sideload apps using AltStore!**
 
-&#x20;**** [**You can continue here to learn more about apps in AltStore**](broken-reference)****
+****[**You can continue here to learn more about apps in AltStore**](broken-reference)****
 
 ****[**For troubleshooting, continue to next page**](troubleshooting-windows.md)****

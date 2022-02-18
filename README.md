@@ -6,5 +6,5 @@ Please note that the official website for AltStore is [altstore.io](https://alts
 
 ## [Getting Started (Mac)](broken-reference)
 
-## [Getting Started (Windows)](getting-started-windows/how-to-install-altstore.md)
+## [Getting Started (Windows)](getting-started-windows/how-to-install-altstore-windows.md)
 

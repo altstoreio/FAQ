@@ -10,7 +10,7 @@
 
 ## Getting Started (Windows)
 
-* [How to Install AltStore](getting-started-windows/how-to-install-altstore.md)
+* [How to Install AltStore (Windows)](getting-started-windows/how-to-install-altstore-windows.md)
 * [Troubleshooting (Windows)](getting-started-windows/troubleshooting-windows.md)
 
 ## Sideloading Apps
