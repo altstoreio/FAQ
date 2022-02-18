@@ -15,4 +15,8 @@
 
 ## Sideloading Apps
 
-* [Untitled](sideloading-apps/untitled.md)
+* [Using AltStore](sideloading-apps/using-altstore.md)
+
+## Trusted Apps
+
+* [Delta](trusted-apps/delta.md)
