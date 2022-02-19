@@ -1,8 +1,8 @@
-# Using AltStore
+# Your AltStore
 
 This guide is for the public version of AltStore. For added features (like adding more apps to your AltStore) you can sign up for the [Patreon ](https://www.patreon.com/rileytestut)to get access to the beta version of AltStore.&#x20;
 
-To learn more about the beta, you can continue [here](beta-features/)
+To learn more about the beta, you can continue [here](../sideloading-apps/beta-features/)
 
 ## AppleID
 
@@ -18,4 +18,4 @@ If you are using the public version of Altstore, we recommend starting out by do
 
 &#x20;                                                ![](<../.gitbook/assets/image (4).png>)
 
-From the browse tab you can also add sources, which allows you to put additional apps in your AltStore. [To learn more about sources, continue here](beta-features/adding-apps-to-altstore-sources.md)
+From the browse tab you can also add sources, which allows you to put additional apps in your AltStore. [To learn more about sources, continue here](../sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)

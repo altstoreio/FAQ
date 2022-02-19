@@ -15,9 +15,9 @@
 
 ## How to Use AltStore
 
-* [The Basics](how-to-use-altstore/the-basics.md)
-* [Beta Features](how-to-use-altstore/beta-features/README.md)
-  * [Adding Apps to AltStore (Sources)](how-to-use-altstore/beta-features/adding-apps-to-altstore-sources.md)
+* [Your AltStore](how-to-use-altstore/your-altstore.md)
+* [Beta Features](sideloading-apps/beta-features/README.md)
+  * [Adding Apps to AltStore (Sources)](sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)
 
 ## Trusted Apps
 
