@@ -13,11 +13,11 @@
 * [How to Install AltStore (Windows)](getting-started-windows/how-to-install-altstore-windows.md)
 * [Troubleshooting (Windows)](getting-started-windows/troubleshooting-windows.md)
 
-## Sideloading Apps
+## How to Use AltStore
 
-* [Using AltStore](sideloading-apps/using-altstore.md)
-* [Beta Features](sideloading-apps/beta-features/README.md)
-  * [Adding Apps to AltStore (Sources)](sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)
+* [The Basics](how-to-use-altstore/the-basics.md)
+* [Beta Features](how-to-use-altstore/beta-features/README.md)
+  * [Adding Apps to AltStore (Sources)](how-to-use-altstore/beta-features/adding-apps-to-altstore-sources.md)
 
 ## Trusted Apps
 
