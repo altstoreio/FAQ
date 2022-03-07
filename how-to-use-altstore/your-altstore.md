@@ -12,12 +12,17 @@ Once in AltStore, go to the settings tab and enter your AppleID (this should be 
 
 ## Browse Apps
 
-The browse tab in AltStore is where you can find Apps available for you to sideload.&#x20;
-
-If you are using the public version of Altstore, we recommend starting out by downloading Delta to check that everything is working correctly with AltStore. [You can go here to learn more about Delta](../trusted-apps/delta.md)
+The "Browse" tab in AltStore is where you can find Apps available for you to sideload.&#x20;
 
 &#x20;                                                ![](<../.gitbook/assets/image (4).png>)
 
 From the browse tab you can also add sources, which allows you to put additional apps in your AltStore. [To learn more about sources, continue here](../sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)
 
 ## My Apps
+
+The "My Apps" tab is where you can see all of your activated/deactivated apps  &#x20;
+
+&#x20;                                                ![](../.gitbook/assets/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.png)
+
+
+
