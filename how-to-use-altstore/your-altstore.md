@@ -19,3 +19,5 @@ If you are using the public version of Altstore, we recommend starting out by do
 &#x20;                                                ![](<../.gitbook/assets/image (4).png>)
 
 From the browse tab you can also add sources, which allows you to put additional apps in your AltStore. [To learn more about sources, continue here](../sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)
+
+## My Apps
