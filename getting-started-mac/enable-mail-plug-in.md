@@ -8,8 +8,14 @@
 2. Open Mail (quit Mail first if it was already running).
 3. Open Mail > Preferences.
 4. Click “Manage Plug-ins...”
-5. Enable “AltPlugin.mailbundle”
-6. Click “Apply and Restart Mail” to finish installation.
+
+![](<../.gitbook/assets/Mail Plug-In (1).png>)
+
+5\. Enable “AltPlugin.mailbundle”
+
+![](<../.gitbook/assets/Alt Plug-In.png>)
+
+6\. Click “Apply and Restart Mail” to finish installation.
 
 {% embed url="https://www.youtube.com/clip/UgkxTtbK8bDInOMJCqVU8Pea-vhofIuTqNH-" %}
 
