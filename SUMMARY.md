@@ -16,6 +16,8 @@
 ## How to Use AltStore
 
 * [Your AltStore](how-to-use-altstore/your-altstore.md)
+* [Features](how-to-use-altstore/features/README.md)
+  * [AltJIT](how-to-use-altstore/features/altjit.md)
 * [Beta Features](sideloading-apps/beta-features/README.md)
   * [Adding Apps to AltStore (Sources)](sideloading-apps/beta-features/adding-apps-to-altstore-sources.md)
 

@@ -24,5 +24,17 @@ The "My Apps" tab is where you can see all of your activated/deactivated apps  &
 
 &#x20;                                                ![](../.gitbook/assets/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.png)
 
+### Activations&#x20;
 
+Though you can install several apps, you can activate only three apps at a time. When you download an app, it will be activated by default. But if you try to activate more than 3 apps, you will be prompted to deactivate a different app. You can re-activate an app by clicking the activate button in your apps list.
+
+&#x20;                          ![](<../.gitbook/assets/Screen Shot 2022-03-09 at 9.10.40 PM.png>)
+
+### AppIDs Limit
+
+Apps on AltStore also use up "App IDs" when they are downloaded. You can only use a total of 10 App IDs at a time, and each app uses a different amount of App IDs. Be sure to use the "view App IDs" link to see how many each app is using.&#x20;
+
+
+
+&#x20;                                 &#x20;
 
