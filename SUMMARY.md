@@ -20,7 +20,9 @@
   * [Sources](how-to-use-altstore/features/sources.md)
   * [AltJIT](how-to-use-altstore/features/altjit.md)
 * [Beta Features](how-to-use-altstore/beta-features.md)
+* [AltServer](how-to-use-altstore/altserver.md)
 
 ## Trusted Apps
 
+* [Source List](trusted-apps/source-list.md)
 * [Delta](trusted-apps/delta.md)

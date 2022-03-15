@@ -18,13 +18,13 @@ description: >-
 
 4\. Connect your iPhone to your computer and make sure it is unlocked (trust your iPhone with your computer if needed)
 
-5\. Wi-Fi sync your iPhone (Mojave and Catalina macOS users only)
+5\. Wi-Fi sync your iPhone
 
-* (Mojave) Open iTunes and enable iTunes Wi-Fi sync for your phone
+* (Mojave - macOS 10) Open iTunes and enable iTunes Wi-Fi sync for your phone
 
 ![](../../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
 
-* (Catalina) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
+* (Catalina macOS 11 or Later) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
 
 ![](../../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
 
