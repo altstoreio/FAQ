@@ -22,7 +22,6 @@
 * [Beta Features](how-to-use-altstore/beta-features.md)
 * [AltServer](how-to-use-altstore/altserver.md)
 
-## Trusted Apps
+## Trusted Sources
 
-* [Source List](trusted-apps/source-list.md)
-* [Delta](trusted-apps/delta.md)
+* [Source List](trusted-sources/source-list.md)
