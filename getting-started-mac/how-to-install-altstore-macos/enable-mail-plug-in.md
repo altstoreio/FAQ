@@ -9,14 +9,14 @@
 3. Open Mail > Preferences.
 4. Click “Manage Plug-ins...”
 
-![](<../.gitbook/assets/Mail Plug-In (1).png>)
+![](<../../.gitbook/assets/Mail Plug-In (1).png>)
 
 5\. Enable “AltPlugin.mailbundle”
 
-![](<../.gitbook/assets/Alt Plug-In.png>)
+![](<../../.gitbook/assets/Alt Plug-In.png>)
 
 6\. Click “Apply and Restart Mail” to finish installation.
 
 {% embed url="https://www.youtube.com/clip/UgkxTtbK8bDInOMJCqVU8Pea-vhofIuTqNH-" %}
 
-7\.  [Return to the previous page to finish installation](how-to-install-altstore-macos.md)
+7\.  [Return to the previous page to finish installation](./)

@@ -18,15 +18,15 @@ description: >-
 
 4\. Connect your iPhone to your computer and make sure it is unlocked (trust your iPhone with your computer if needed)
 
-5\. Wi-Fi sync your iPhone:
+5\. Wi-Fi sync your iPhone (Mojave and Catalina macOS users only)
 
 * (Mojave) Open iTunes and enable iTunes Wi-Fi sync for your phone
 
-![](../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
+![](../../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
 
 * (Catalina) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
 
-![](../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
+![](../../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
 
 7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your phone
 
@@ -36,12 +36,12 @@ description: >-
 
 {% embed url="https://www.youtube.com/clip/Ugkxiw3iqUciHywYD6lE9nxAtqzMp512580e" %}
 
-10\. Wait a few seconds, then AltStore will be send a notification that it has been successfully installed to your phone (if you don't get this notification, try restarting your iOS device). Restart your device and AltStore should appear.&#x20;
+10\. Wait a few seconds, then AltStore will send a notification that it has been successfully installed to your phone (if you don't get this notification, try restarting your iOS device). Restart your device and AltStore should appear.&#x20;
 
-* <mark style="color:purple;">When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.</mark>&#x20;
+* When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.&#x20;
 
 **You are now ready to sideload apps using AltStore!**
 
 [**You can continue here to learn more about apps in AltStore**](broken-reference)****
 
-****[**For troubleshooting continue here**](troubleshooting-macos.md)****
+****[**For troubleshooting continue here**](../troubleshooting-macos.md)****
