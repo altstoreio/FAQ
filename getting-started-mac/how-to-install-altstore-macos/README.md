@@ -20,17 +20,23 @@ description: >-
 
 5\. Wi-Fi sync your iPhone
 
-* (Mojave - macOS 10) Open iTunes and enable iTunes Wi-Fi sync for your phone
+{% hint style="info" %}
+(macOS 10.14 Mojave or Earlier) Open iTunes and enable iTunes Wi-Fi sync for your phone
+{% endhint %}
 
 ![](../../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
 
-* (Catalina macOS 11 or Later) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
+{% hint style="info" %}
+(macOS 10.15 Catalina or Later) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
+{% endhint %}
 
 ![](../../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
 
 7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your phone
 
-* ****:octagonal\_sign: **** [**For "Install Mail Plug-in" notification, follow the instructions on next page.**](enable-mail-plug-in.md)****
+{% hint style="info" %}
+&#x20;**** [**For "Install Mail Plug-in" notification, follow the instructions on next page.**](enable-mail-plug-in.md)****
+{% endhint %}
 
 8\. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
 
@@ -38,7 +44,9 @@ description: >-
 
 10\. Wait a few seconds, then AltStore will send a notification that it has been successfully installed to your phone (if you don't get this notification, try restarting your iOS device). Restart your device and AltStore should appear.&#x20;
 
-* When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.&#x20;
+{% hint style="info" %}
+When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.&#x20;
+{% endhint %}
 
 **You are now ready to sideload apps using AltStore!**
 
