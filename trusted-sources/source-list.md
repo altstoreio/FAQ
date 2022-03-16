@@ -13,7 +13,7 @@ description: Here you can see a list of AltStore approved Sources
 1. [Dolphin Emulator](https://dolphin-emu.org) - An emulator for Nintendo Gamecube
 2. [Dolphin Emulator (beta)](https://dolphin-emu.org) - An emulator for Nintendo Gamecube w/beta features
 
-### <mark style="color:purple;">Conath's Source</mark>
+### <mark style="color:purple;">OSY's Source</mark>
 
 **Link**: [https://alt.getutm.app](https://alt.getutm.app)
 
