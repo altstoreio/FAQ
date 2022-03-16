@@ -5,7 +5,7 @@ description: >-
   sideloading apps!
 ---
 
-# How to Install AltStore (macOS)
+# 🍎 How to Install AltStore (macOS)
 
 1. [Download AltServer for Mac](https://cdn.altstore.io/file/altstore/altserver.zip)&#x20;
 2. Copy “AltServer.app” to your Applications folder.

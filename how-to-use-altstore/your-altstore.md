@@ -1,4 +1,4 @@
-# Your AltStore
+# 🛍 Your AltStore
 
 This guide is for the public version of AltStore. For added features (like adding more apps to your AltStore) you can sign up for the [Patreon ](https://www.patreon.com/rileytestut)to get access to the beta version of AltStore.&#x20;
 
@@ -29,6 +29,3 @@ Though you can install several apps, you can activate only three apps at a time.
 Apps on AltStore also use up "App IDs" when they are downloaded. You can only use a total of 10 App IDs per week, and each app uses a different amount of App IDs. Be sure to use the "view App IDs" link to see how many each app is using.&#x20;
 
 &#x20;                                              ![](../.gitbook/assets/IMG\_3843.jpeg)
-
-&#x20;                                 &#x20;
-

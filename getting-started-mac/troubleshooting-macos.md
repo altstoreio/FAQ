@@ -1,4 +1,4 @@
-# Troubleshooting (macOS)
+# 🙋 Troubleshooting (macOS)
 
 #### <mark style="color:purple;">I followed the instructions, but I still can't install AltStore.</mark>
 

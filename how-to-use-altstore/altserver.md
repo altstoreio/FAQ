@@ -1,4 +1,4 @@
-# AltServer
+# 🖥 AltServer
 
 ### Using AltServer
 

@@ -2,7 +2,7 @@
 description: Here you can find videos and news related to AltStore
 ---
 
-# AltStore in Media
+# 📺 AltStore in Media
 
 ## Youtube
 
