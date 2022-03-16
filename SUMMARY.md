@@ -28,4 +28,4 @@
 
 ## Media
 
-* [Gallery](media/gallery.md)
+* [AltStore in Media](media/altstore-in-media.md)

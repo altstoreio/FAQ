@@ -2,7 +2,7 @@
 description: Here you can find videos and news related to AltStore
 ---
 
-# Gallery
+# AltStore in Media
 
 ## Youtube
 
@@ -42,7 +42,25 @@ description: Here you can find videos and news related to AltStore
 [**ETA Prime**](https://www.youtube.com/c/ETAPRIME/featured) **makes his iPad Mini into an emulation machine**
 {% endembed %}
 {% endtab %}
+
+{% tab title="OPERATIONiDROID" %}
+{% embed url="https://www.youtube.com/watch?v=yLuyVakPpUM" %}
+[OPERATIONiDROID](https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg) shows you how to get AltStore running on Windows and macOS
+{% endembed %}
+{% endtab %}
 {% endtabs %}
 
 
+
+## Press
+
+{% embed url="https://www.inputmag.com/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it" %}
+
+{% embed url="https://www.theverge.com/2019/9/25/20884363/altstore-riley-testut-delta-nintendo-emulator-ios-app-store-alternative-jailbreak" %}
+
+{% embed url="https://www.fastcompany.com/90718755/apple-iphone-app-sideloading-law" %}
+
+{% embed url="https://9to5mac.com/2019/09/25/altstore-is-an-ios-app-store-alternative-that-doesnt-require-a-jailbreak-heres-how-to-use-it" %}
+
+{% embed url="https://9to5mac.com/2020/11/06/ios-14-2-brings-jit-compilation-support-which-enables-emulation-apps-at-full-performance" %}
 
