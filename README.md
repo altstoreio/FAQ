@@ -8,3 +8,9 @@ Please note that the official website for AltStore is [altstore.io](https://alts
 
 ## [Getting Started (Windows)](getting-started-windows/how-to-install-altstore-windows.md)
 
+## [Using AltStore](how-to-use-altstore/your-altstore.md)
+
+## [Sources](broken-reference)
+
+## [Media](media/altstore-in-media.md)
+
