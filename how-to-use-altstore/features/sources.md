@@ -1,4 +1,4 @@
-# Sources
+# ➕ Sources
 
 In order to add apps to the "Browse" tab, you need to add sources. Sources will be in the form of links that contain apps. You can click "Sources" to see a list of all your links.
 

@@ -2,7 +2,7 @@
 description: Here you can see a list of AltStore approved Sources
 ---
 
-# Source List
+# 📄 Source List
 
 ### <mark style="color:purple;">Oatmealdome's Source</mark>
 

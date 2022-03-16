@@ -1,4 +1,4 @@
-# Enable Mail Plug-in
+# 📩 Enable Mail Plug-in
 
 1. Click “Install Mail Plug-in” from the AltServer menu.
 
