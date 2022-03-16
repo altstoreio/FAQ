@@ -1,2 +1,2 @@
-# Discord
+# 🗣 Discord
 

@@ -1,4 +1,4 @@
-# 📘 AltStore Wiki
+# AltStore Wiki
 
 Welcome to AltStore! The following guide is meant to help you install AltStore and get you started sideloading apps!
 

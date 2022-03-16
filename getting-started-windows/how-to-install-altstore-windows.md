@@ -5,7 +5,7 @@ description: >-
   sideloading apps!
 ---
 
-# 🪟 How to Install AltStore (Windows)
+# How to Install AltStore (Windows)
 
 ## **Before Installing AltStore:**
 

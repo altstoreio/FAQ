@@ -32,4 +32,4 @@
 ## Patreon
 
 * [🛠 Beta Features](how-to-use-altstore/beta-features.md)
-* [Discord](patreon/discord.md)
+* [🗣 Discord](patreon/discord.md)
