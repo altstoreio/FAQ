@@ -17,7 +17,7 @@
 
 * [🛍 Your AltStore](how-to-use-altstore/your-altstore.md)
 * [🎊 Features](how-to-use-altstore/features/README.md)
-  * [➕ Sources](how-to-use-altstore/features/sources.md)
+  * [🔗 Sources](how-to-use-altstore/features/sources.md)
   * [🏎 AltJIT](how-to-use-altstore/features/altjit.md)
 * [🖥 AltServer](how-to-use-altstore/altserver.md)
 
@@ -31,5 +31,5 @@
 
 ## Patreon
 
-* [🛠 Beta Features](patreon/beta-features.md)
+* [🛠 Beta Features](how-to-use-altstore/beta-features.md)
 * [Discord](patreon/discord.md)
