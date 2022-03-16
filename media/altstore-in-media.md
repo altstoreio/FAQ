@@ -48,6 +48,12 @@ description: Here you can find videos and news related to AltStore
 [OPERATIONiDROID](https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg) shows you how to get AltStore running on Windows and macOS
 {% endembed %}
 {% endtab %}
+
+{% tab title="iDM" %}
+{% embed url="https://youtu.be/XYEDxf8WHxc?t=55" %}
+****[**iDM**](https://www.youtube.com/channel/UCsNsM8GOtj55C-mQfdFOcVw) **explains why AltStore is the best way to use unc0ver jailbreak**
+{% endembed %}
+{% endtab %}
 {% endtabs %}
 
 
