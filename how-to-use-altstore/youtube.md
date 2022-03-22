@@ -1,10 +1,10 @@
 ---
-description: Here you can find videos and news related to AltStore
+description: Here you can find videos of people using AltStore to do fun things!
 ---
 
-# 📺 AltStore in Media
+# 📺 YouTube
 
-## Youtube
+## Our Favorite Videos&#x20;
 
 {% tabs %}
 {% tab title="The Verge" %}

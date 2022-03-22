@@ -12,5 +12,5 @@ Please note that the official website for AltStore is [altstore.io](https://alts
 
 ## [Sources](broken-reference)
 
-## [Media](media/altstore-in-media.md)
+## [Media](how-to-use-altstore/youtube.md)
 

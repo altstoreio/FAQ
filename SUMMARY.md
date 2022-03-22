@@ -20,14 +20,15 @@
   * [🔗 Sources](how-to-use-altstore/features/sources.md)
   * [🏎 AltJIT](how-to-use-altstore/features/altjit.md)
 * [🖥 AltServer](how-to-use-altstore/altserver.md)
+* [📺 YouTube](how-to-use-altstore/youtube.md)
 
 ## Trusted Sources
 
 * [📄 Source List](trusted-sources/source-list.md)
 
-## Media
+## Press
 
-* [📺 AltStore in Media](media/altstore-in-media.md)
+* [📰 Press](press/press.md)
 
 ## Patreon
 
