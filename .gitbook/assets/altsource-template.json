@@ -1,0 +1,47 @@
+{
+  "name": "Example Source",
+  "identifier": "com.example.source",
+  "apps": [
+    {
+      "name": "Example App",
+      "bundleIdentifier": "com.example.app",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome sample app.",
+      "version": "1.0",
+      "versionDate": "2022-03-16T07:00:00-08:00",
+      "versionDescription": "This update contains bug fixes and other improvements. ",
+      "downloadURL": "https://example.com/app.ipa",
+      "localizedDescription": "This is an example app description. Describe your app here.",
+      "iconURL": "https://via.placeholder.com/256x256.png/0000FF?text=Icon",
+      "tintColor": "0000FF",
+      "size": 0,
+      "screenshotURLs": [
+        "https://via.placeholder.com/750x1334.png/0000FF?text=Screenshot+1",
+        "https://via.placeholder.com/750x1334.png/FF0000?text=Screenshot+2",
+        "https://via.placeholder.com/750x1334.png/00FF00?text=Screenshot+3"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Example News Update",
+      "identifier": "example-news-update",
+      "caption": "Use this section to push news updates to your users.",
+      "tintColor": "0000FF",
+      "imageURL": "https://via.placeholder.com/1200x600.png/41C4FF?text=Sample+News+Thumbnail",
+      "url": "https://example.com",
+      "date": "2022-01-01",
+      "notify": true
+    },
+    {
+      "title": "Example App News",
+      "identifier": "example-app-news",
+      "caption": "News related to one of your apps.",
+      "tintColor": "0000FF",
+      "imageURL": "https://via.placeholder.com/1200x600.png/41C4FF?text=App+News+Thumbnail",
+      "appID": "com.example.app",
+      "date": "2022-02-01",
+      "notify": false
+    }
+  ]
+}

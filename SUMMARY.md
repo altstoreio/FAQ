@@ -22,9 +22,10 @@
 * [🖥 AltServer](how-to-use-altstore/altserver.md)
 * [📺 YouTube](how-to-use-altstore/youtube.md)
 
-## Trusted Sources
+## App Sources
 
-* [📄 Source List](trusted-sources/source-list.md)
+* [📄 Trusted Source List](app-sources/trusted-source-list.md)
+* [📂 Make Your Own Source](app-sources/make-your-own-source.md)
 
 ## Press
 
