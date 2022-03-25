@@ -6,6 +6,7 @@
 
 * [🍎 How to Install AltStore (macOS)](getting-started-mac/how-to-install-altstore-macos/README.md)
   * [📩 Enable Mail Plug-in](getting-started-mac/how-to-install-altstore-macos/enable-mail-plug-in.md)
+* [Tab Version](getting-started-mac/tab-version.md)
 * [🙋 Troubleshooting (macOS)](getting-started-mac/troubleshooting-macos.md)
 
 ## Getting Started (Windows)
