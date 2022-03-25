@@ -52,9 +52,7 @@ Open Mail > Preferences >  “Manage Plug-ins...” and enable “AltPlugin.mail
 {% tab title="Step 6" %}
 Trust Developer on your Phone
 
-![](../.gitbook/assets/phone.gif)
+![](<../.gitbook/assets/1-CwxM2iiAN0kLSWGuRQcCHQ-2 (dragged).jpg>)
 {% endtab %}
 {% endtabs %}
-
-
 
