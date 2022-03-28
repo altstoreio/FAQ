@@ -6,7 +6,6 @@
 
 * [🍎 How to Install AltStore (macOS)](getting-started-mac/how-to-install-altstore-macos/README.md)
   * [📩 Enable Mail Plug-in](getting-started-mac/how-to-install-altstore-macos/enable-mail-plug-in.md)
-* [Tab Version](getting-started-mac/tab-version.md)
 * [🙋 Troubleshooting (macOS)](getting-started-mac/troubleshooting-macos.md)
 
 ## Getting Started (Windows)
@@ -17,10 +16,12 @@
 ## How to Use AltStore
 
 * [🛍 Your AltStore](how-to-use-altstore/your-altstore.md)
+* [🖥 AltServer](how-to-use-altstore/altserver.md)
 * [🎊 Features](how-to-use-altstore/features/README.md)
   * [🔗 Sources](how-to-use-altstore/features/sources.md)
   * [🏎 AltJIT](how-to-use-altstore/features/altjit.md)
-* [🖥 AltServer](how-to-use-altstore/altserver.md)
+  * [🆔 AppIDs](how-to-use-altstore/features/appids.md)
+  * [⚡ App Activations](how-to-use-altstore/features/app-activations.md)
 * [📺 YouTube](how-to-use-altstore/youtube.md)
 
 ## App Sources
@@ -36,3 +37,4 @@
 
 * [🛠 Beta Features](how-to-use-altstore/beta-features.md)
 * [🗣 Discord](patreon/discord.md)
+* [Patron Credits Page](patreon/patron-credits-page.md)

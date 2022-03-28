@@ -39,8 +39,12 @@ description: >-
 
 8\. Wait a few seconds, then AltStore will be installed to your phone.
 
+​9. On your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust".
+
+![Image courtesy of @LouisAnslow](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAfe8qEztjcTjsjjaMBY2%2Fuploads%2F1NUuIKBgS0adjhFhOqVt%2F1-CwxM2iiAN0kLSWGuRQcCHQ-2%20\(dragged\).jpg?alt=media\&token=f94229f1-89be-4e25-854d-d13736f64ca3)
+
 {% hint style="info" %}
-When you tap to open AltStore, it may show "Untrusted Developer" notification. If this is the case, on your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust" twice.&#x20;
+​The "Profiles and Device Management" may read as a number of things depending on your version, but you can always find the section near the bottom of your General settings tab.
 {% endhint %}
 
 **You are now ready to sideload apps using AltStore!**
