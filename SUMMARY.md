@@ -33,7 +33,7 @@
 
 * [🛠 Beta Features](how-to-use-altstore/beta-features.md)
 * [🗣 Discord](patreon/discord.md)
-* [💳 Friend Zone](patreon/friend-zone.md)
+* [🧸 Friend Zone](patreon/patron-credits-page.md)
 
 ## Press
 
