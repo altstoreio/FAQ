@@ -31,20 +31,22 @@ description: >-
 
 5\. Open iTunes, go to device menu and enable Wi-Fi sync for your phone.
 
+![](../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
+
 6\. Click the AltServer icon in the bottom right tool bar. Then click “Install AltStore” and choose your iOS device.
 
 {% embed url="https://youtube.com/clip/Ugkxi40a5EN8Ef7mx4ERMm6t0kkqD8U2IIRm" %}
 
 7\. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
 
-8\. Wait a few seconds, then AltStore will be installed to your phone.
+8\. Wait a few seconds, then AltStore will be installed to your phone!
 
 ​9. On your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust".
 
 ![Image courtesy of @LouisAnslow](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAfe8qEztjcTjsjjaMBY2%2Fuploads%2F1NUuIKBgS0adjhFhOqVt%2F1-CwxM2iiAN0kLSWGuRQcCHQ-2%20\(dragged\).jpg?alt=media\&token=f94229f1-89be-4e25-854d-d13736f64ca3)
 
 {% hint style="info" %}
-​The "Profiles and Device Management" may read as a number of things depending on your version, but you can always find the section near the bottom of your General settings tab.
+​The "Profiles and Device Management" may appear as a number of things depending on your version, but you can always find the section near the bottom of your General settings tab.
 {% endhint %}
 
 **You are now ready to sideload apps using AltStore!**

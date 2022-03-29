@@ -18,9 +18,19 @@ The "My Apps" tab is where you can see all of your activated/deactivated apps  &
 
 &#x20;                                                ![](../.gitbook/assets/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.png)
 
-###
+## Settings
 
-&#x20;                                                                &#x20;
+In the settings, you can get information on a number of things about your AltStore
+
+1. Type: Shows what kind of Apple Account you have (free/paid). You can sign up for a paid developer account if you want to sideload more than 3 apps at once
+2. Background Refresh: This toggle allows your phone to auto-refresh apps when your computer is open and running AltServer
+3. Debug: You can send support requests and view your app refresh attempts
+
+## News
+
+The news tab is where you can see information about app updates or otherwise. These news pages will come from sources that you have added to your store
+
+## &#x20;                               &#x20;
 
 ###
 

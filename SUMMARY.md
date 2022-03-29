@@ -29,12 +29,12 @@
 * [📄 Trusted Source List](app-sources/trusted-source-list.md)
 * [📂 Make Your Own Source](app-sources/make-your-own-source.md)
 
-## Press
-
-* [📰 Press](press/press.md)
-
 ## Patreon
 
 * [🛠 Beta Features](how-to-use-altstore/beta-features.md)
 * [🗣 Discord](patreon/discord.md)
-* [Patron Credits Page](patreon/patron-credits-page.md)
+* [💳 Patron Credits Page](patreon/patron-credits-page.md)
+
+## Press
+
+* [📰 Press](press/press.md)
