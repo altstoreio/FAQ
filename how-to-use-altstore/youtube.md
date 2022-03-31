@@ -31,18 +31,6 @@ description: Here you can find videos of people using AltStore to do fun things!
 {% endembed %}
 {% endtab %}
 
-{% tab title="ETA Prime" %}
-{% embed url="https://youtu.be/JZI9OlmqFOE?t=85" %}
-****[**ETA Prime**](https://www.youtube.com/c/ETAPRIME/featured) **shows how you can use AltStore and Dolphin to play Gamecube on iPad**
-{% endembed %}
-
-
-
-{% embed url="https://youtu.be/D6fk0zreHGc?t=41" %}
-[**ETA Prime**](https://www.youtube.com/c/ETAPRIME/featured) **makes his iPad Mini into an emulation machine**
-{% endembed %}
-{% endtab %}
-
 {% tab title="OPERATIONiDROID" %}
 {% embed url="https://www.youtube.com/watch?v=yLuyVakPpUM" %}
 [OPERATIONiDROID](https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg) shows you how to get AltStore running on Windows and macOS
