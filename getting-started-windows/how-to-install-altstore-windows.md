@@ -19,7 +19,7 @@ description: >-
 ## **Installing AltStore:**
 
 1. ****[Download AltServer for Windows ](https://cdn.altstore.io/file/altstore/altinstaller.zip)
-2. Extract the downloaded “AltInstaller.zip” file and double-click “setup.exe”
+2. Extract `AltInstaller.zip` and run `Setup.exe`
 
 {% embed url="https://youtube.com/clip/UgkxzmJbczj_oQ29Mt_LtaAf_OGa2NzoFsdX" %}
 
