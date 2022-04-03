@@ -32,7 +32,7 @@ description: >-
 
 ![](../../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
 
-7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your phone
+7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your device
 
 {% hint style="info" %}
 &#x20;**** [**For "Install Mail Plug-in" notification, follow the instructions on next page.**](enable-mail-plug-in.md)****

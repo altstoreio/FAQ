@@ -28,7 +28,9 @@ In the settings, you can get information on a number of things about your AltSto
 
 ## News
 
-The news tab is where you can see information about app updates or otherwise. These news pages will come from sources that you have added to your store
+The news tab is where you can see information about app updates, upcoming features, and more from sources that you add.&#x20;
+
+&#x20;                                                 &#x20;
 
 ## &#x20;                               &#x20;
 
