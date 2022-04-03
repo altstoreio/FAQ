@@ -1,10 +1,10 @@
 # 🖥 AltServer
 
-### Using AltServer
+AltServer is a companion application for your computer that allows you to sideload apps with AltStore. AltServer also enables you to refresh your apps so that they continue to run normally without interruption as long as your device is connected to AltServer. For this reason, we recommend having AltStore launch at startup so that it can continually run in the background to keep your apps working.
 
-AltServer is an application that allows you to interact with AltStore from your computer
+AltServer is also where you will need to install AltStore the first time, and it's where you can re-install AltStore if you delete it off your device or if the license expires.&#x20;
 
-1. &#x20;Install AltStore onto any iOS device
-2. Sideload apps directly to your device
-3. [Enable JIT](features/altjit.md)
-4. [Install Mail Plug-in (macOS)](../getting-started-mac/how-to-install-altstore-macos/enable-mail-plug-in.md)
+If you have trouble using AltServer, here are our troubleshooting guides: [macOS](../getting-started-mac/troubleshooting-macos.md), [Windows](../getting-started-windows/troubleshooting-windows.md)
+
+
+
