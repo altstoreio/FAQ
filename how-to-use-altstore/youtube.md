@@ -31,6 +31,12 @@ description: Here you can find videos of people using AltStore to do fun things!
 {% endembed %}
 {% endtab %}
 
+{% tab title="ETAPrime" %}
+{% embed url="https://youtube.com/clip/Ugkxqij5-5x5cp5s9uaM_hjhntPdhvfY--Jg" %}
+[ETAPrime](https://www.youtube.com/channel/UC\_0CVCfC\_3iuHqmyClu59Uw) uses emulators on the 2021 iPad
+{% endembed %}
+{% endtab %}
+
 {% tab title="OPERATIONiDROID" %}
 {% embed url="https://www.youtube.com/watch?v=yLuyVakPpUM" %}
 [OPERATIONiDROID](https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg) shows you how to get AltStore running on Windows and macOS

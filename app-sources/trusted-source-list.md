@@ -2,7 +2,7 @@
 description: Here you can see a list of AltStore approved Sources
 ---
 
-# 📄 Source List
+# 📄 Trusted Source List
 
 ### <mark style="color:purple;">Oatmealdome's Source</mark>
 
@@ -21,5 +21,11 @@ description: Here you can see a list of AltStore approved Sources
 
 1. [UTM](https://getutm.app) - An app for running other operating systems on your iPhone or iPad
 
+### <mark style="color:purple;">Flyinghead's Source</mark>
 
+**Link**: [https://flyinghead.github.io/flycast-builds/altstore.json](https://flyinghead.github.io/flycast-builds/altstore.json)
+
+**Apps:**
+
+1. [Flycast](https://utip.io/flyinghead) - An emulator for SEGA Dreamcast
 

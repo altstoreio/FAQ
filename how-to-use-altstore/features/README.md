@@ -12,3 +12,10 @@ description: Here you can find information on available AltStore features
 [altjit.md](altjit.md)
 {% endcontent-ref %}
 
+{% content-ref url="appids.md" %}
+[appids.md](appids.md)
+{% endcontent-ref %}
+
+{% content-ref url="app-activations.md" %}
+[app-activations.md](app-activations.md)
+{% endcontent-ref %}
