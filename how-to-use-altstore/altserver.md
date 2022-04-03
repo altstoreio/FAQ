@@ -2,7 +2,7 @@
 
 ### Using AltServer
 
-AltServer is the application on your computer that allows you to interact with AltStore from you computer
+AltServer is an application that allows you to interact with AltStore from your computer
 
 1. &#x20;Install AltStore onto any iOS device
 2. Sideload apps directly to your device
