@@ -18,18 +18,18 @@ description: >-
 
 ## **Installing AltStore:**
 
-1. ****[Download AltServer for Windows ](https://cdn.altstore.io/file/altstore/altinstaller.zip)
-2. Extract `AltInstaller.zip` and run `Setup.exe`
+1. ****[Download AltServer for Windows](https://cdn.altstore.io/file/altstore/altinstaller.zip).
+2. Extract `AltInstaller.zip` and run `Setup.exe`&#x20;
 
 {% embed url="https://youtube.com/clip/UgkxzmJbczj_oQ29Mt_LtaAf_OGa2NzoFsdX" %}
 
-3\. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar
+3\. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar.
 
 {% embed url="https://youtube.com/clip/Ugkxi40a5EN8Ef7mx4ERMm6t0kkqD8U2IIRm" %}
 
 4\. Connect your iOS device to your computer and make sure it is unlocked. Trust your device with your computer if needed.
 
-5\. Open iTunes, then enable "Wi-Fi sync" on your device
+5\. Open iTunes, then enable "Wi-Fi sync" on your device.
 
 ![](<../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59 (1).webp>)
 

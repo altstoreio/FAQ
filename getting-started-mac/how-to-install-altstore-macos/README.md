@@ -9,13 +9,13 @@ description: >-
 
 1. [Download AltServer for macOS](https://cdn.altstore.io/file/altstore/altserver.zip)
 2. Copy `AltServer.app` to your `Applications`folder.
-3. Launch AltServer, which will appear as an icon in the menu bar
+3. Launch AltServer, which will appear as an icon in the menu bar.
 
 {% embed url="https://www.youtube.com/clip/UgkxqhjUT0tqALek9ieqnD6sjyEKoY944noF" %}
 
 4\. Connect your iOS device to your computer and make sure it is unlocked. Trust your device with your computer if needed.
 
-5\. Enable "Wi-Fi sync" on your device
+5\. Enable "Wi-Fi sync" on your device.
 
 {% hint style="info" %}
 **(macOS 10.14 Mojave or Earlier)**&#x20;
@@ -33,7 +33,7 @@ Open Finder, then enable “Show this iPhone/iPad when on WiFi” for your devic
 
 ![](../../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
 
-7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your device
+7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your device.
 
 {% hint style="info" %}
 &#x20;**** [**For "Install Mail Plug-in..." notification, follow the instructions on next page.**](enable-mail-plug-in.md)****
