@@ -30,7 +30,7 @@ In the settings, you can get information on a number of things about your AltSto
 
 The news tab is where you can see information about app updates, upcoming features, and more from sources that you add.&#x20;
 
-&#x20;                                                 &#x20;
+&#x20;                                                ![](../.gitbook/assets/IMG\_3951.jpeg)                                                &#x20;
 
 ## &#x20;                               &#x20;
 
