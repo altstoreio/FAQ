@@ -23,34 +23,38 @@ description: >-
 
 {% embed url="https://youtube.com/clip/UgkxzmJbczj_oQ29Mt_LtaAf_OGa2NzoFsdX" %}
 
-3\. Go to the search, type in "AltServer" and click "run as administrator" (AltStore will appear as an icon in the toolbar)
+3\. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar
 
 {% embed url="https://youtube.com/clip/Ugkxi40a5EN8Ef7mx4ERMm6t0kkqD8U2IIRm" %}
 
-4\. Plug your iOS device into your computer (unlock and trust device if needed)
+4\. Connect your iOS device to your computer and make sure it is unlocked. Trust your device with your computer if needed.
 
-5\. Open iTunes, go to device menu and enable Wi-Fi sync for your phone.
+5\. Open iTunes, then enable "Wi-Fi sync" on your device
 
-![](../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
+![](<../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59 (1).webp>)
 
-6\. Click the AltServer icon in the bottom right tool bar. Then click “Install AltStore” and choose your iOS device.
+6\. Click the AltServer icon in the bottom right tool bar. Then go to “Install AltStore” and choose your iOS device.
 
 {% embed url="https://youtube.com/clip/Ugkxi40a5EN8Ef7mx4ERMm6t0kkqD8U2IIRm" %}
 
-7\. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
+7\. Enter your Apple ID email address and password. This will allow AltServer to authenticate with Apple and configure your account to support sideloading apps.
 
-8\. Wait a few seconds, then AltStore will be installed to your phone!
+{% hint style="info" %}
+Your Apple ID and password are sent **only** to Apple — not us or anyone else.
+{% endhint %}
 
-​9. On your iOS device go to Settings -> General -> VPN & Device Management. Tap on your Apple ID under "Developer App" and then tap "Trust".
+8\. Wait a few seconds, then an AltServer notification should appear in your notifications tab saying AltStore has been successfully installed onto your device.
+
+9\.  On your iOS device, go to Settings -> General -> Profiles & Device Management. Tap “Trust \[Your Apple ID],” then tap “Trust” again to confirm.
 
 ![Image courtesy of @LouisAnslow](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAfe8qEztjcTjsjjaMBY2%2Fuploads%2F1NUuIKBgS0adjhFhOqVt%2F1-CwxM2iiAN0kLSWGuRQcCHQ-2%20\(dragged\).jpg?alt=media\&token=f94229f1-89be-4e25-854d-d13736f64ca3)
 
 {% hint style="info" %}
-​The "Profiles and Device Management" may appear as a number of things depending on your version, but you can always find the section near the bottom of your General settings tab.
+​The "Profiles & Device Management" may appear as a number of things depending on your version, but you can always find the section near the bottom of your General settings tab.
 {% endhint %}
 
 **You are now ready to sideload apps using AltStore!**
 
-****[**You can continue here to learn more about apps in AltStore**](broken-reference)****
+****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)****
 
-****[**For troubleshooting, continue to next page**](troubleshooting-windows.md)****
+****[**Still having trouble? Check out our troubleshooting guide here**](troubleshooting-windows.md)****

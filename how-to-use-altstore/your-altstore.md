@@ -16,7 +16,7 @@ From the browse tab you can also add sources, which allows you to put additional
 
 The "My Apps" tab is where you can see all of your activated/deactivated apps  &#x20;
 
-&#x20;                                                ![](../.gitbook/assets/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.png)
+&#x20;                                               ![](../.gitbook/assets/IMG\_3952.jpeg)&#x20;
 
 ## Settings
 

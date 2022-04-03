@@ -2,7 +2,7 @@
 
 #### <mark style="color:purple;">I followed the instructions, but I still can't install AltStore.</mark>
 
-Please make sure you did the following. If you are receiving an error, you can refer to the error code page or search for your issue in the top right.
+Please make sure you did the following:
 
 * Have you said “Trust” on both your computer and phone after connecting it to your computer? You can check by opening iTunes and seeing if a dialog box pops up asking if you want to trust your phone.
 * Try using another Apple ID. If necessary, you can [create a new Apple ID](https://appleid.apple.com/account#!\&page=create) specifically for use with AltStore for free.
