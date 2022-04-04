@@ -14,5 +14,5 @@ Please note that the official website for AltStore is [altstore.io](https://alts
 
 ## [Patreon](broken-reference)
 
-## [Press](press/press.md)
+## [Press](more/press.md)
 

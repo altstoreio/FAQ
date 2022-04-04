@@ -18,7 +18,6 @@
   * [🆔 AppIDs](how-to-use-altstore/features/appids.md)
   * [⚡ App Activations](how-to-use-altstore/features/app-activations.md)
 * [🙋 Troubleshooting Guide](how-to-use-altstore/troubleshooting-guide.md)
-* [📺 YouTube](how-to-use-altstore/youtube.md)
 
 ## App Sources
 
@@ -31,6 +30,7 @@
 * [🗣 Discord](patreon/discord.md)
 * [🧸 Friend Zone](patreon/patron-credits-page.md)
 
-## Press
+## More
 
-* [📰 Press](press/press.md)
+* [📺 YouTube](more/youtube.md)
+* [📰 Press](more/press.md)
