@@ -2,16 +2,11 @@
 
 * [📘 AltStore Wiki](README.md)
 
-## Getting Started (Mac)
+## Getting Started
 
-* [🍎 How to Install AltStore (macOS)](getting-started-mac/how-to-install-altstore-macos/README.md)
-  * [📩 Enable Mail Plug-in](getting-started-mac/how-to-install-altstore-macos/enable-mail-plug-in.md)
-* [🙋 Troubleshooting (macOS)](getting-started-mac/troubleshooting-macos.md)
-
-## Getting Started (Windows)
-
-* [🪟 How to Install AltStore (Windows)](getting-started-windows/how-to-install-altstore-windows.md)
-* [🙋 Troubleshooting (Windows)](getting-started-windows/troubleshooting-windows.md)
+* [🍎 How to Install AltStore (macOS)](getting-started/how-to-install-altstore-macos/README.md)
+  * [📩 Enable Mail Plug-in](getting-started/how-to-install-altstore-macos/enable-mail-plug-in.md)
+* [🪟 How to Install AltStore (Windows)](getting-started/how-to-install-altstore-windows.md)
 
 ## How to Use AltStore
 

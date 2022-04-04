@@ -69,4 +69,4 @@ The "Profiles & Device Management" may read as a number of things depending on y
 
 ****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)****
 
-****[**Still having trouble? Check out our troubleshooting guide here**](../troubleshooting-macos.md)****
+****[**Still having trouble? Check out our troubleshooting guide here**](../../how-to-use-altstore/troubleshooting-guide.md)****
