@@ -57,4 +57,4 @@ Your Apple ID and password are sent **only** to Apple — not us or anyone else.
 
 ****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)****
 
-****[**Still having trouble? Check out our troubleshooting guide here**](../how-to-use-altstore/troubleshooting-guide.md)****
+****[**Still having trouble? Check out our troubleshooting guide here**](troubleshooting-guide.md)****

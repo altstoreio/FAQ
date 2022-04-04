@@ -4,7 +4,7 @@ AltServer is a companion application for your computer that allows you to sidelo
 
 AltServer is also where you will need to install AltStore the first time, and it's where you can re-install AltStore if you delete it off your device or if the license expires.&#x20;
 
-If you have trouble using AltServer, here is our [troubleshooting guide](troubleshooting-guide.md)
+If you have trouble using AltServer, here is our [troubleshooting guide](../getting-started/troubleshooting-guide.md)
 
 
 

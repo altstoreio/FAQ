@@ -1,6 +1,6 @@
 # 🛍 Your AltStore
 
-This guide focuses on the public version of AltStore. Features that are still in-development (such as adding 3rd party Sources to your AltStore) are available in beta for [our Patrons](https://www.patreon.com/rileyshane), and you can read about them [here](beta-features.md).
+This guide focuses on the public version of AltStore. Features that are still in-development (such as adding 3rd party Sources to your AltStore) are available in beta for [our Patrons](https://www.patreon.com/rileyshane), and you can read about them [here](../patreon/beta-features/).
 
 ## News
 
@@ -24,7 +24,7 @@ The "My Apps" tab is where you can see all the apps you have sideloaded with Alt
 
 Apps installed with AltStore expire after 7 days, at which point they can no longer be opened. AltStore will attempt to "refresh" your sideloaded apps in the background to prevent this from happening, but you can also manually refresh your apps at any point by pressing the "Refresh All" button.
 
-Due to restrictions by Apple, you can only have 3 sideloaded apps installed on a device at a time. To work around this, AltStore allows you to "deactivate" sideloaded apps, which backs up their data and removes them from your device to free up a slot for another app. You can then "activate" the app again later to re-install it and restore its data. For more information about activating and deactivating apps, please read the [App Activations page](features/app-activations.md).
+Due to restrictions by Apple, you can only have 3 sideloaded apps installed on a device at a time. To work around this, AltStore allows you to "deactivate" sideloaded apps, which backs up their data and removes them from your device to free up a slot for another app. You can then "activate" the app again later to re-install it and restore its data. For more information about activating and deactivating apps, please read the [App Activations page](app-activations.md).
 
 ## Settings
 
