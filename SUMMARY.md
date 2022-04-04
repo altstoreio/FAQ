@@ -22,6 +22,7 @@
   * [🏎 AltJIT](how-to-use-altstore/features/altjit.md)
   * [🆔 AppIDs](how-to-use-altstore/features/appids.md)
   * [⚡ App Activations](how-to-use-altstore/features/app-activations.md)
+* [🙋 Troubleshooting Guide](how-to-use-altstore/troubleshooting-guide.md)
 * [📺 YouTube](how-to-use-altstore/youtube.md)
 
 ## App Sources
