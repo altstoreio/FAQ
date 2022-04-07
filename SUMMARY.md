@@ -16,11 +16,6 @@
 * [🆔 AppIDs](how-to-use-altstore/appids.md)
 * [⚡ App Activations](how-to-use-altstore/app-activations.md)
 
-## App Sources
-
-* [📄 Recommended Sources](app-sources/recommended-sources.md)
-* [📂 Make Your Own Source](app-sources/make-your-own-source.md)
-
 ## Patreon
 
 * [🛠 Beta Features](patreon/beta-features/README.md)
