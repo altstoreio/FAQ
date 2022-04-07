@@ -10,8 +10,6 @@ Please note that the official website for AltStore is [altstore.io](https://alts
 
 ## [Using AltStore](how-to-use-altstore/your-altstore.md)
 
-## [App Sources](broken-reference)
-
 ## [Patreon](broken-reference)
 
 ## [More](more/press.md)
