@@ -11,7 +11,7 @@ description: >-
 2. Copy `AltServer.app` to your `Applications`folder.
 3. Launch AltServer, which will appear as an icon in the menu bar.
 
-{% embed url="https://www.youtube.com/clip/UgkxqhjUT0tqALek9ieqnD6sjyEKoY944noF" %}
+{% embed url="https://youtube.com/clip/Ugkxn_M11jWOZH0F7sZSrPD-DsokfUiiDc_m" %}
 
 4\. Connect your iOS device to your computer and make sure it is unlocked. Trust your device with your computer if needed.
 
@@ -45,7 +45,7 @@ Open Finder, then enable “Show this iPhone/iPad when on WiFi” for your devic
 Your Apple ID and password are sent **only** to Apple — not us or anyone else.
 {% endhint %}
 
-{% embed url="https://www.youtube.com/clip/Ugkxiw3iqUciHywYD6lE9nxAtqzMp512580e" %}
+{% embed url="https://youtube.com/clip/UgkxROxdCFzoG49W51lxAPaNZO6gV6nUIeev" %}
 
 9\. Wait a few seconds, then an AltServer notification should appear on your Mac saying AltStore has been successfully installed onto your device.
 

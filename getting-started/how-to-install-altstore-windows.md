@@ -20,12 +20,9 @@ description: >-
 
 1. ****[Download AltServer for Windows](https://cdn.altstore.io/file/altstore/altinstaller.zip).
 2. Extract `AltInstaller.zip` and run `Setup.exe`&#x20;
+3. 3\. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar.
 
-{% embed url="https://youtube.com/clip/UgkxzmJbczj_oQ29Mt_LtaAf_OGa2NzoFsdX" %}
-
-3\. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar.
-
-{% embed url="https://youtube.com/clip/Ugkxi40a5EN8Ef7mx4ERMm6t0kkqD8U2IIRm" %}
+{% embed url="https://youtube.com/clip/UgkxROxdCFzoG49W51lxAPaNZO6gV6nUIeev" %}
 
 4\. Connect your iOS device to your computer and make sure it is unlocked. Trust your device with your computer if needed.
 
@@ -35,7 +32,7 @@ description: >-
 
 6\. Click the AltServer icon in the bottom right tool bar. Then go to “Install AltStore” and choose your iOS device.
 
-{% embed url="https://youtube.com/clip/Ugkxi40a5EN8Ef7mx4ERMm6t0kkqD8U2IIRm" %}
+{% embed url="https://youtube.com/clip/UgkxPQXL6XH_5S9YOamCK1JsB0IuzUr9hOwc" %}
 
 7\. Enter your Apple ID email address and password. This will allow AltServer to authenticate with Apple and configure your account to support sideloading apps.
 
