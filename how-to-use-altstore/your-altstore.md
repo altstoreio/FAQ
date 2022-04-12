@@ -12,7 +12,7 @@ The "News" tab is where you can view all news updates from us, including major a
 
 The "Browse" tab is where you can find apps available for you to sideload.
 
-&#x20;                                                ![](<../.gitbook/assets/image (4).png>)
+&#x20;                                                ![](../.gitbook/assets/IMG\_3973.jpeg)
 
 Tap an app to view its AltStore page, including the app description and any screenshots, then tap `FREE` to install it.
 
