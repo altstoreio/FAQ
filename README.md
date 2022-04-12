@@ -1,8 +1,6 @@
 # 📘 AltStore Wiki
 
-Welcome to AltStore! The following guide is meant to help you install AltStore and get you started sideloading apps!
-
-Please note that the official website for AltStore is [altstore.io](https://altstore.io) and the open source repository for AltStore can be found [here.](https://github.com/rileytestut/AltStore)
+Welcome to AltStore! This guide will show you how install AltStore and get started sideloading apps.
 
 ## [Getting Started (macOS)](broken-reference)
 
