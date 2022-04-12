@@ -20,7 +20,7 @@ description: >-
 
 1. ****[Download AltServer for Windows](https://cdn.altstore.io/file/altstore/altinstaller.zip).
 2. Extract `AltInstaller.zip` and run `Setup.exe`&#x20;
-3. 3\. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar.
+3. Go to search in your Windows task bar, then type in "AltServer" and click "run as administrator." AltStore will appear as an icon in the toolbar.
 
 {% embed url="https://youtube.com/clip/UgkxROxdCFzoG49W51lxAPaNZO6gV6nUIeev" %}
 
