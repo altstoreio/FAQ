@@ -1,10 +1,10 @@
 # 🖥 AltServer
 
-AltServer is a companion application for your computer that allows you to sideload apps with AltStore. AltServer also enables you to refresh your apps so that they continue to run normally without interruption as long as your device is connected to AltServer. For this reason, we recommend having AltStore launch at startup so that it can continually run in the background to keep your apps working.
+AltServer is a companion application for your computer that allows AltStore to sideload apps onto your device. As long as AltStore is on the same WiFi network as a computer running AltServer — or is plugged-in directly to the computer via USB — AltStore can sideload, refresh, activate, and deactivate apps. AltServer is also used to install AltStore in the first place, and if your AltStore expires you can manually refresh it by re-installing AltStore with AltServer **without** deleting AltStore first.
 
-AltServer is also where you will need to install AltStore the first time, and it's where you can re-install AltStore if you delete it off your device or if the license expires.&#x20;
+AltStore will try to automatically refresh your apps throughout the week, so we recommend launching AltServer at computer startup and leaving it running in the background to ensure AltStore can do its job.
 
-If you have trouble using AltServer, here is our [troubleshooting guide](../getting-started/troubleshooting-guide.md)
+If you have trouble using AltServer, please check our [troubleshooting guide](../getting-started/troubleshooting-guide.md).
 
 
 
