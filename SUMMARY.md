@@ -13,7 +13,7 @@
 
 * [🛍 Your AltStore](how-to-use-altstore/your-altstore.md)
 * [🖥 AltServer](how-to-use-altstore/altserver.md)
-* [🆔 AppIDs](how-to-use-altstore/appids.md)
+* [🆔 App IDs](how-to-use-altstore/app-ids.md)
 * [⚡ App Activations](how-to-use-altstore/app-activations.md)
 
 ## Patreon
