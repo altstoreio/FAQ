@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page includes steps you can take if you are having problems or questions
-  about part of using AltStore
+  Having problems with AltStore or AltServer? Try some of these troubleshooting
+  tips!
 ---
 
 # 🙋 Troubleshooting Guide
