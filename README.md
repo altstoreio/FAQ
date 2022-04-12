@@ -2,6 +2,8 @@
 
 Welcome to AltStore! This guide will show you how install AltStore and get started sideloading apps.
 
+[Return to Homepage](https://altstore.io)
+
 ## [Getting Started (macOS)](broken-reference)
 
 ## [Getting Started (Windows)](getting-started/how-to-install-altstore-windows.md)
