@@ -1,3 +1,3 @@
 # 🧸 Friend Zone
 
-"Friend Zone" tier patrons will have their name featured in the credits of the AltStore app, which you can find under "join the beta" in the Settings tab
+Patrons belonging to the "Friend Zone" tier will have their name displayed in the AltStore app. You can view the list of all Friend Zone Patrons by tapping "Join the beta" in the Settings tab.
