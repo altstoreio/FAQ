@@ -1,6 +1,8 @@
 # 🛠 Beta Features
 
-This section details our current beta features. These features are currently in development, and are available only from the [Patreon](https://www.patreon.com/rileytestut).
+These features are currently in development, and are only available to [our Patrons](https://patreon.com/rileyshane).
+
+Once a beta feature is finished, it will become available to everyone for free.
 
 {% content-ref url="sources.md" %}
 [sources.md](sources.md)
