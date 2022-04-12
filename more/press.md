@@ -1,5 +1,5 @@
 ---
-description: Here are a few of our favorite published articles that reference AltStore
+description: Here are a few of our favorite published articles that feature AltStore.
 ---
 
 # 📰 Press
@@ -10,7 +10,7 @@ description: Here are a few of our favorite published articles that reference Al
 
 {% embed url="https://www.fastcompany.com/90718755/apple-iphone-app-sideloading-law" %}
 
-{% embed url="https://9to5mac.com/2019/09/25/altstore-is-an-ios-app-store-alternative-that-doesnt-require-a-jailbreak-heres-how-to-use-it" %}
+{% embed url="https://www.cnbc.com/2020/09/01/how-to-get-iphone-software-without-using-apples-app-store.html" %}
 
-{% embed url="https://9to5mac.com/2020/11/06/ios-14-2-brings-jit-compilation-support-which-enables-emulation-apps-at-full-performance" %}
+{% embed url="https://9to5mac.com/2019/09/25/altstore-is-an-ios-app-store-alternative-that-doesnt-require-a-jailbreak-heres-how-to-use-it" %}
 

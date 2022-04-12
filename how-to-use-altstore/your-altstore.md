@@ -12,9 +12,9 @@ The "News" tab is where you can view all news updates from us, including major a
 
 The "Browse" tab is where you can find apps available for you to sideload.
 
-&#x20;                                                ![](../.gitbook/assets/IMG\_3973.jpeg)
-
 Tap an app to view its AltStore page, including the app description and any screenshots, then tap `FREE` to install it.
+
+&#x20;                                                ![](../.gitbook/assets/IMG\_3973.jpeg)
 
 ## My Apps
 
@@ -24,7 +24,7 @@ The "My Apps" tab is where you can see all the apps you have sideloaded with Alt
 
 Apps installed with AltStore expire after 7 days, at which point they can no longer be opened. AltStore will attempt to "refresh" your sideloaded apps in the background to prevent this from happening, but you can also manually refresh your apps at any point by pressing the "Refresh All" button.
 
-Due to restrictions by Apple, you can only have 3 sideloaded apps installed on a device at a time. To work around this, AltStore allows you to "deactivate" sideloaded apps, which backs up their data and removes them from your device to free up a slot for another app. You can then "activate" the app again later to re-install it and restore its data. For more information about activating and deactivating apps, please read the [App Activations page](app-activations.md).
+Due to restrictions by Apple, you can only have 3 sideloaded apps installed on a device at a time. To work around this, AltStore allows you to "deactivate" sideloaded apps, which backs up their data and removes them from your device to free up a slot for another app. You can then "activate" the app again later to re-install it and restore its data. For more information about activating and deactivating apps, please read the [Activating Apps](activating-apps.md) page.
 
 ## Settings
 
