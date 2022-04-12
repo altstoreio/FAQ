@@ -36,7 +36,7 @@ Open Finder, then enable “Show this iPhone/iPad when on WiFi” for your devic
 7\. Click the AltServer icon in the Mac menu bar, go to “Install AltStore”, then choose your device.
 
 {% hint style="info" %}
-&#x20;**** [**For "Install Mail Plug-in..." notification, follow the instructions on next page.**](enable-mail-plug-in.md)****
+&#x20;**** [**If you see an "Install Mail Plug-in..." alert, follow the instructions on next page.**](enable-mail-plug-in.md)****
 {% endhint %}
 
 8\. Enter your Apple ID email address and password. This will allow AltServer to authenticate with Apple and configure your account to support sideloading apps.
