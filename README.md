@@ -1,6 +1,6 @@
 # 📘 AltStore Wiki
 
-Welcome to AltStore! This guide will show you how install AltStore and get started sideloading apps.
+Welcome to AltStore! This guide will show you how install AltStore onto your iPhone or iPad and get started sideloading apps.
 
 [Return to Homepage](https://altstore.io)
 
