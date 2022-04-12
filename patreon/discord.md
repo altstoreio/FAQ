@@ -1,5 +1,5 @@
 # 🗣 Discord
 
-Discord is where you can talk to the AltStore team directly and involved community members. We have support text channels if you have questions about using AltStore or if you're a developer who wants to put their app on the platform! If you are a Community Member Patron, you can join the discord here:&#x20;
+The official AltStore Discord is where you can interact with the AltStore team and others involved with the community. We have dedicated support channels where you can receive active support from either us or our community helpers, as well as development channels where you can follow our progress and provide feedback.
 
 &#x20;                                        ![](<../.gitbook/assets/Screen Shot 2022-03-16 at 3.26.25 PM.png>)
