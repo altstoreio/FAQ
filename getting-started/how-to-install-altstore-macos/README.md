@@ -62,7 +62,7 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 ![Image courtesy of @LouisAnslow](<../../.gitbook/assets/1-CwxM2iiAN0kLSWGuRQcCHQ-2 (dragged).jpg>)
 
 {% hint style="info" %}
-The "Profiles & Device Management" may read as a number of things depending on your version, but you can always find the section near the bottom of Settings -> General.
+"Profiles & Device Management" may read as a number of things depending on your version, but you can always find it near the bottom of Settings -> General.
 {% endhint %}
 
 **You are now ready to sideload apps using AltStore!**
