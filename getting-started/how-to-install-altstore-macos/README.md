@@ -7,7 +7,7 @@ description: >-
 
 # 🍎 How to Install AltStore (macOS)
 
-1. [Download AltServer for macOS](https://cdn.altstore.io/file/altstore/altserver.zip).
+1. Download AltServer for macOS from [altstore.io](https://altstore.io).&#x20;
 2. Copy `AltServer.app` to your `/Applications` folder.
 3. Launch AltServer, which will appear as an icon in the menu bar.
 
@@ -33,7 +33,7 @@ Open Finder, then enable “Show this iPhone/iPad when on WiFi” for your devic
 
 ![](../../.gitbook/assets/878b40c6-6ef3-4f18-858e-7fa266818163.jpeg)
 
-7\. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then choose your device.
+7\. Click the AltServer icon in the Mac menu bar, go to “Install AltStore”, then choose your device.
 
 {% hint style="info" %}
 &#x20;**** [**For "Install Mail Plug-in..." notification, follow the instructions on next page.**](enable-mail-plug-in.md)****
@@ -62,11 +62,11 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 ![Image courtesy of @LouisAnslow](<../../.gitbook/assets/1-CwxM2iiAN0kLSWGuRQcCHQ-2 (dragged).jpg>)
 
 {% hint style="info" %}
-The "Profiles & Device Management" may read as a number of things depending on your version, but you can always find the section near the bottom of your General settings tab.&#x20;
+The "Profiles & Device Management" may read as a number of things depending on your version, but you can always find the section near the bottom of Settings -> General.
 {% endhint %}
 
 **You are now ready to sideload apps using AltStore!**
 
-****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)****
+****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)**.**
 
-****[**Still having trouble? Check out our troubleshooting guide here**](../troubleshooting-guide.md)****
+****[**Still having trouble? Check out our troubleshooting guide here**](../troubleshooting-guide.md)**.**
