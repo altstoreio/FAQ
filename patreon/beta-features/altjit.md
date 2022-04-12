@@ -8,4 +8,4 @@ To use AltJIT, open the "My Apps" tab then long-press the app you want to use JI
 Once enabled, an app can continue using JIT until it is force-quit from the app switcher or purged from memory while suspended in the background.
 {% endhint %}
 
-If you're experiencing issues getting AltJIT to work, make sure to check our troubleshooting guide for [macOS](broken-reference) or [Windows](broken-reference).
+If you're experiencing issues getting AltJIT to work, be sure to check out our [troubleshooting guide](../../getting-started/troubleshooting-guide.md).
