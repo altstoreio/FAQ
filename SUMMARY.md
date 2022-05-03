@@ -15,12 +15,16 @@
 * [🖥 AltServer](how-to-use-altstore/altserver.md)
 * [🆔 App IDs](how-to-use-altstore/app-ids.md)
 * [⚡ Activating Apps](how-to-use-altstore/activating-apps.md)
+* [🏎 AltJIT](how-to-use-altstore/altjit.md)
+
+## Release Notes
+
+* [🖥 AltServer](release-notes/altserver.md)
 
 ## Patreon
 
 * [🛠 Beta Features](patreon/beta-features/README.md)
   * [🔗 Sources](patreon/beta-features/sources.md)
-  * [🏎 AltJIT](patreon/beta-features/altjit.md)
 * [🗣 Discord](patreon/discord.md)
 * [🧸 Friend Zone](patreon/patron-credits-page.md)
 
