@@ -17,7 +17,7 @@
 **Direct .ipa Sideloading**
 
 * Sideload apps (.ipa's) directly to iOS devices without installing AltStore first
-* Hold Option (macOS) or Start (Windows) when clicking the AltServer icon to reveal new "Sideload .ipa…" menu option
+* Hold Option (macOS) or Shift (Windows) when clicking the AltServer icon to reveal new "Sideload .ipa…" menu option
 * Supports iPhones and iPads running iOS 9.3 or later
 * Supports Apple TVs running tvOS 9.3 or later **(macOS)**
   * For now, Apple TVs must be manually paired with Xcode first
