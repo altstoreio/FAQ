@@ -19,6 +19,7 @@
 
 ## Release Notes
 
+* [🛍 AltStore](release-notes/altstore.md)
 * [🖥 AltServer](release-notes/altserver.md)
 
 ## Patreon
