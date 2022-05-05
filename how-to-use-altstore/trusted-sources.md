@@ -8,8 +8,8 @@ Trusted Sources are sources that have been reviewed to make sure they meet our s
 
 **Apps:**
 
-1. [DolphiniOS](https://dolphinios.oatmealdome.me) - An emulator for Nintendo Gamecube
-2. [DolphiniOS (beta)](https://dolphinios.oatmealdome.me/beta) - An emulator for Nintendo Gamecube with beta features
+* [DolphiniOS](https://dolphinios.oatmealdome.me)&#x20;
+* [DolphiniOS (beta)](https://dolphinios.oatmealdome.me/beta)&#x20;
 
 #### <mark style="color:purple;">UTM Repository</mark>
 
@@ -17,7 +17,7 @@ Trusted Sources are sources that have been reviewed to make sure they meet our s
 
 **Apps:**
 
-1. [UTM](https://getutm.app) - An app for running other operating systems on your iPhone or iPad
+* [UTM](https://getutm.app)&#x20;
 
 #### <mark style="color:purple;">Flyinghead</mark> <a href="#mark-stylecolorpurpleflyingheads-sourcemark" id="mark-stylecolorpurpleflyingheads-sourcemark"></a>
 
@@ -25,4 +25,4 @@ Trusted Sources are sources that have been reviewed to make sure they meet our s
 
 **Apps:**
 
-1. [Flycast](https://utip.io/flyinghead) - An emulator for SEGA Dreamcast
+* [Flycast](https://utip.io/flyinghead)&#x20;
