@@ -16,6 +16,7 @@
 * [🆔 App IDs](how-to-use-altstore/app-ids.md)
 * [⚡ Activating Apps](how-to-use-altstore/activating-apps.md)
 * [🏎 AltJIT](how-to-use-altstore/altjit.md)
+* [☑ Trusted Sources](how-to-use-altstore/trusted-sources.md)
 
 ## Release Notes
 
