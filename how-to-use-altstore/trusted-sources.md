@@ -1,6 +1,6 @@
 # ☑ Trusted Sources
 
-Trusted Sources have been reviewed to make sure they meet our safety standards. Support for untrusted sources is currently in [beta](broken-reference)
+Trusted Sources have been reviewed to make sure they meet our safety standards. Support for untrusted sources is currently in [beta](../patreon/beta-features/sources.md)
 
 #### <mark style="color:purple;">OatmealDome’s AltStore Source</mark> <a href="#mark-stylecolorpurpleoatmealdomes-sourcemark" id="mark-stylecolorpurpleoatmealdomes-sourcemark"></a>
 
