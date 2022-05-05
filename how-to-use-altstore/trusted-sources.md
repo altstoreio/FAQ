@@ -9,7 +9,7 @@ Trusted Sources are sources that have been reviewed to make sure they meet our s
 **Apps:**
 
 1. [DolphiniOS](https://dolphinios.oatmealdome.me) - An emulator for Nintendo Gamecube
-2. [DolphiniOS (beta)](https://dolphinios.oatmealdome.me/beta) - An emulator for Nintendo Gamecube w/beta features
+2. [DolphiniOS (beta)](https://dolphinios.oatmealdome.me/beta) - An emulator for Nintendo Gamecube with beta features
 
 #### <mark style="color:purple;">UTM Repository</mark>
 
