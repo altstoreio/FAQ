@@ -6,7 +6,7 @@
 
 ### **New**
 
-**AltJIT**
+#### AltJIT
 
 * Allows sideloaded apps to use Just-in-Time (JIT) compilation
 * Go to "Enable JIT" > \[Your Device] from the AltServer menu, then choose a sideloaded app
@@ -14,7 +14,7 @@
 * JIT will remain enabled until the app is quit from the app switcher or purged from memory in the background
 * Requires iOS 14 or later
 
-**Direct .ipa Sideloading**
+#### Direct .ipa Sideloading
 
 * Sideload apps (.ipa's) directly to iOS devices without installing AltStore first
 * Hold Option (macOS) or Shift (Windows) when clicking the AltServer icon to reveal new "Sideload .ipa…" menu option
@@ -24,12 +24,12 @@
 * Apps sideloaded with AltServer must be manually re-installed every 7 days
   * Install AltStore to automatically refresh your sideloaded apps in the background
 
-**Multiple Device Support**
+#### Multiple Device Support
 
 * Install AltStore onto multiple iOS devices using the same Apple ID
 * You must use the same computer to install AltStore each time
 
-**Mail Plug-in Improvements (macOS)**
+#### Mail Plug-in Improvements (macOS)
 
 * AltPlugin can now be updated independently from AltServer&#x20;
 * AltPlugin is no longer required if both System Integrity Protection (SIP) and Apple Mobile File Integrity (AMFI) are disabled

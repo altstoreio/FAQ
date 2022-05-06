@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">AltStore 1.5</mark>&#x20;
 
-<mark style="color:green;">**May 6th, 2022**</mark>
+<mark style="color:green;">**May 5th, 2022**</mark>
 
 ### New
 
