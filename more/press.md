@@ -4,6 +4,10 @@ description: Here are a few of our favorite published articles that feature AltS
 
 # 📰 Press
 
+{% embed url="https://www.fastcompany.com/90749170/altstore-riley-testut-iphone-sideloading-app-store" %}
+
+{% embed url="https://appleinsider.com/articles/22/05/06/altstore-allows-limited-sideloading-of-iphone-apps-apple-doesnt-approve" %}
+
 {% embed url="https://www.inputmag.com/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it" %}
 
 {% embed url="https://www.theverge.com/2019/9/25/20884363/altstore-riley-testut-delta-nintendo-emulator-ios-app-store-alternative-jailbreak" %}
