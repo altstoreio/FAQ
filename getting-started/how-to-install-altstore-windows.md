@@ -27,7 +27,7 @@ Windows 32-bit and 64-bit: [https://updates.cdn-apple.com/2020/windows/001-39935
 
 ## **Installing AltStore:**
 
-1. Download AltServer for Windows from [altstore.io](https://altstore.io).
+1. Download AltServer for Windows from [altstore.io](https://altstore.io/).
 2. Extract `AltInstaller.zip` and run `Setup.exe`.
 3. Go to search in your Windows task bar, then type in "AltServer" and click "Run as administrator." AltStore will appear as an icon in the taskbar.
 

@@ -1,8 +1,6 @@
----
-description: Here are a few of our favorite published articles that feature AltStore.
----
-
 # 📰 Press
+
+Here are a few of our favorite published articles that feature AltStore! To contact us for media inquiries, please email [press@altstore.io](mailto:press@altstore.io).
 
 {% embed url="https://www.fastcompany.com/90749170/altstore-riley-testut-iphone-sideloading-app-store" %}
 

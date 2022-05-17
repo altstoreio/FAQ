@@ -30,7 +30,8 @@
 * [🗣 Discord](patreon/discord.md)
 * [🧸 Friend Zone](patreon/patron-credits-page.md)
 
-## More
+## About Us
 
-* [📺 YouTube Tutorials](more/youtube-tutorials.md)
-* [📰 Press](more/press.md)
+* [👨👩👧👦 Team](about-us/team.md)
+* [📰 Press](about-us/press.md)
+* [📺 Videos](about-us/videos.md)

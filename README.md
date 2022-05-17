@@ -10,7 +10,9 @@ Welcome to AltStore! This guide will show you how install AltStore onto your iPh
 
 ## [Using AltStore](how-to-use-altstore/your-altstore.md)
 
+## [Release Notes](broken-reference)
+
 ## [Patreon](broken-reference)
 
-## [More](more/press.md)
+## [About Us](broken-reference)
 

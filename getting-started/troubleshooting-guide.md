@@ -62,3 +62,7 @@ This could happen for a number of reasons. If you’re experiencing this issue, 
 * (Windows) Did you install iTunes or iCloud from the Microsoft Store? If so, you’ll need to uninstall them and download the latest versions directly from Apple.
 * You may need to make sure iTunes and iCloud are running on your computer as well.
 * Finally, try plugging your iPhone or iPad into your computer. This should fix all connectivity problems, but does mean AltStore may not be able to automatically refresh apps for you in the background over WiFi.
+
+{% hint style="info" %}
+If you can't find the answer to your question here, you can email [support@altstore.io](mailto:support@altstore.io) and we will try to get back to you as soon as we can.&#x20;
+{% endhint %}

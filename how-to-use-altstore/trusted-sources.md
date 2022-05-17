@@ -17,7 +17,7 @@ Trusted Sources are sources that have been reviewed to make sure they meet our s
 
 **Apps:**
 
-* [UTM](https://getutm.app)&#x20;
+* [UTM](https://getutm.app/)&#x20;
 
 #### <mark style="color:purple;">Flyinghead</mark> <a href="#mark-stylecolorpurpleflyingheads-sourcemark" id="mark-stylecolorpurpleflyingheads-sourcemark"></a>
 
