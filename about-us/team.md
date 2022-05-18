@@ -14,7 +14,7 @@ Twitter: [@rileytestut ](https://twitter.com/rileytestut)
 
 ### Shane Gill - Operations
 
-Website: [shanegill.io](https://https/shanegill.io)
+Website: [shanegill.io](https://shanegill.io)
 
 Email: [shane@shanegill.io](mailto:shane@shanegill.io)
 
