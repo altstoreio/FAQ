@@ -6,11 +6,13 @@ AltJIT allows apps sideloaded with AltStore to enable just-in-time compilation, 
 
 #### **AltStore**
 
-Open the "My Apps" tab then long-press the app you want to use JIT. Press "Enable JIT" to launch the app, and within a few seconds you should see an AltStore notification saying JIT has been enabled. The app can now use any JIT-related features without crashing.
+1. Open the "My Apps" tab then long-press the app you want to use JIT.&#x20;
+2. Press "Enable JIT" to launch the app, and within a few seconds you should see an AltStore notification saying JIT has been enabled.&#x20;
 
 #### **AltServer**
 
-First make sure that the app you want to use JIT with is running in the foreground of your device. Then, go to “Enable JIT” > \[Your Device], then choose an app you want to use with JIT.&#x20;
+1. First, make sure that the app you want to use JIT with is running in the foreground of your device.&#x20;
+2. Go to “Enable JIT” > \[Your Device], then choose an app you want to use with JIT.&#x20;
 
 {% hint style="info" %}
 Once enabled, an app can continue using JIT until it is force-quit from the app switcher or purged from memory while suspended in the background.
