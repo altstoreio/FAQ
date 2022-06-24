@@ -37,7 +37,7 @@ Windows 32-bit and 64-bit: [https://updates.cdn-apple.com/2020/windows/001-39935
 
 5\. Open iTunes, then enable "Wi-Fi sync" on your device.
 
-![](<../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59 (1).webp>)
+![](../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
 
 6\. Click the AltServer icon in the bottom right taskbar. Then go to “Install AltStore” and choose your iOS device.
 

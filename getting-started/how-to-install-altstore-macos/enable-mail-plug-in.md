@@ -9,7 +9,7 @@
 
 4\. Open Mail > Preferences and click “Manage Plug-ins...”
 
-![](<../../.gitbook/assets/Mail Plug-In (1).png>)
+![](<../../.gitbook/assets/Mail Plug-In.png>)
 
 5\. Enable `AltPlugin.mailbundle`.
 

@@ -23,7 +23,7 @@ description: >-
 Open iTunes, then enable “Sync with this iPhone/iPad over Wi-Fi” for your device.
 {% endhint %}
 
-![](../../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
+![](<../../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59 (1).webp>)
 
 {% hint style="info" %}
 **(macOS 10.15 Catalina or Later)**
