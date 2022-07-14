@@ -1,5 +1,18 @@
 # 🖥 AltServer
 
+## <mark style="color:blue;">AltServer 1.5.1</mark>
+
+<mark style="color:blue;">**July 14, 2022**</mark>
+
+* Fixed signing in with Apple IDs that contain capital letters
+* Fixed signing in with Apple IDs that have 2FA enabled but don’t have any registered trusted devices
+* Fixed incorrect “Developer Disk incompatible with \[iOS Version]” error when enabling AltJIT
+* Fixed installing Mail plug-in after uninstalling it **(macOS)**
+* Fixed memory leak when refreshing apps over WiFi **(macOS)**
+* Fixed an issue causing wired connections to occasionally stall **(macOS)**
+* Fixed an issue causing indefinite high CPU usage after enabling AltJIT **(Windows)**
+* Fixed an issue causing indefinite high CPU usage after updating AltStore **(Windows)**
+
 ## <mark style="color:blue;">AltServer 1.5</mark>
 
 <mark style="color:blue;">**May 3, 2022**</mark>
