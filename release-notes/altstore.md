@@ -1,8 +1,19 @@
 # 🛍 AltStore
 
+## <mark style="color:green;">AltStore 1.5.1</mark>
+
+<mark style="color:green;">**July 14, 2022**</mark>
+
+* Fixed signing in with Apple IDs that contain capital letters
+* Fixed signing in with Apple IDs that have 2FA enabled but don’t have any registered trusted devices
+* Fixed repeatedly asking some users to sign in every time they refresh their apps
+* Fixed “Application is missing application-identifier” error when sideloading or (de-)activating certain apps
+* Fixed “Incorrect Apple ID or password” error after changing an Apple ID’s primary email address
+* Fixed crash when receiving unknown error codes from AltServer
+
 ## <mark style="color:green;">AltStore 1.5</mark>&#x20;
 
-<mark style="color:green;">**May 6th, 2022**</mark>
+<mark style="color:green;">**May 6, 2022**</mark>
 
 ### New
 
