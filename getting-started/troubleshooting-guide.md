@@ -63,6 +63,17 @@ This could happen for a number of reasons. If you’re experiencing this issue, 
 * You may need to make sure iTunes and iCloud are running on your computer as well.
 * Finally, try plugging your iPhone or iPad into your computer. This should fix all connectivity problems, but does mean AltStore may not be able to automatically refresh apps for you in the background over WiFi.
 
+
+
+### Common Error Codes
+
+<mark style="color:purple;">**(1100) Your session has expired. Please log in.**</mark>
+
+1. Make sure iTunes is closed.&#x20;
+2. Go to Program Data -> Apple Computer -> iTunes -> ADI -> delete the files&#x20;
+3. Start Itunes&#x20;
+4. Retry Installing AltStore&#x20;
+
 {% hint style="info" %}
 If you can't find the answer to your question here, you can email [support@altstore.io](mailto:support@altstore.io) and we will try to get back to you as soon as we can.&#x20;
 {% endhint %}
