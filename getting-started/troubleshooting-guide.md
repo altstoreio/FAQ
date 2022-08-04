@@ -71,8 +71,8 @@ This could happen for a number of reasons. If you’re experiencing this issue, 
 
 1. Make sure iTunes is closed.&#x20;
 2. Go to Program Data -> Apple Computer -> iTunes -> ADI -> delete the files&#x20;
-3. Start Itunes&#x20;
-4. Retry Installing AltStore&#x20;
+3. Start iTunes&#x20;
+4. Retry installing AltStore&#x20;
 
 {% hint style="info" %}
 If you can't find the answer to your question here, you can email [support@altstore.io](mailto:support@altstore.io) and we will try to get back to you as soon as we can.&#x20;
