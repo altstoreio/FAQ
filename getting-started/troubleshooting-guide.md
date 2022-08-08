@@ -67,7 +67,7 @@ This could happen for a number of reasons. If you’re experiencing this issue, 
 
 ### Common Error Codes
 
-<mark style="color:purple;">**(1100) Your session has expired. Please log in.**</mark>
+<mark style="color:purple;">**1100 - Your session has expired. Please log in. (Windows Only)**</mark>
 
 1. Make sure iTunes is closed.&#x20;
 2. Go to Program Data -> Apple Computer -> iTunes -> ADI -> delete the files&#x20;
