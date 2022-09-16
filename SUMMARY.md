@@ -8,6 +8,7 @@
   * [📩 Enable Mail Plug-in](getting-started/how-to-install-altstore-macos/enable-mail-plug-in.md)
 * [🪟 How to Install AltStore (Windows)](getting-started/how-to-install-altstore-windows.md)
 * [🙋 Troubleshooting Guide](getting-started/troubleshooting-guide.md)
+* [⚠ Error Codes](getting-started/error-codes.md)
 
 ## How to Use AltStore
 
