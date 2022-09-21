@@ -1,14 +1,14 @@
 ---
 description: >-
   The AltStore beta includes features that are currently in development, and are
-  only available to those who have joined the Patreon
+  only available to those who have joined our Patreon.
 ---
 
-# 🛠 AltStore Beta
+# 🛠 Beta Access
 
 ### How do I download the beta versions of AltStore?
 
-1. Join the [Patreon](https://www.patreon.com/rileyshane)
+1. Join our [Patreon](https://www.patreon.com/rileyshane).
 2. Open the Settings tab in AltStore.
 3. Press “Link Patreon account”.
 4. Sign in with your Patreon account. After signing in, the message on the Patreon screen will now begin with “Hey \[your name]”. If a different Patreon account than the one you want to use is already logged in via Safari, you may need to sign out in Safari first.
