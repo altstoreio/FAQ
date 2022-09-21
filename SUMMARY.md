@@ -26,8 +26,8 @@
 
 ## Patreon
 
-* [🛠 AltStore Beta](patreon/beta-features/README.md)
-  * [🔗 Sources](patreon/beta-features/sources.md)
+* [🛠 AltStore Beta](patreon/altstore-beta/README.md)
+  * [🔗 Sources](patreon/altstore-beta/sources.md)
 * [🗣 Discord](patreon/discord.md)
 * [🧸 Friend Zone](patreon/patron-credits-page.md)
 

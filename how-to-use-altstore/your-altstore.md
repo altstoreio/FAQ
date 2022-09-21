@@ -1,6 +1,6 @@
 # 🛍 Your AltStore
 
-This guide focuses on the public version of AltStore. Features that are still in-development (such as adding 3rd party Sources to your AltStore) are available in beta for [our Patrons](https://www.patreon.com/rileyshane), and you can read about them [here](../patreon/beta-features/).
+This guide focuses on the public version of AltStore. Features that are still in-development (such as adding 3rd party Sources to your AltStore) are available in beta for [our Patrons](https://www.patreon.com/rileyshane), and you can read about them [here](../patreon/altstore-beta/).
 
 ## News
 
