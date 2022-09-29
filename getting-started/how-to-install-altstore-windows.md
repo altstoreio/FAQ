@@ -63,6 +63,16 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 "Profiles & Device Management" may read as a number of things depending on your version, but you can always find it near the bottom of Settings -> General.
 {% endhint %}
 
+#### Enable Developer Mode (iOS 16+)
+
+11\.  To use AltStore on iOS 16 or later, you need to enable Developer Mode on your device by going to Settings -> Privacy and Security -> Developer Mode.
+
+<figure><img src="../.gitbook/assets/FcejvMRXgAE8k3R.jpg" alt=""><figcaption><p><strong>Image Courtesy of @9to5mac</strong></p></figcaption></figure>
+
+****
+
+****
+
 **You are now ready to sideload apps using AltStore!**
 
 ****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)**.**
