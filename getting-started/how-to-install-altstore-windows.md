@@ -69,10 +69,6 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 
 <figure><img src="../.gitbook/assets/FcejvMRXgAE8k3R.jpg" alt=""><figcaption><p><strong>Image Courtesy of @9to5mac</strong></p></figcaption></figure>
 
-****
-
-****
-
 **You are now ready to sideload apps using AltStore!**
 
 ****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)**.**
