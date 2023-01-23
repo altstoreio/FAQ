@@ -20,7 +20,7 @@ Tap an app to view its AltStore page, including the app description and any scre
 
 The "My Apps" tab is where you can see all the apps you have sideloaded with AltStore.
 
-&#x20;                                               ![](<../.gitbook/assets/IMG\_3952 (1).jpeg>)&#x20;
+&#x20;                                               ![](../.gitbook/assets/IMG\_3952.jpeg)&#x20;
 
 Apps installed with AltStore expire after 7 days, at which point they can no longer be opened. AltStore will attempt to "refresh" your sideloaded apps in the background to prevent this from happening, but you can also manually refresh your apps at any point by pressing the "Refresh All" button.
 

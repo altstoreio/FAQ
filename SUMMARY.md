@@ -33,6 +33,6 @@
 
 ## About Us
 
-* [👨👩👧👦 Team](about-us/team.md)
+* [👨👩👧👦 👨👩👧👦 Team](about-us/team.md)
 * [📰 Press](about-us/press.md)
 * [📺 Videos](about-us/videos.md)
