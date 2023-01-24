@@ -294,7 +294,7 @@ This means that the developer disk being used is not compatible with the app. Tr
 
 <mark style="color:purple;">****</mark>
 
-## **Apple Errors**
+## **Apple Developer Errors**
 
 #### <mark style="color:purple;">**(3000) An unknown error occurred.**</mark>
 
@@ -436,7 +436,7 @@ Updated information coming soon.
 
 #### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">17) The identifier for the requested provisioning profile is invalid.</mark>
 
-`com.rileytestut.ALTAppleAPI`
+`AltStore.AppleDeveloperError`
 
 Updated information coming soon.
 
@@ -444,7 +444,7 @@ Updated information coming soon.
 
 #### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">18) There is no provisioning profile with the requested identifier on this team.</mark>
 
-`com.rileytestut.ALTAppleAPI`
+`AltStore.AppleDeveloperError`
 
 Updated information coming soon.
 
@@ -452,7 +452,7 @@ Updated information coming soon.
 
 #### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">19) This account requires signing in with two-factor authentication.</mark>
 
-`com.rileytestut.ALTAppleAPI`
+`AltStore.AppleDeveloperError`
 
 Updated information coming soon.
 
@@ -460,7 +460,7 @@ Updated information coming soon.
 
 #### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">20) Incorrect verification code.</mark>
 
-`com.rileytestut.ALTAppleAPI`
+`AltStore.AppleDeveloperError`
 
 Updated information coming soon.
 
@@ -468,7 +468,7 @@ Updated information coming soon.
 
 #### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">21) Failed to perform authentication handshake with server.</mark>
 
-`com.rileytestut.ALTAppleAPI`
+`AltStore.AppleDeveloperError`
 
 Updated information coming soon.
 
@@ -476,9 +476,19 @@ Updated information coming soon.
 
 #### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">22) The provided anisette data is invalid.</mark>
 
-`com.rileytestut.ALTAppleAPI`
+`AltStore.AppleDeveloperError`
 
 Updated information coming soon.
+
+
+
+## **Connection Errors**
+
+#### <mark style="color:purple;">**(-1) An unknown error occurred.**</mark>
+
+`AltStore.AppleDeveloperError`
+
+Updated information coming soon
 
 
 
