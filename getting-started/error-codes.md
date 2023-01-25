@@ -142,6 +142,32 @@ This means that AltStore's connection to AltServer on your PC/Mac was interrupte
 
 ## AltServer Errors
 
+#### <mark style="color:purple;">**(1999) Underlying Error**</mark>&#x20;
+
+`AltServer.ServerError`
+
+This means that AltServer ran into an unknown error. We recommend reaching out to our support channels if the issue persists.
+
+
+
+#### <mark style="color:purple;">**(20000) Unknown Error**</mark>&#x20;
+
+`AltServer.ServerError`
+
+This means that AltServer ran into an unknown error. We recommend reaching out to our support channels if the issue persists.
+
+
+
+#### <mark style="color:purple;">**(2000) Could not connect to AltServer. / There was an error connecting to the device.**</mark>&#x20;
+
+`AltServer.ServerError`
+
+This means that AltServer is having trouble connecting to your iOS device. Try plugging your device directly into your computer if it is not already.
+
+If you still have issues, please refer to the [Troubleshooting Guide](troubleshooting-guide.md).
+
+#### <mark style="color:purple;">****</mark>
+
 #### <mark style="color:purple;">**(2001) Could not connect to AltServer. / There was an error connecting to the device.**</mark>&#x20;
 
 `AltServer.ServerError`
@@ -484,9 +510,57 @@ Updated information coming soon.
 
 ## **Connection Errors**
 
-#### <mark style="color:purple;">**(-1) An unknown error occurred.**</mark>
+#### <mark style="color:purple;">**(0) Error Unknown.**</mark>
 
-`AltStore.AppleDeveloperError`
+`AltServer.ConnectionError`
+
+Updated information coming soon
+
+
+
+#### <mark style="color:purple;">**(1) Device Locked.**</mark>
+
+`AltServer.ConnectionError`
+
+Updated information coming soon
+
+
+
+#### <mark style="color:purple;">**(2) Invalid Request.**</mark>
+
+`AltServer.ConnectionError`
+
+Updated information coming soon
+
+
+
+#### <mark style="color:purple;">**(3) Invalid Response.**</mark>
+
+`AltServer.ConnectionError`
+
+Updated information coming soon
+
+
+
+#### <mark style="color:purple;">**(4) Usbmuxd.**</mark>
+
+`AltServer.ConnectionError`
+
+Updated information coming soon
+
+
+
+#### <mark style="color:purple;">**(5) SSL Error.**</mark>
+
+`AltServer.ConnectionError`
+
+Updated information coming soon
+
+
+
+#### <mark style="color:purple;">**(6) Timed Out.**</mark>
+
+`AltServer.ConnectionError`
 
 Updated information coming soon
 
