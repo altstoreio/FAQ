@@ -10,19 +10,19 @@ description: >-
 
 ## AltStore Errors
 
+<mark style="color:purple;">****</mark>
+
 #### <mark style="color:purple;">**(1000) An unknown error occurred.**</mark>&#x20;
 
 `AltStore.OperationError`
 
-This means that AltStore...
+This means that AltStore ran into an unexpected error. Please check our [Troubleshooting Guide](troubleshooting-guide.md), and you can reach out to us directly if the issue persists.
 
 #### <mark style="color:purple;">****</mark>
 
 #### <mark style="color:purple;">**(1001) The operation returned an unknown result.**</mark>&#x20;
 
-`AltStore.OperationError`
-
-This means that AltStore...
+This means that AltStore ran into an unexpected error. Please check our [Troubleshooting Guide](troubleshooting-guide.md), and you can reach out to us directly if the issue persists.
 
 
 
@@ -30,7 +30,7 @@ This means that AltStore...
 
 `AltStore.OperationError`
 
-This means that AltStore could not complete the requested action because it was stopped by the user.
+This means that the performed action was stopped. Please try again.
 
 
 
@@ -38,7 +38,7 @@ This means that AltStore could not complete the requested action because it was 
 
 `AltStore.OperationError`
 
-This means that AltStore...
+This means that AltStore ran into problems trying to complete the requested action. Please try again and check our [Troubleshooting Guide](troubleshooting-guide.md) for additional help. You can reach out to us directly if the issue persists.
 
 
 
@@ -50,7 +50,15 @@ This means that you must enter your Apple ID information in the settings tab to 
 
 
 
-#### <mark style="color:purple;">**(1005)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">AltStore could not determine this device's UDID.</mark>
+#### <mark style="color:purple;">**(1005) The app**</mark>**  **<mark style="color:purple;">**could not be found.**</mark>
+
+`AltStore.OperationError`
+
+This means that AltStore could not locate the app on your device and you may need to reinstall.
+
+
+
+#### <mark style="color:purple;">**(1006) AltStore could not determine this device's UDID.**</mark>
 
 `AltStore.OperationError`
 
@@ -58,7 +66,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1006) This app is in an invalid format**</mark><mark style="color:purple;">.</mark>
+#### <mark style="color:purple;">**(1007) This app is in an invalid format**</mark><mark style="color:purple;">.</mark>
 
 `AltStore.OperationError`
 
@@ -66,7 +74,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1007) Invalid parameters**</mark><mark style="color:purple;">.</mark>
+#### <mark style="color:purple;">**(1008) Invalid parameters**</mark><mark style="color:purple;">.</mark>
 
 `AltStore.OperationError`
 
@@ -74,7 +82,15 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1008)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">You cannot register more than 10 App IDs within a 7 day period.</mark>
+#### <mark style="color:purple;">**(1009) You cannot register more than 10 App IDs within a 7 day period**</mark>.
+
+`AltStore.OperationError`
+
+This means that you have reached the maximum amount of App IDs available. Please check the App IDs in the My Apps tab to see when they refresh.
+
+
+
+#### <mark style="color:purple;">**(1010) There are no AltStore sources.**</mark>
 
 `AltStore.OperationError`
 
@@ -82,7 +98,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1009)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">There are no AltStore sources.</mark>
+#### <mark style="color:purple;">**(1012) AltStore was denied permission to launch the app.**</mark>
 
 `AltStore.OperationError`
 
@@ -90,7 +106,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1010)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">AltStore's shared app group could not be accessed.</mark>
+#### <mark style="color:purple;">**(1011) AltStore's shared app group could not be accessed.**</mark>
 
 `AltStore.OperationError`
 
@@ -98,23 +114,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1011) The app**</mark> <mark style="color:purple;">could not be found.</mark>
-
-`AltStore.OperationError`
-
-This means that AltStore...
-
-
-
-#### <mark style="color:purple;">**(1012)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">AltStore was denied permission to launch the app.</mark>
-
-`AltStore.OperationError`
-
-This means that AltStore...
-
-
-
-#### <mark style="color:purple;">**(1200)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">AltServer could not be found.</mark>
+#### <mark style="color:purple;">**(1200) AltServer could not be found.**</mark>
 
 `AltStore.OperationError`
 
@@ -122,15 +122,15 @@ This means that AltStore is having trouble connecting to AltServer on your PC/Ma
 
 
 
-#### <mark style="color:purple;">**(1201)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">A connection to AltServer could not be established.</mark>
+#### <mark style="color:purple;">**(1201) A connection to AltServer could not be established.**</mark>
 
 `AltStore.OperationError`
 
 This means that AltStore is having trouble connecting to AltServer on your PC/Mac. Make sure you have Wi-Fi sync enabled, and otherwise you may try plugging in your device directly via USB.
 
+****
 
-
-#### <mark style="color:purple;">**(1202)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The connection to AltServer was dropped.</mark>
+#### <mark style="color:purple;">**(1202) The connection to AltServer was dropped.**</mark>
 
 `AltStore.OperationError`
 
@@ -150,23 +150,13 @@ This means that AltServer ran into an unknown error. We recommend reaching out t
 
 
 
-#### <mark style="color:purple;">**(20000) Unknown Error**</mark>&#x20;
+#### <mark style="color:purple;">**(2000) Unknown Error**</mark>&#x20;
 
 `AltServer.ServerError`
 
 This means that AltServer ran into an unknown error. We recommend reaching out to our support channels if the issue persists.
 
 
-
-#### <mark style="color:purple;">**(2000) Could not connect to AltServer. / There was an error connecting to the device.**</mark>&#x20;
-
-`AltServer.ServerError`
-
-This means that AltServer is having trouble connecting to your iOS device. Try plugging your device directly into your computer if it is not already.
-
-If you still have issues, please refer to the [Troubleshooting Guide](troubleshooting-guide.md).
-
-#### <mark style="color:purple;">****</mark>
 
 #### <mark style="color:purple;">**(2001) Could not connect to AltServer. / There was an error connecting to the device.**</mark>&#x20;
 
@@ -330,7 +320,7 @@ Updated information coming soon
 
 ****
 
-#### <mark style="color:purple;">**(3001)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The provided parameters are invalid.</mark>
+#### <mark style="color:purple;">**(3001) The provided parameters are invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -338,7 +328,7 @@ Updated information coming soon
 
 
 
-#### <mark style="color:purple;">**(3002)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">Incorrect Apple ID or password.</mark>
+#### <mark style="color:purple;">**(3002) Incorrect Apple ID or password.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -348,7 +338,7 @@ If you still have issues, you can also try creating a new Apple ID to use with A
 
 ****
 
-#### <mark style="color:purple;">**(3003)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">You are not a member of any development teams.</mark>
+#### <mark style="color:purple;">**(3003) An app-specific password is required. You can create one at appleid.apple.com.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -356,7 +346,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3004) An app-specific password is required. You can create one at appleid.apple.com.**</mark>
+#### <mark style="color:purple;">**(3004) You are not a member of any development teams.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -364,7 +354,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3005) T**</mark><mark style="color:purple;">his device's UDID is invalid.</mark>
+#### <mark style="color:purple;">**(3005) This device's UDID is invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -372,7 +362,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3006) T**</mark><mark style="color:purple;">his device's UDID is invalid.</mark>
+#### <mark style="color:purple;">**(3006) This device is already registered with another ID.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -380,7 +370,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3007)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The certificate request is invalid.</mark>
+#### <mark style="color:purple;">**(3007) The certificate request is invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -388,7 +378,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3008)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The certificate request is invalid.</mark>
+#### <mark style="color:purple;">**(3008) There is no certificate with the requested serial number for this team.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -396,7 +386,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3009)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">There is no certificate with the requested serial number for this team.</mark>
+#### <mark style="color:purple;">**(3009) The name for this app is invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -404,7 +394,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">**(3010)**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">The name for this app is invalid.</mark>
+#### <mark style="color:purple;">**(3010) The bundle identifier for this app is invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -412,7 +402,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">11) The bundle identifier for this app is invalid.</mark>
+#### <mark style="color:purple;">**(3011) The bundle identifier for this app has already been registered.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -420,7 +410,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">12) The bundle identifier for this app has already been registered.</mark>
+#### <mark style="color:purple;">**(3012) There is no App ID with the requested identifier on this team.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -428,7 +418,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">13) There is no App ID with the requested identifier on this team.</mark>
+#### <mark style="color:purple;">**(3013) You may only register 10 App IDs every 7 days.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -436,7 +426,15 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">14) You may only register 10 App IDs every 7 days.</mark>
+#### <mark style="color:purple;">**(3014) The provided app group is invalid.**</mark>
+
+`AltStore.AppleDeveloperError`
+
+Updated information coming soon.
+
+****
+
+#### <mark style="color:purple;">**(3015) App group does not exist.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -444,7 +442,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">15) The provided app group is invalid.</mark>
+#### <mark style="color:purple;">**(3016) The identifier for the requested provisioning profile is invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -452,7 +450,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">16) App group does not exist.</mark>
+#### <mark style="color:purple;">**(3017) There is no provisioning profile with the requested identifier on this team.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -460,7 +458,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">17) The identifier for the requested provisioning profile is invalid.</mark>
+#### <mark style="color:purple;">**(3018) This account requires signing in with two-factor authentication.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -468,7 +466,15 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">18) There is no provisioning profile with the requested identifier on this team.</mark>
+#### <mark style="color:purple;">**(3019) Incorrect verification code.**</mark>
+
+`AltStore.AppleDeveloperError`
+
+Updated information coming soon.
+
+#### <mark style="color:purple;"></mark>
+
+#### <mark style="color:purple;">**(3020) Failed to perform authentication handshake with server.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -476,31 +482,7 @@ Updated information coming soon.
 
 
 
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">19) This account requires signing in with two-factor authentication.</mark>
-
-`AltStore.AppleDeveloperError`
-
-Updated information coming soon.
-
-
-
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">20) Incorrect verification code.</mark>
-
-`AltStore.AppleDeveloperError`
-
-Updated information coming soon.
-
-
-
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">21) Failed to perform authentication handshake with server.</mark>
-
-`AltStore.AppleDeveloperError`
-
-Updated information coming soon.
-
-
-
-#### <mark style="color:purple;">(</mark><mark style="color:purple;">**30**</mark><mark style="color:purple;">22) The provided anisette data is invalid.</mark>
+#### <mark style="color:purple;">**(3021) The provided anisette data is invalid.**</mark>
 
 `AltStore.AppleDeveloperError`
 
@@ -514,7 +496,7 @@ Updated information coming soon.
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+This means that AltServer ran into an unknown error. We recommend reaching out to our support channels if the issue persists.
 
 
 
@@ -522,7 +504,7 @@ Updated information coming soon
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+This means that you will need to unlock your device before AltServer can connect.
 
 
 
