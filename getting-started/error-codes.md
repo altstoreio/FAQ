@@ -54,7 +54,7 @@ This means that you must enter your Apple ID information in the settings tab to 
 
 `AltStore.OperationError`
 
-This means that AltStore could not locate the file to download or install, most likely because the file does not exist at the provided URL.
+This means that AltStore could not locate the app on your device and you may need to reinstall.
 
 
 
@@ -62,7 +62,7 @@ This means that AltStore could not locate the file to download or install, most 
 
 `AltStore.OperationError`
 
-This means that AltStore couldn't read the device UDID embedded by AltServer when installing AltStore. Make sure you're installing AltStore with the latest AltServer version and not via another method.
+This means that AltStore...
 
 
 
@@ -70,7 +70,7 @@ This means that AltStore couldn't read the device UDID embedded by AltServer whe
 
 `AltStore.OperationError`
 
-This means the app you're trying to install is not a standard .ipa. Try downloading the app from another location.
+This means that AltStore...
 
 
 
@@ -78,7 +78,7 @@ This means the app you're trying to install is not a standard .ipa. Try download
 
 `AltStore.OperationError`
 
-This means an internal error occured and AltStore couldn't provide the necessary information to perform the requested task. Please try again and check our [Troubleshooting Guide](troubleshooting-guide.md) for additional help. You can reach out to us directly if the issue persists.
+This means that AltStore...
 
 
 
@@ -86,7 +86,7 @@ This means an internal error occured and AltStore couldn't provide the necessary
 
 `AltStore.OperationError`
 
-This means that you have reached the maximum amount of App IDs available. Please check the App IDs in the My Apps tab to see when they will expire.
+This means that you have reached the maximum amount of App IDs available. Please check the App IDs in the My Apps tab to see when they refresh.
 
 
 
@@ -94,7 +94,7 @@ This means that you have reached the maximum amount of App IDs available. Please
 
 `AltStore.OperationError`
 
-This means an internal error occured and AltStore is unable to fetch changes for any Sources you've added. Please try again and check our [Troubleshooting Guide](troubleshooting-guide.md) for additional help. You can reach out to us directly if the issue persists.
+This means that AltStore...
 
 
 
@@ -102,7 +102,7 @@ This means an internal error occured and AltStore is unable to fetch changes for
 
 `AltStore.OperationError`
 
-This means AltStore couldn't launch a sideloaded app because you tapped "Cancel" on the "AltStore wants to open \[app]" alert, or because you still need to trust your Apple ID in Settings.
+This means that AltStore...
 
 
 
@@ -110,7 +110,7 @@ This means AltStore couldn't launch a sideloaded app because you tapped "Cancel"
 
 `AltStore.OperationError`
 
-This means AltStore was not able to access the directory where app backups are stored. Make sure you're installing AltStore with the latest AltServer version and not via another method.
+This means that AltStore...
 
 
 
@@ -118,7 +118,7 @@ This means AltStore was not able to access the directory where app backups are s
 
 `AltStore.OperationError`
 
-This means that AltStore is having trouble discovering AltServer on your local network. Make sure you're connected to the same WiFi network as your PC/Mac running AltServer, or try connecting your device to your computer via USB.
+This means that AltStore is having trouble connecting to AltServer on your PC/Mac. Make sure you have Wi-Fi sync enabled, and otherwise you may try plugging in your device directly via USB.
 
 
 
@@ -274,7 +274,7 @@ This means that the Apple ID information AltStore used to try to sign in was inv
 
 `AltServer.ServerError`
 
-This means that AltServer could not find the Mail plug-in either because it is not enable or you are not running the Mail app on your Mac. Make sure the Mail app is running on your Mac and that the plug-in is enabled. For more help, check the [Mail Plug-In](how-to-install-altstore-macos/enable-mail-plug-in.md) page in the install guide.
+This means that AltServer could not find the Mail plug-in either because it is not enable or you are not running the mail app on your Mac. Make sure the mail app is running on your Mac and that the plug-in is enabled. For more help, check the [Mail Plug-In](how-to-install-altstore-macos/enable-mail-plug-in.md) page in the install guide.
 
 
 
@@ -302,11 +302,11 @@ This means that **** you tried to enable JIT without the requested app running i
 
 
 
-#### <mark style="color:purple;">**(2101) The disk is incompatible with \[iOS version].**</mark>
+#### <mark style="color:purple;">**(2101) The disk is incompatible with \[App].**</mark>
 
 `AltServer.ServerError`
 
-This means that the developer disk required to enable JIT is not compatible with your device's OS version. Make sure you're running the latest version of AltStore and AltServer, and try again later.
+This means that the developer disk being used is not compatible with the app. Try updating to the latest version of AltStore and AltServer to make sure the correct one is enabled.
 
 <mark style="color:purple;">****</mark>
 
