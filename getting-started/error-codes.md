@@ -98,7 +98,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1012) AltStore was denied permission to launch the app.**</mark>
+#### <mark style="color:purple;">**(1011) AltStore was denied permission to launch the app.**</mark>
 
 `AltStore.OperationError`
 
@@ -106,7 +106,7 @@ This means that AltStore...
 
 
 
-#### <mark style="color:purple;">**(1011) AltStore's shared app group could not be accessed.**</mark>
+#### <mark style="color:purple;">**(1012) AltStore's shared app group could not be accessed.**</mark>
 
 `AltStore.OperationError`
 
