@@ -12,7 +12,7 @@ Here are a few of our favorite published articles that feature AltStore! To cont
 
 {% embed url="https://appleinsider.com/articles/22/05/06/altstore-allows-limited-sideloading-of-iphone-apps-apple-doesnt-approve" %}
 
-{% embed url="https://www.inputmag.com/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it" %}
+{% embed url="https://www.inverse.com/input/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it" %}
 
 {% embed url="https://www.theverge.com/2019/9/25/20884363/altstore-riley-testut-delta-nintendo-emulator-ios-app-store-alternative-jailbreak" %}
 
