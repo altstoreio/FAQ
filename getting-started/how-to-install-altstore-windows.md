@@ -55,7 +55,7 @@ Your Apple ID and password are sent **only** to Apple — not us or anyone else.
 You may need to restart your device to make AltStore appear on your Home Screen.
 {% endhint %}
 
-9\.  On your iOS device, go to Settings -> General -> Profiles & Device Management. Tap “Trust \[Your Apple ID],” then tap “Trust” again to confirm.
+9\. On your iOS device, go to Settings -> General -> Profiles & Device Management. Tap “Trust \[Your Apple ID],” then tap “Trust” again to confirm.
 
 ![Image courtesy of @LouisAnslow](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAfe8qEztjcTjsjjaMBY2%2Fuploads%2F1NUuIKBgS0adjhFhOqVt%2F1-CwxM2iiAN0kLSWGuRQcCHQ-2%20\(dragged\).jpg?alt=media\&token=f94229f1-89be-4e25-854d-d13736f64ca3)
 
@@ -65,12 +65,10 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 
 #### Enable Developer Mode (iOS 16+)
 
-11\.  To use AltStore on iOS 16 or later, you need to enable Developer Mode on your device by going to Settings -> Privacy and Security -> Developer Mode.
+11\. To use AltStore on iOS 16 or later, you need to enable Developer Mode on your device by going to Settings -> Privacy and Security -> Developer Mode.
 
 <figure><img src="../.gitbook/assets/FcejvMRXgAE8k3R.jpg" alt=""><figcaption><p><strong>Image Courtesy of @9to5mac</strong></p></figcaption></figure>
 
 **You are now ready to sideload apps using AltStore!**
 
-****[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)**.**
-
-****[**Still having trouble? Check out our troubleshooting guide here**](troubleshooting-guide.md)**.**
+[**Still having trouble? Check out our troubleshooting guide here**](troubleshooting-guide.md)**.**
