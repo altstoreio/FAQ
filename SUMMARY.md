@@ -18,6 +18,7 @@
 * [⚡ Activating Apps](how-to-use-altstore/activating-apps.md)
 * [🏎 AltJIT](how-to-use-altstore/altjit.md)
 * [☑ Trusted Sources](how-to-use-altstore/trusted-sources.md)
+* [🐮 MacDirtyCow](how-to-use-altstore/macdirtycow.md)
 
 ## Release Notes
 

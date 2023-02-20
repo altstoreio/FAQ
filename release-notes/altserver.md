@@ -1,5 +1,43 @@
 # 🖥 AltServer
 
+## <mark style="color:blue;">AltServer 1.6</mark>
+
+<mark style="color:blue;">**January 30, 2023**</mark>
+
+### **New**
+
+#### Revamped Error Handling
+
+* Completely revamped error handling to include as much information as possible, which should make debugging certain issues much easier
+* Revised error messages to be more descriptive and provide more suggestions
+* Adds “View More Details”/”Help” button to error alerts to view detailed error information
+* Adds "Search FAQ" button to error alert
+* Revised error domain format to `[Module].[ErrorType]`
+* AltServer.ServerError codes start at 2000
+* AltStore.AppleDeveloperError codes start at 3000
+* Uses underlying error messages (if available) for several AltServer.ServerError errors
+* Encodes/Decodes all Codable user info values, not just recognized types
+
+#### iOS Version Compatibility
+
+* Checks iOS compatibility before installing AltStore
+* Downloads latest compatible AltStore version for your iOS device
+
+### **Improved**
+
+* Uses `CFBundleDisplayName` instead of `CFBundleName` for app name if it exists **(Windows)**
+* Revised error messages to match AltServer macOS **(Windows)**
+
+### **Fixed**
+
+* Fixed error encoding CodableError Int/UInt user info values
+* Fixed adding failures to NSErrors with nil localizedFailureReasons
+* Fixed occasional crash when receiving requests from AltStore **(macOS)**
+* Fixed installation alerts saying "iPhone" instead of actual device name **(macOS)**
+* Fixed AltServer notification icon not appearing in Windows 11 22H2 taskbar **(Windows)**
+
+****
+
 ## <mark style="color:blue;">AltServer 1.5.1</mark>
 
 <mark style="color:blue;">**July 14, 2022**</mark>
@@ -12,6 +50,8 @@
 * Fixed an issue causing wired connections to occasionally stall **(macOS)**
 * Fixed an issue causing indefinite high CPU usage after enabling AltJIT **(Windows)**
 * Fixed an issue causing indefinite high CPU usage after updating AltStore **(Windows)**
+
+****
 
 ## <mark style="color:blue;">AltServer 1.5</mark>
 
