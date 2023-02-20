@@ -1,5 +1,17 @@
 # 🛍 AltStore
 
+## <mark style="color:green;">AltStore 1.6.1</mark>
+
+<mark style="color:green;">**February 20, 2023**</mark>
+
+* “Clear Cache” button removes temporary files and deleted app backups to free up disk space
+* Disable new “Enforce 3-App Limit” setting to sideload more than 3 apps via MacDirtyCow exploit\*
+* Fixed crash when viewing Sources on iOS 12
+
+\*Requires iOS 14.0 - 16.1.2 (excluding 15.7.2). **iOS 16.2 or later not supported.**
+
+****
+
 ## <mark style="color:green;">AltStore 1.6</mark>
 
 <mark style="color:green;">**January 30, 2023**</mark>
