@@ -234,7 +234,9 @@ This means that iOS rejected the app you were attempting to install. Make sure t
 
 `AltServer.ServerError`
 
-This means that you do not have enough available App IDs to install the requested App. For more information, refer to our [App IDs page](../how-to-use-altstore/app-ids.md).
+This means that you have reached the maximum amount of sideloaded apps you can have with a Free Developer Account. Apple limits the amount of sideloaded apps you can have with a free account, and to remove the limit you need to sign up for a Paid Developer account at [developer.apple.com](https://developer.apple.com).
+
+You can also remove this limit if you have a device capable of using the [MacDirtyCow](../how-to-use-altstore/macdirtycow.md) exploit
 
 
 
