@@ -1,5 +1,13 @@
 # 🖥 AltServer
 
+## <mark style="color:blue;">AltServer 1.6.1</mark>
+
+<mark style="color:blue;">**February 20, 2023**</mark>
+
+* Supports Apple IDs with Advanced Data Protection (ADP) enabled **(Windows)**
+
+****
+
 ## <mark style="color:blue;">AltServer 1.6</mark>
 
 <mark style="color:blue;">**January 30, 2023**</mark>
