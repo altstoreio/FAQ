@@ -35,6 +35,5 @@
 ## About Us
 
 * [👨👩👧👦 Team](about-us/team.md)
-* [📰 Press](about-us/press/README.md)
-  * [Press Kit](about-us/press/press-kit.md)
+* [📰 Press](about-us/press.md)
 * [📺 Videos](about-us/videos.md)
