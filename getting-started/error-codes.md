@@ -142,6 +142,18 @@ This means that AltStore's connection to AltServer on your PC/Mac was interrupte
 
 ## AltServer Errors
 
+#### <mark style="color:purple;">**(0) Exception Error**</mark>
+
+`AltServer.ExceptionError`
+
+This error can appear for many reasons, and below are a few that you might see (this is not an exhaustive list).
+
+#### "vector too long"
+
+This means that Windows Defender is blocking your request. You may need to first disable Real-Time Protection on Windows in order for AltStore to work as expected.
+
+#### <mark style="color:purple;">****</mark>
+
 #### <mark style="color:purple;">**(1999) Underlying Error**</mark>&#x20;
 
 `AltServer.ServerError`
@@ -392,7 +404,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+AltStore couldn’t register an App ID with Apple because the app name contains non-ASCII characters. You can try downloading from another source.
 
 
 
@@ -488,7 +500,33 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+This error means that the information used to authenticate your AppleID information either expired or invalid. Make sure your computer date and time are accurate and that you’ve installed iTunes and iCloud from Apple.
+
+
+
+## **Apple API Error**
+
+#### <mark style="color:purple;">(1100) Your session has expired.</mark>
+
+`Apple.APIError`
+
+This error means that the information used to authenticate your Apple ID is either expired or invalid. Make sure your computer's date and time are accurate and try again.
+
+
+
+#### <mark style="color:purple;">(1102) Apple ID cannot be used for development.</mark>
+
+`Apple.APIError`
+
+You may need to agree to Apple’s Terms of Service on [developer.apple.com](https://developer.apple.com). If that doesn’t work, you can create a new “throwaway” Apple ID dedicated to sideloading.
+
+
+
+#### <mark style="color:purple;">(-20101) Your account information was entered incorrectly.</mark>
+
+`Apple.APIError`
+
+This error means that the username or password used to authenticate your Apple ID is either expired or invalid. Make sure you've entered them both in correctly and that your computer's date and time are accurate.
 
 
 
@@ -560,3 +598,13 @@ Updated information coming soon
 2. Go to Program Data -> Apple Computer -> iTunes -> ADI -> delete the files&#x20;
 3. Start iTunes&#x20;
 4. Retry installing AltStore&#x20;
+
+
+
+## Other Errors
+
+#### <mark style="color:purple;">(512) Failed to write to disk</mark>
+
+`NSCocoaErrorDomain`
+
+This means that an error occurred while writing files to disk. Make sure your phone and PC both have plenty of available disk space and try again.
