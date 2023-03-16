@@ -1,4 +1,4 @@
-# 📰 Press
+# 🎤 In The News
 
 Here are a few of our favorite published articles that feature AltStore! To contact us for media inquiries, please email [press@altstore.io](mailto:press@altstore.io).
 
