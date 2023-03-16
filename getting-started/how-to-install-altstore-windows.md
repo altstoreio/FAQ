@@ -25,6 +25,10 @@ Windows 32-bit: [https://www.apple.com/itunes/download/win32](https://www.apple.
 Windows 32-bit and 64-bit: [https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
 {% endhint %}
 
+{% hint style="warning" %}
+If you **need** to use the Windows Store version of iCloud, you can still use AltStore by following our alternate steps in the [Troubleshooting Guide](troubleshooting-guide.md#windows-i-need-to-use-the-windows-store-icloud).
+{% endhint %}
+
 ## **Installing AltStore:**
 
 1. Download AltServer for Windows from [altstore.io](https://altstore.io/).
