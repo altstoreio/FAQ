@@ -468,7 +468,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-If you are seeing this error, it's likely due to a recent server-side change made by Apple. Please see the following announcement with more info: [https://twitter.com/altstoreio/status/1637953768728801282?s=20](https://twitter.com/altstoreio/status/1637953768728801282?s=20)
+If you are seeing this error, it's likely due to a recent server-side change made by Apple. Please see the following announcement with more info: [https://twitter.com/altstoreio/status/1638599316762664974?s=20](https://twitter.com/altstoreio/status/1638599316762664974?s=20)
 
 
 
