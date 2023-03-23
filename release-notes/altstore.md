@@ -1,5 +1,13 @@
 # 🛍 AltStore
 
+## <mark style="color:green;">AltStore 1.6.2</mark>
+
+<mark style="color:green;">**March 22, 2023**</mark>
+
+* Fixed “no provisioning profile with the requested identifier…” error when sideloading and refreshing apps
+
+
+
 ## <mark style="color:green;">AltStore 1.6.1</mark>
 
 <mark style="color:green;">**February 20, 2023**</mark>
