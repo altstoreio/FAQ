@@ -4,15 +4,17 @@ Welcome to AltStore! This guide will show you how install AltStore onto your iPh
 
 [Return to Homepage](https://altstore.io)
 
-## [Getting Started (macOS)](broken-reference)
+## [Getting Started (macOS)](getting-started/how-to-install-altstore-macos/README.md)
 
 ## [Getting Started (Windows)](getting-started/how-to-install-altstore-windows.md)
 
 ## [Using AltStore](how-to-use-altstore/your-altstore.md)
 
-## [Release Notes](broken-reference)
+## [Release Notes (AltStore)](release-notes/altstore.md)
 
-## [Patreon](broken-reference)
+## [Release Notes (AltServer)](release-notes/altserver.md)
 
-## [About Us](broken-reference)
+## [Patreon](patreon/beta-access/README.md)
+
+## [About Us](about-us/team.md)
 
