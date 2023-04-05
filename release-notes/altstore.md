@@ -18,7 +18,7 @@
 
 \*Requires iOS 14.0 - 16.1.2 (excluding 15.7.2). **iOS 16.2 or later not supported.**
 
-****
+
 
 ## <mark style="color:green;">AltStore 1.6</mark>
 

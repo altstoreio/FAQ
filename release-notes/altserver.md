@@ -6,7 +6,7 @@
 
 * Supports Apple IDs with Advanced Data Protection (ADP) enabled **(Windows)**
 
-****
+
 
 ## <mark style="color:blue;">AltServer 1.6</mark>
 
@@ -44,7 +44,7 @@
 * Fixed installation alerts saying "iPhone" instead of actual device name **(macOS)**
 * Fixed AltServer notification icon not appearing in Windows 11 22H2 taskbar **(Windows)**
 
-****
+
 
 ## <mark style="color:blue;">AltServer 1.5.1</mark>
 
@@ -59,7 +59,7 @@
 * Fixed an issue causing indefinite high CPU usage after enabling AltJIT **(Windows)**
 * Fixed an issue causing indefinite high CPU usage after updating AltStore **(Windows)**
 
-****
+
 
 ## <mark style="color:blue;">AltServer 1.5</mark>
 

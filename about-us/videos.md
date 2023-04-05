@@ -2,20 +2,20 @@
 description: Here you can find videos of people using AltStore to do fun things!
 ---
 
-# 📺 YouTube
+# 📺 Videos
 
 ## Our Favorite Videos&#x20;
 
 {% tabs %}
 {% tab title="The Verge" %}
 {% embed url="https://youtu.be/ftyWe6DVvO4" %}
-****[**The Verge**](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) **showcases AltStore**
+[**The Verge**](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) **showcases AltStore**
 {% endembed %}
 {% endtab %}
 
 {% tab title="Linus Tech Tips" %}
 {% embed url="https://youtu.be/HGHQ5R3NwrA?t=259" %}
-****[**Linus** ](https://www.youtube.com/c/LinusTechTips)**uses AltStore to Jailbreak an iPhone**
+[**Linus** ](https://www.youtube.com/c/LinusTechTips)**uses AltStore to Jailbreak an iPhone**
 {% endembed %}
 {% endtab %}
 
@@ -45,7 +45,7 @@ description: Here you can find videos of people using AltStore to do fun things!
 
 {% tab title="iDM" %}
 {% embed url="https://youtu.be/XYEDxf8WHxc?t=55" %}
-****[**iDM**](https://www.youtube.com/channel/UCsNsM8GOtj55C-mQfdFOcVw) **explains why AltStore is the best way to use unc0ver jailbreak**
+[**iDM**](https://www.youtube.com/channel/UCsNsM8GOtj55C-mQfdFOcVw) **explains why AltStore is the best way to use unc0ver jailbreak**
 {% endembed %}
 {% endtab %}
 {% endtabs %}

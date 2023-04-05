@@ -25,6 +25,11 @@
 * [🛍 AltStore](release-notes/altstore.md)
 * [🖥 AltServer](release-notes/altserver.md)
 
+## Sources
+
+* [📓 Make a Source](sources/make-a-source.md)
+* [⬆ Updating Apps](sources/updating-apps.md)
+
 ## Patreon
 
 * [🛠 Beta Access](patreon/beta-access/README.md)

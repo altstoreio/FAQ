@@ -10,7 +10,7 @@ description: >-
 
 ## AltStore Errors
 
-<mark style="color:purple;">****</mark>
+
 
 #### <mark style="color:purple;">**(1000) An unknown error occurred.**</mark>&#x20;
 
@@ -18,7 +18,7 @@ description: >-
 
 This means that AltStore ran into an unexpected error. Please check our [Troubleshooting Guide](troubleshooting-guide.md), and you can reach out to us directly if the issue persists.
 
-#### <mark style="color:purple;">****</mark>
+####
 
 #### <mark style="color:purple;">**(1001) The operation returned an unknown result.**</mark>&#x20;
 
@@ -50,7 +50,7 @@ This means that you must enter your Apple ID information in the settings tab to 
 
 
 
-#### <mark style="color:purple;">**(1005) The app**</mark>**  **<mark style="color:purple;">**could not be found.**</mark>
+#### <mark style="color:purple;">**(1005) The app**</mark> <mark style="color:purple;">**could not be found.**</mark>
 
 `AltStore.OperationError`
 
@@ -128,7 +128,7 @@ This means that AltStore is having trouble discovering AltServer on your local n
 
 This means that AltStore is having trouble connecting to AltServer on your PC/Mac. Make sure you have Wi-Fi sync enabled, and otherwise you may try plugging in your device directly via USB.
 
-****
+
 
 #### <mark style="color:purple;">**(1202) The connection to AltServer was dropped.**</mark>
 
@@ -152,7 +152,7 @@ This error can appear for many reasons, and below are a few that you might see (
 
 This means that Windows Defender is blocking your request. You may need to first disable Real-Time Protection on Windows in order for AltStore to work as expected.
 
-#### <mark style="color:purple;">****</mark>
+####
 
 #### <mark style="color:purple;">**(1999) Underlying Error**</mark>&#x20;
 
@@ -198,7 +198,7 @@ This means that AltServer had trouble locating your iOS device either over USB o
 
 If you still have issues, please refer to the [Troubleshooting Guide](troubleshooting-guide.md).
 
-<mark style="color:purple;">****</mark>
+
 
 #### <mark style="color:purple;">**(2004) Failed to write app data to device.**</mark>
 
@@ -306,13 +306,13 @@ This means that the provisioning profile needed to install this app could not be
 
 This means that there was an issue while removing an app. There are a number of different issues so make sure to check your error log for a more specific message on your issue.&#x20;
 
-****
+
 
 #### <mark style="color:purple;">**(2100) The Requested app is not currently running on the device.**</mark>
 
 `AltServer.ServerError`
 
-This means that **** you tried to enable JIT without the requested app running in the foreground. Make sure to launch the app and have it running before you enable JIT.
+This means that you tried to enable JIT without the requested app running in the foreground. Make sure to launch the app and have it running before you enable JIT.
 
 
 
@@ -322,7 +322,7 @@ This means that **** you tried to enable JIT without the requested app running i
 
 This means that the developer disk required to enable JIT is not compatible with your device's OS version. Make sure you're running the latest version of AltStore and AltServer, and try again later.
 
-<mark style="color:purple;">****</mark>
+
 
 ## **Apple Developer Errors**
 
@@ -332,7 +332,7 @@ This means that the developer disk required to enable JIT is not compatible with
 
 Updated information coming soon
 
-****
+
 
 #### <mark style="color:purple;">**(3001) The provided parameters are invalid.**</mark>
 
@@ -350,7 +350,7 @@ This means that the Apple ID credentials you used were invalid. Make sure the us
 
 If you still have issues, you can also try creating a new Apple ID to use with AltStore.
 
-****
+
 
 #### <mark style="color:purple;">**(3003) An app-specific password is required. You can create one at appleid.apple.com.**</mark>
 
@@ -446,7 +446,7 @@ Updated information coming soon.
 
 Updated information coming soon.
 
-****
+
 
 #### <mark style="color:purple;">**(3015) App group does not exist.**</mark>
 
@@ -486,7 +486,7 @@ Updated information coming soon.
 
 Updated information coming soon.
 
-#### <mark style="color:purple;"></mark>
+####
 
 #### <mark style="color:purple;">**(3020) Failed to perform authentication handshake with server.**</mark>
 
