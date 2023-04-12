@@ -1,5 +1,14 @@
 # 🛍 AltStore
 
+## <mark style="color:green;">AltStore 1.6.3</mark>
+
+<mark style="color:green;">**April 12, 2023**</mark>
+
+* Fixed error fetching Friend Zone patrons due to unexpected nil name
+* Fixed incorrect cell height for some News items
+
+
+
 ## <mark style="color:green;">AltStore 1.6.2</mark>
 
 <mark style="color:green;">**March 22, 2023**</mark>
