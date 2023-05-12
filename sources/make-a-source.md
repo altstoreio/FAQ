@@ -85,7 +85,7 @@ A link to an image that will be displayed as the header of your source's About p
 If not provided, this defaults to your source's `iconURL`.
 {% endhint %}
 
-#### **`website`** <mark style="color:purple;">(string)</mark>
+#### `website` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 
@@ -107,7 +107,7 @@ If not provided, this defaults to the `tintColor` of the first app listed in you
 
 
 
-#### **`featuredApps`** <mark style="color:purple;">(array of strings)</mark>
+#### `featuredApps` <mark style="color:purple;">(array of strings)</mark>
 
 _(optional)_
 
@@ -167,7 +167,7 @@ A source cannot have multiple apps with the same bundle identifier.
 
 The name of the developer or developers as it will appear on the store page.
 
-#### **`subtitle`** <mark style="color:purple;">(string)</mark>
+#### `subtitle` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 
@@ -201,7 +201,7 @@ Links to screenshots/images of your app. The first two will be displayed under t
 We recommended using images with **9:16** **aspect ratios** for best results. Other aspect ratios will be stretched to fill.
 {% endhint %}
 
-#### **`versions`** <mark style="color:purple;">(array of App Versions)</mark>
+#### `versions` <mark style="color:purple;">(array of App Versions)</mark>
 
 A list of all the published versions of your app.
 
@@ -231,7 +231,7 @@ For information on how to update your apps once they're published, see [Updating
 
 Your app's version number (`CFBundleShortVersionString)`. It is **case sensitive** and should match exactly what is in your `Info.plist`.
 
-#### **`date`** <mark style="color:purple;">(string)</mark>
+#### `date` <mark style="color:purple;">(string)</mark>
 
 The release date for this version.&#x20;
 
@@ -249,13 +249,13 @@ A description of what's new in this version. You can use this to tell users abou
 
 The URL where your `.ipa` is hosted.
 
-#### **`minOSVersion`** <mark style="color:purple;">(string)</mark>
+#### `minOSVersion` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 
 The minimum iOS version supported by this release. AltStore will hide any updates that are not supported by the user's device.
 
-#### **`maxOSVersion`** <mark style="color:purple;">(string)</mark>
+#### `maxOSVersion` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 
@@ -279,11 +279,11 @@ The maximum iOS version supported by this release **(inclusive)**. AltStore will
 ]
 ```
 
-#### **`title`** <mark style="color:purple;">(string)</mark>
+#### `title` <mark style="color:purple;">(string)</mark>
 
 The title of your News item.
 
-#### **`identifier`** <mark style="color:purple;">(string)</mark>
+#### `identifier` <mark style="color:purple;">(string)</mark>
 
 A unique value to distinguish this News item from others in your source.
 
@@ -291,11 +291,11 @@ A unique value to distinguish this News item from others in your source.
 A source cannot have multiple News items with the same identifier.
 {% endhint %}
 
-#### **`caption`** <mark style="color:purple;">(string)</mark>
+#### `caption` <mark style="color:purple;">(string)</mark>
 
 A short, one-sentence description of your News item.
 
-#### **`date`** <mark style="color:purple;">(string)</mark>
+#### `date` <mark style="color:purple;">(string)</mark>
 
 The publishing date for this News item.
 
@@ -303,7 +303,7 @@ The publishing date for this News item.
 This should be in **ISO 8601** format (e.g. **2023-2-17** or **2023-02-17T12:00:00-06:00**)
 {% endhint %}
 
-#### **`tintColor`** <mark style="color:purple;">(string)</mark>&#x20;
+#### `tintColor` <mark style="color:purple;">(string)</mark>&#x20;
 
 _(optional)_
 
@@ -313,7 +313,7 @@ The background color for your News item.&#x20;
 This must be in hexadecimal format (e.g **#F54F32** or **F65432**)
 {% endhint %}
 
-#### **`imageURL`** <mark style="color:purple;">(string)</mark>&#x20;
+#### `imageURL` <mark style="color:purple;">(string)</mark>&#x20;
 
 _(optional)_
 
@@ -329,13 +329,13 @@ _(optional)_
 
 When `true`, AltStore will send a push notification about this News item when it next checks for updates in the background.
 
-#### **`url`** <mark style="color:purple;">(string)</mark>
+#### `url` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 
 A link that AltStore should open when the News item is tapped. Links will be opened in an in-app web browser.
 
-#### **`appID`** <mark style="color:purple;">(string)</mark>&#x20;
+#### `appID` <mark style="color:purple;">(string)</mark>&#x20;
 
 _(optional)_
 
