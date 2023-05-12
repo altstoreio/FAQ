@@ -1,20 +1,19 @@
-# 🏡 Home
+# 🏡 AltStore Docs
 
-Welcome to AltStore! This guide will show you how install AltStore onto your iPhone or iPad and get started sideloading apps.
+Welcome to AltStore! This guide will show you how install AltStore onto your iPhone or iPad and get started sideloading apps. And if you're a developer, check out our guide on how to distribute your apps on AltStore!
 
 [Return to Homepage](https://altstore.io)
 
-## [Getting Started (macOS)](getting-started/how-to-install-altstore-macos/README.md)
+## [Getting Started (macOS)](getting-started/how-to-install-altstore-macos/)
 
 ## [Getting Started (Windows)](getting-started/how-to-install-altstore-windows.md)
 
 ## [Using AltStore](how-to-use-altstore/your-altstore.md)
 
-## [Release Notes (AltStore)](release-notes/altstore.md)
+## [Release Notes](release-notes/altstore.md)
 
-## [Release Notes (AltServer)](release-notes/altserver.md)
+## [Developer Resources](patreon/beta-access/sources.md)
 
-## [Patreon](patreon/beta-access/README.md)
+## [Patreon](patreon/beta-access/)
 
 ## [About Us](about-us/team.md)
-

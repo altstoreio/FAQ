@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏡 Home](README.md)
+* [🏡 AltStore Docs](README.md)
 
 ## Getting Started
 
