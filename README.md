@@ -12,7 +12,7 @@ Welcome to AltStore! This guide will show you how install AltStore onto your iPh
 
 ## [Release Notes](release-notes/altstore.md)
 
-## [Developer Resources](patreon/beta-access/sources.md)
+## [Developer Resources](sources/make-a-source.md)
 
 ## [Patreon](patreon/beta-access/)
 
