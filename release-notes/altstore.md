@@ -25,7 +25,7 @@
 * Disable new “Enforce 3-App Limit” setting to sideload more than 3 apps via MacDirtyCow exploit\*
 * Fixed crash when viewing Sources on iOS 12
 
-\*Requires iOS 14.0 - 16.1.2 (excluding 15.7.2). **iOS 16.2 or later not supported.**
+\*Requires iOS 15.0 - 16.1.2 (excluding 15.7.2). **iOS 16.2 or later not supported.**
 
 
 
