@@ -105,8 +105,6 @@ This must be in hexadecimal format (e.g **#F54F32** or **C9B632**)
 If not provided, this defaults to the `tintColor` of the first app listed in your source.
 {% endhint %}
 
-
-
 #### `featuredApps` <mark style="color:purple;">(array of strings)</mark>
 
 _(optional)_
@@ -129,6 +127,8 @@ A list of the News items in your source. The ordering does not matter because Al
 
 See [News Items](make-a-source.md#news-items) section below for more.
 
+###
+
 ### <mark style="color:purple;">Apps</mark>
 
 ```json
@@ -147,6 +147,7 @@ See [News Items](make-a-source.md#news-items) section below for more.
             "https://example.com/myapp_screenshot3.png"
         ],
         "versions": [],
+        "appPermissions": {},
     },
 ]
 ```
@@ -209,6 +210,8 @@ A list of all the published versions of your app.
 **The order of versions matters**. AltStore uses the order to determine which version is the "latest" release. For more information, see [Updating Apps](updating-apps.md)
 {% endhint %}
 
+###
+
 ### <mark style="color:purple;">App Versions</mark>
 
 ```json
@@ -260,6 +263,61 @@ The minimum iOS version supported by this release. AltStore will hide any update
 _(optional)_
 
 The maximum iOS version supported by this release **(inclusive)**. AltStore will hide any updates that are not supported by the user's device.
+
+###
+
+### <mark style="color:purple;">App Permissions</mark>
+
+```json
+"appPermissions": {
+  "entitlements": [
+    {
+      "name": "com.apple.security.application-groups"
+    },
+    {
+      "name": "com.apple.developer.siri"
+    }
+  ],
+  "privacy": [
+    {
+    "name": "PhotoLibrary",
+    "usageDescription": "App saves photos to your Photo Library."
+    }
+  ]
+},
+```
+
+For security purposes, AltStore requires that sources list **all** entitlements and privacy permissions for every app. These will be checked against the downloaded .ipa, and AltStore will refuse to install any app whose permissions do not match.
+
+
+
+**Entitlements**
+
+A list of **all** entitlements the app has. Each entitlement should have the following keys:
+
+#### `name` <mark style="color:purple;">(string)</mark>
+
+The entitlement key (case-sensitive).
+
+
+
+**Privacy**
+
+A list of **all** `UsageDescription` entries in the app's Info.plist. Each permission should have the following keys:
+
+#### `name` <mark style="color:purple;">(string)</mark>
+
+The name of a `UsageDescription` key in the app's Info.plist. Specifically, the **case-sensitive** string between "NS" and "UsageDescription".
+
+{% hint style="info" %}
+e.g. For NSPhotoLibraryUsageDescription, use "PhotoLibrary"
+{% endhint %}
+
+#### `usageDescription` <mark style="color:purple;">(string)</mark>
+
+An explanation for how or why the app uses this protected resource. We recommend using the same string that's already in your Info.plist.
+
+
 
 ### <mark style="color:purple;">News Items</mark>
 

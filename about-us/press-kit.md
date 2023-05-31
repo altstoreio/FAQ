@@ -48,7 +48,7 @@ Includes all below images. You can also right-click all images to save full-reso
 
 ## Framed Screenshots
 
-<div>
+<div align="center">
 
 <figure><img src="../.gitbook/assets/AltStore_Browse_14Pro.PNG" alt=""><figcaption><p>Browse Tab</p></figcaption></figure>
 
