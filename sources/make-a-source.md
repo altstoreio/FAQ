@@ -253,7 +253,7 @@ A description of what's new in this version. You can use this to tell users abou
 
 The URL where your `.ipa` is hosted.
 
-#### `size` <mark style="color:purple;">(string)</mark>
+#### `size` <mark style="color:purple;">(integer)</mark>
 
 The physical download size of your `.ipa` in bytes.
 
