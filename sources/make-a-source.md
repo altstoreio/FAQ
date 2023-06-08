@@ -222,6 +222,7 @@ A list of all the published versions of your app.
     "localizedDescription": "First AltStore release!",
     "downloadURL": "https://myapp.com/myapp-1.0.ipa",
     "size": 79821,
+    "sha256": "428982c14796e7caa66d2743964fa38157d0e9db574ada326aa99a65a11c147c",
     "minOSVersion": "12.0",
     "maxOSVersion": "16.3"
   },
@@ -251,6 +252,16 @@ A description of what's new in this version. You can use this to tell users abou
 #### `downloadURL` <mark style="color:purple;">(string)</mark>
 
 The URL where your `.ipa` is hosted.
+
+#### `size` <mark style="color:purple;">(string)</mark>
+
+The physical download size of your `.ipa` in bytes.
+
+#### `sha256` <mark style="color:purple;">(string)</mark>
+
+_(optional)_
+
+A computed SHA256 hash of your `.ipa` so that AltStore can perform a check of the downloaded file to ensure its integrity.
 
 #### `minOSVersion` <mark style="color:purple;">(string)</mark>
 
