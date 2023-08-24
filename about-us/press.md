@@ -2,6 +2,10 @@
 
 Here are a few of our favorite published articles that feature AltStore! To contact us for media inquiries, please email [press@altstore.io](mailto:press@altstore.io).
 
+
+
+{% embed url="https://www.hostingadvice.com/blog/altstore-unleashes-ios-freedom-through-sideloading-for-more-gaming-possibilities/" %}
+
 {% embed url="https://daringfireball.net/2022/12/third_party_app_store_forest" %}
 
 {% embed url="https://www.fastcompany.com/90749170/altstore-riley-testut-iphone-sideloading-app-store" %}
