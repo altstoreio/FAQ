@@ -18,22 +18,22 @@
 * [⚡ Activating Apps](how-to-use-altstore/activating-apps.md)
 * [🏎 AltJIT](how-to-use-altstore/altjit.md)
 * [☑ Trusted Sources](how-to-use-altstore/trusted-sources.md)
+* [🔗 Adding Sources (Beta)](how-to-use-altstore/sources.md)
 * [🐮 MacDirtyCow](how-to-use-altstore/macdirtycow.md)
+
+## Distirubute Your Apps
+
+* [📓 Make a Source](distirubute-your-apps/make-a-source.md)
+* [⬆ Updating Apps](distirubute-your-apps/updating-apps.md)
 
 ## Release Notes
 
 * [🛍 AltStore](release-notes/altstore.md)
 * [🖥 AltServer](release-notes/altserver.md)
 
-## Sources
-
-* [📓 Make a Source](sources/make-a-source.md)
-* [⬆ Updating Apps](sources/updating-apps.md)
-
 ## Patreon
 
-* [🛠 Beta Access](patreon/beta-access/README.md)
-  * [🔗 Sources](patreon/beta-access/sources.md)
+* [🛠 Beta Access](patreon/beta-access.md)
 * [🗣 Discord](patreon/discord.md)
 * [🧸 Friend Zone](patreon/patron-credits-page.md)
 

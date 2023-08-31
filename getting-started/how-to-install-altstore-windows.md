@@ -31,7 +31,7 @@ If you **need** to use the Windows Store version of iCloud, you can still use Al
 
 ## **Installing AltStore:**
 
-1. Download AltServer for Windows from [altstore.io](https://altstore.io/).
+1. Download [AltServer for Windows](https://cdn.altstore.io/file/altstore/altinstaller.zip)
 2. Extract `AltInstaller.zip` and run `Setup.exe`.
 3. Go to search in your Windows task bar, then type in "AltServer" and click "Run as administrator." Make sure to allow access to private networks if prompted. AltStore will appear as an icon in the taskbar.
 

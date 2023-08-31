@@ -19,8 +19,7 @@ description: >-
 **IMPORTANT:** If you download the AltStore beta, make sure to delete the regular AltStore afterwards. Having two AltStores installed might cause conflicts with each other.&#x20;
 {% endhint %}
 
-### Current AltStore Beta Features:
+### What's Currently in Development?
 
-{% content-ref url="sources.md" %}
-[sources.md](sources.md)
-{% endcontent-ref %}
+For more information about what we're currently in beta as well as what we're working on next, visit our GitHub project page!
+
