@@ -1,3 +1,7 @@
+---
+description: Learn how to issue app updates
+---
+
 # ⬆ Updating Apps
 
 ### Overview

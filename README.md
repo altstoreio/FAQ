@@ -14,7 +14,7 @@ Welcome to AltStore! This guide will show you how install AltStore onto your iPh
 
 ## [Github Project Page](https://github.com/orgs/altstoreio/projects/7/views/1)
 
-## [Developer Resources](distirubute-your-apps/make-a-source.md)
+## [Developer Resources](sources/make-a-source.md)
 
 ## [Patreon](patreon/beta-access.md)
 

@@ -4,6 +4,10 @@ AltJIT allows apps sideloaded with AltStore to enable just-in-time compilation, 
 
 ### Enable JIT
 
+{% hint style="info" %}
+There are additional requirements for users on iOS 17. Please see the instructions below.
+{% endhint %}
+
 #### **AltStore**
 
 1. Open the "My Apps" tab then long-press the app you want to use JIT.&#x20;
@@ -19,3 +23,37 @@ Once enabled, an app can continue using JIT until it is force-quit from the app 
 {% endhint %}
 
 If you're experiencing issues getting AltJIT to work, be sure to check out our [troubleshooting guide](../getting-started/troubleshooting-guide.md).
+
+
+
+### iOS 17 Instructions (macOS only)
+
+{% hint style="warning" %}
+Using AltJIT on iOS 17 is not yet supported for Windows users.
+{% endhint %}
+
+Currently, there are extra steps needed to enable JIT on iOS 17+:
+
+1. Open Terminal on your Mac
+2. Install [Homebrew](https://brew.sh/) with the following command:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+3. Install [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) with the following commands:
+
+```
+brew install openssl@3 
+python3 -m pip install -U pymobiledevice3
+```
+
+4. Connect your device to your Mac via lightning/USB-C. **Enabling JIT via WiFi is not yet supported**
+5. Open AltStore (or any app that requires JIT)
+6. AltServer run Enable JIT
+
+Once everything is installed, you can now enable JIT as usual from AltServer, though you may be required to enter your password.
+
+{% hint style="info" %}
+The first time you try to enable JIT, it may take up to a minute to work. For faster speeds, we recommend installing Xcode
+{% endhint %}

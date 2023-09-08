@@ -23,8 +23,8 @@
 
 ## Distirubute Your Apps
 
-* [📓 Make a Source](distirubute-your-apps/make-a-source.md)
-* [⬆ Updating Apps](distirubute-your-apps/updating-apps.md)
+* [📓 Make a Source](sources/make-a-source.md)
+* [⬆ Updating Apps](sources/updating-apps.md)
 
 ## Release Notes
 

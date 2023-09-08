@@ -15,11 +15,15 @@ description: >-
 5. Open the Browse tab. Now, the beta versions of AltStore and Delta will be listed alongside their non-beta versions, designated with a “Beta” badge.
 6. Download the beta!
 
-{% hint style="info" %}
-**IMPORTANT:** If you download the AltStore beta, make sure to delete the regular AltStore afterwards. Having two AltStores installed might cause conflicts with each other.&#x20;
+{% hint style="warning" %}
+If you download the AltStore beta, make sure to delete the regular AltStore afterward. Having two versions of AltStore installed might cause conflicts.&#x20;
 {% endhint %}
+
+### How do I download the beta version of AltServer?
+
+The latest beta of AltServer can always be downloaded from the most recent AltStore post on our Patreon [here](https://www.patreon.com/collection/48008).
 
 ### What's Currently in Development?
 
-For more information about what we're currently in beta as well as what we're working on next, visit our GitHub project page!
+For more information about what we're currently in beta as well as what we're working on next, visit our [GitHub project page](https://github.com/orgs/altstoreio/projects/7)!
 
