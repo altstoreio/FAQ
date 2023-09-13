@@ -35,25 +35,40 @@ Using AltJIT on iOS 17 is not yet supported for Windows users.
 Currently, there are extra steps needed to enable JIT on iOS 17+:
 
 1. Open Terminal on your Mac
-2. Install [Homebrew](https://brew.sh/) with the following command:
+2. Install Xcode Command Line Tools with the following command:
+
+```
+xcode-select --install
+```
+
+{% hint style="warning" %}
+If you are running macOS Sonoma and see an error that Command Line Tools aren’t currently available, try the following commands instead:
+{% endhint %}
+
+```
+sudo mkdir -p /Library/Developer/CommandLineTools   
+sudo touch /Library/Developer/CommandLineTools/.beta  
+```
+
+3. Install [Homebrew](https://brew.sh/) with the following command:
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-3. Install [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) with the following commands:
+4. Install [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) with the following commands:
 
 ```
 brew install openssl@3 
 python3 -m pip install -U pymobiledevice3
 ```
 
-4. Connect your device to your Mac via lightning/USB-C. **Enabling JIT via WiFi is not yet supported**
-5. Open AltStore (or any app that requires JIT)
-6. AltServer run Enable JIT
+5. Connect your device to your Mac via lightning/USB-C. **Enabling JIT via WiFi is not yet supported**
+6. Open AltStore (or any app that requires JIT)
+7. AltServer run Enable JIT
 
-Once everything is installed, you can now enable JIT as usual from AltServer, though you may be required to enter your password.
+Once everything is installed, you can now enable JIT as usual from AltServer, though you may be asked to enter your password.
 
 {% hint style="info" %}
-The first time you try to enable JIT, it may take up to a minute to work. For faster speeds, we recommend installing Xcode
+Enabling JIT on iOS 17 may take up to a minute. To speed up this process, we recommend installing [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
 {% endhint %}
