@@ -1,5 +1,30 @@
 # 🖥 AltServer
 
+## <mark style="color:blue;">AltServer 1.7 (macOS only)</mark>
+
+<mark style="color:blue;">**September 18, 2023**</mark>
+
+### **New**
+
+* Mail Plug-in no longer required!
+* Supports macOS 14 Sonoma
+
+**`altjit` CLI**
+
+* Command-line tool to enable JIT on iOS 17 devices
+* Used internally by AltServer, but can be run manually via Terminal
+* e.g. `AltServer.app/MacOS/altjit enable DolphiniOS --udid [device ID]`
+* Requires installing additional dependencies (view [AltJIT page](https://faq.altstore.io/how-to-use-altstore/altjit) for instructions)
+* Thanks to [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) for their work on the iOS 17 Developer Disk format!
+
+### Fixed
+
+* Fixed AltJIT on iOS 17
+* Fixed "About" panel appearing behind other apps
+* Updates Copyright year to 2023
+
+##
+
 ## <mark style="color:blue;">AltServer 1.6.1</mark>
 
 <mark style="color:blue;">**February 20, 2023**</mark>
