@@ -324,14 +324,6 @@ This means that the developer disk required to enable JIT is not compatible with
 
 
 
-#### <mark style="color:purple;">**(2102) Python Error - JIT iOS 17.**</mark>
-
-`AltServer.ServerError`
-
-If you are trying to enable JIT on an iOS 17 device, you may see this error. This means you have to install dependencies on your Mac. Instructions on how to resolve this can be found [here](../how-to-use-altstore/altjit.md#ios-17-instructions-macos-only).
-
-
-
 ## **Apple Developer Errors**
 
 #### <mark style="color:purple;">**(3000) An unknown error occurred.**</mark>
@@ -616,3 +608,11 @@ Updated information coming soon
 `NSCocoaErrorDomain`
 
 This means that an error occurred while writing files to disk. Make sure your phone and PC both have plenty of available disk space and try again.
+
+
+
+#### <mark style="color:purple;">**(1) AltJIT failed with error code 1 (iOS 17)**</mark>
+
+`AltServer.ProcessError`
+
+If you are trying to enable JIT on an iOS 17 device, you may see this error. Make sure to install all dependencies and keep your device connected with the app open until JIT has successfully been enabled. Instructions for this can be found [here](../how-to-use-altstore/altjit.md#ios-17-instructions-macos-only).
