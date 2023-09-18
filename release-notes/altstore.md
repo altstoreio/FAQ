@@ -1,5 +1,38 @@
 # 🛍 AltStore
 
+## <mark style="color:green;">AltStore 1.7</mark>
+
+<mark style="color:green;">**September 18, 2023**</mark>
+
+### New
+
+**"Active Apps" Widget (iOS 17+)**&#x20;
+
+* View remaining days for ALL active apps from Home Screen
+* Refresh apps directly from home screen by tapping countdown timers
+
+### Improved
+
+**Shortcuts Support**
+
+* Converted existing "Refresh Apps" shortcut into App Shortcut
+* Available by default in "App Shortcuts" section of Shortcuts app
+* Displays accurate progress when refreshing apps via Shortcuts app
+
+**Widgets**
+
+* Updated existing home screen widget to support refreshing apps by tapping countdown (iOS 17+)
+* Explicitly reloads widget timelines on app launch
+
+### Fixed
+
+* Fixed updating apps with manually-removed app extensions (e.g. uYou+)
+* Fixed not refreshing AltStore last when refreshing via Shortcut
+* Fixed race condition causing duplicate background refresh notifications (or none)
+* Fixed Error Log not displaying all detailed info for certain errors
+
+##
+
 ## <mark style="color:green;">AltStore 1.6.3</mark>
 
 <mark style="color:green;">**April 12, 2023**</mark>
