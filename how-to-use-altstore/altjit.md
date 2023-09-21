@@ -72,3 +72,33 @@ Once everything is installed, you can now enable JIT as usual from AltServer, th
 {% hint style="info" %}
 Enabling JIT on iOS 17 may take up to a minute. To speed up this process, we recommend installing [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
 {% endhint %}
+
+
+
+### Troubleshooting
+
+
+
+#### "pymobiledevice3 not installed"
+
+Make sure you have followed the above instructions and installed pymobiledevice3. If you're still seeing this error after you've installed it, you can try downloading Xcode and using this command to reinstall pymobiledevice3:
+
+```
+/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install -U pymobiledevice3
+```
+
+
+
+#### "The process 'altjit' failed with code 1. Could not attach debugger to \[app]. \[app] is not running"
+
+This means that you tried to enable JIT without the requested app running in the foreground. Make sure to launch the app and have it running before you enable JIT.
+
+
+
+To use AltJIT, you first need the app to be open on your device. You can do this by simply launching the app you want to use and waiting for it to connect automatically. If the app does not connect automatically for any reason, you can either enable it from AltStore by long-pressing the app in the My Apps tab or by launching the app first, then selecting the option to Enable JIT on AltServer.
+
+
+
+#### "The process 'altjit' failed with code 1. Could not connect to device \[DeviceID]."
+
+Please make sure to have your device connected to your Mac/PC via USB-C/Lightining until AltJIT has successfully been enabled. Once it's been enabled, you can disconnect and use the app normally as long as it's kept running.
