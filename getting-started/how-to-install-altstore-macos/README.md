@@ -7,7 +7,12 @@ description: >-
 
 # 🍎 How to Install AltStore (macOS)
 
-1. Download [AltServer](https://cdn.altstore.io/file/altstore/altserver.zip)[ for macOS](https://cdn.altstore.io/file/altstore/altserver.zip).
+1. Download [AltServer](https://cdn.altstore.io/file/altstore/altserver.zip)[ for macOS](https://cdn.altstore.io/file/altstore/altserver.zip) (requires macOS 11 or later).
+
+{% hint style="info" %}
+If you are on macOS 10.14 or 10.15, download [AltServer 1.6.2](https://f000.backblazeb2.com/file/altstore/altserver/1\_6\_2.zip)
+{% endhint %}
+
 2. Copy `AltServer.app` to your `/Applications` folder.
 3. Launch AltServer, which will appear as an icon in the menu bar.
 
