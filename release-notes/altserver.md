@@ -23,13 +23,28 @@
 * Fixed "About" panel appearing behind other apps
 * Updates Copyright year to 2023
 
+
+
+## <mark style="color:blue;">AltServer 1.6.2 (macOS only)</mark>
+
+<mark style="color:blue;">**September 28, 2023**</mark>
+
+### **New**
+
+* Mail Plug-in no longer required!
+
+### Fixed
+
+* Fixed "About" panel appearing behind other apps
+* Updates Copyright year to 2023
+
 ##
 
-## <mark style="color:blue;">AltServer 1.6.1</mark>
+## <mark style="color:blue;">AltServer 1.6.1 (Windows only)</mark>
 
 <mark style="color:blue;">**February 20, 2023**</mark>
 
-* Supports Apple IDs with Advanced Data Protection (ADP) enabled **(Windows)**
+* Supports Apple IDs with Advanced Data Protection (ADP) enabled
 
 
 
