@@ -21,10 +21,10 @@
 * [🔗 Adding Sources (Beta)](how-to-use-altstore/sources.md)
 * [🐮 MacDirtyCow](how-to-use-altstore/macdirtycow.md)
 
-## Distirubute Your Apps
+## Distribute Your Apps
 
-* [📓 Make a Source](sources/make-a-source.md)
-* [⬆ Updating Apps](sources/updating-apps.md)
+* [📓 Make a Source](distribute-your-apps/make-a-source.md)
+* [⬆ Updating Apps](distribute-your-apps/updating-apps.md)
 
 ## Release Notes
 
