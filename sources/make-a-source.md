@@ -141,7 +141,7 @@ See [News Items](make-a-source.md#news-items) section below for more.
         "localizedDescription": "This is an awesome app only available on AltStore.",
         "iconURL": "https://example.com/myapp_icon.png",
         "tintColor": "#F54F32",
-        "screenshotURLs": [
+        "screenshots": [
             "https://example.com/myapp_screenshot1.png",
             "https://example.com/myapp_screenshot2.png",
             "https://example.com/myapp_screenshot3.png"
@@ -192,25 +192,119 @@ The color used to theme your app's store page. We recommend using your app's exi
 This must be in hexadecimal format (e.g **#F54F32** or **C9B632**)
 {% endhint %}
 
-#### `screenshotURLs` <mark style="color:purple;">(string array)</mark>
+#### `screenshots` <mark style="color:purple;">(array of Screenshots)</mark>
 
 _(optional)_
 
-Links to screenshots/images of your app. The first two will be displayed under the app listing in the browse tab, and the rest will be visible on the app's page. We recommend using screenshots that show the main features of your app.
+Screenshots of your app. We recommend showcasing your app's main features.&#x20;
 
-{% hint style="info" %}
-We recommended using images with **9:16** **aspect ratios** for best results. Other aspect ratios will be stretched to fill.
-{% endhint %}
+Please see the [Screenshots](make-a-source.md#screenshots) section below for detailed info and instructions.
 
 #### `versions` <mark style="color:purple;">(array of App Versions)</mark>
 
 A list of all the published versions of your app.
 
+Please see the [App Versions](make-a-source.md#app-versions) section below for detailed info and instructions
+
 {% hint style="warning" %}
 **The order of versions matters**. AltStore uses the order to determine which version is the "latest" release. For more information, see [Updating Apps](updating-apps.md)
 {% endhint %}
 
-###
+##
+
+## <mark style="color:purple;">Screenshots</mark>
+
+**Standard**
+
+```json
+"screenshots": [
+  {
+    "imageURL": "altstore.io/BrowseScreen.png"
+  },
+  {
+    "imageURL": "altstore.io/MyAppsScreen.png"
+  },
+  {
+    "imageURL": "altstore.io/Settings.png",
+    "width": 2556,
+    "height": 1179
+  },
+]
+```
+
+If a screenshot has an aspect ratio of 9:19.5 (aka a portrait Face ID iPhone), you can optionally list the URL directly instead of a full `Screenshot` object:
+
+```json
+"screenshots": [ 
+  "altstore.io/BrowseScreen.png",
+  "altstore.io/MyAppsScreen.png",
+  {
+    "imageURL": "altstore.io/Settings.png",
+    "width": 2556,
+    "height": 1179,
+  },
+]
+```
+
+{% hint style="success" %}
+Screenshots with an aspect ratio of 9:19.5 (aka a portrait Face ID iPhone) will have their corners automatically rounded.
+{% endhint %}
+
+#### Universal Apps
+
+If your app supports both iPhone and iPad and you want to use different screenshots for each device, you can provide multiple arrays nested under the `iphone` and `ipad` keys, respectively, using the same format as above.
+
+```json
+"screenshots": {
+  "iphone": [
+    "altstore.io/BrowseScreen.png",
+    "altstore.io/MyAppsScreen.png",
+    {
+      "imageURL": "altstore.io/Settings.png",
+      "width": 2556,
+      "height": 1179
+    }
+  ],
+  "ipad": [
+    {
+      "imageURL": "altstore.io/iPadPortrait.png",
+      "width": 1179,
+      "height": 2556
+    },
+    {
+      "imageURL": "altstore.io/iPadLandscape.png",
+      "width": 2556,
+      "height": 1179
+    }
+  ]
+}
+```
+
+#### `imageURL` <mark style="color:purple;">(string)</mark>
+
+Link to a screenshot of your app.
+
+#### `width` <mark style="color:purple;">(number)</mark>
+
+_(optional)_
+
+The pixel width of the image. If not provided, AltStore will assume a default size of 393 x 852 points (iPhone 15 in portrait mode).&#x20;
+
+{% hint style="danger" %}
+All iPad screenshots must provide an explicit`width.`
+{% endhint %}
+
+#### **`height`** <mark style="color:purple;">(number)</mark>
+
+_(optional)_
+
+The pixel height of the image. If not provided, AltStore will assume a default size of 393 x 852 points (iPhone 15 in portrait mode).&#x20;
+
+{% hint style="danger" %}
+All iPad screenshots must provide an explicit`height.`
+{% endhint %}
+
+##
 
 ### <mark style="color:purple;">App Versions</mark>
 
@@ -291,7 +385,7 @@ For security purposes, AltStore requires that sources list **all** entitlements 
 
 
 
-**Entitlements**
+**Entitlements**&#x20;
 
 A list of **all** entitlements the app has. Each entitlement should have the following keys:
 
