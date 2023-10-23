@@ -21,7 +21,6 @@ description: >-
 ```json
 {
   "name": "My Example Source",
-  "identifier": "com.example.MyApps",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://example.com/source_icon.png",
@@ -40,14 +39,6 @@ description: >-
 #### `name` <mark style="color:purple;">(string)</mark>
 
 The name of your source as it will appear in AltStore.
-
-#### `identifier` <mark style="color:purple;">(string)</mark>
-
-A string that identifies your source and **must be unique**. AltStore uses this to distinguish sources from one another. To ensure your identifier is unique, we recommend using a reverse-DNS format (e.g. `com.example.MyApps`)
-
-{% hint style="warning" %}
-**You cannot change this identifier once you publish your source.** Doing so will cause the source to break for all existing users.
-{% endhint %}
 
 #### `subtitle` <mark style="color:purple;">(string)</mark>
 
@@ -365,19 +356,13 @@ The maximum iOS version supported by this release **(inclusive)**. AltStore will
 ```json
 "appPermissions": {
   "entitlements": [
-    {
-      "name": "com.apple.security.application-groups"
-    },
-    {
-      "name": "com.apple.developer.siri"
-    }
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
   ],
-  "privacy": [
-    {
-    "name": "PhotoLibrary",
-    "usageDescription": "App saves photos to your Photo Library."
-    }
-  ]
+  "privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+  }
 },
 ```
 
@@ -385,33 +370,37 @@ For security purposes, AltStore requires that sources list **all** entitlements 
 
 
 
-**Entitlements**&#x20;
+**`entitlements`** <mark style="color:purple;">**(array of strings)**</mark>
 
-A list of **all** entitlements the app has. Each entitlement should have the following keys:
+A list of all entitlements used by the app and its app extensions.
 
-#### `name` <mark style="color:purple;">(string)</mark>
+```json
+"entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+ ]
+```
 
-The entitlement key (case-sensitive).
+{% hint style="success" %}
+For convenience, certain entitlements that are required for all applications don't need to be listed:
 
 
 
-**Privacy**
 
-A list of **all** `UsageDescription` entries in the app's Info.plist. Each permission should have the following keys:
-
-#### `name` <mark style="color:purple;">(string)</mark>
-
-The name of a `UsageDescription` key in the app's Info.plist. Specifically, the **case-sensitive** string between "NS" and "UsageDescription".
-
-{% hint style="info" %}
-e.g. For NSPhotoLibraryUsageDescription, use "PhotoLibrary"
 {% endhint %}
 
-#### `usageDescription` <mark style="color:purple;">(string)</mark>
+**`privacy`** <mark style="color:purple;">**(dictionary of strings)**</mark>
 
-An explanation for how or why the app uses this protected resource. We recommend using the same string that's already in your Info.plist.
+A dictionary with all the "UsageDescription" keys in your app's Info.plist along with their descriptions. We recommend using the same descriptions already in your Info.plist.
 
+```json
+"privacy": {
+    "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
+    "NSCameraUsageDescription": "App uses the camera to take photos."
+}
+```
 
+###
 
 ### <mark style="color:purple;">News Items</mark>
 
