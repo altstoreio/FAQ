@@ -209,17 +209,17 @@ Please see the [App Versions](make-a-source.md#app-versions) section below for d
 
 ```json
 "screenshots": [
-  {
-    "imageURL": "altstore.io/BrowseScreen.png"
-  },
-  {
-    "imageURL": "altstore.io/MyAppsScreen.png"
-  },
-  {
-    "imageURL": "altstore.io/Settings.png",
-    "width": 2556,
-    "height": 1179
-  },
+    {
+        "imageURL": "https://example.com/iphone_portrait_1.png"
+    },
+    {
+        "imageURL": "https://example.com/iphone_portrait_2.png"
+    },
+    {
+        "imageURL": "https://example.com/iphone_landscape.png",
+        "width": 2556,
+        "height": 1179
+    },
 ]
 ```
 
@@ -227,13 +227,13 @@ If a screenshot has an aspect ratio of 9:19.5 (aka a portrait Face ID iPhone), y
 
 ```json
 "screenshots": [ 
-  "altstore.io/BrowseScreen.png",
-  "altstore.io/MyAppsScreen.png",
-  {
-    "imageURL": "altstore.io/Settings.png",
-    "width": 2556,
-    "height": 1179,
-  },
+    "https://example.com/iphone_portrait_1.png",
+    "https://example.com/iphone_portrait_2.png",
+    {
+        "imageURL": "https://example.com/iphone_landscape.png",
+        "width": 2556,
+        "height": 1179
+    }
 ]
 ```
 
@@ -247,27 +247,27 @@ If your app supports both iPhone and iPad and you want to use different screensh
 
 ```json
 "screenshots": {
-  "iphone": [
-    "altstore.io/BrowseScreen.png",
-    "altstore.io/MyAppsScreen.png",
-    {
-      "imageURL": "altstore.io/Settings.png",
-      "width": 2556,
-      "height": 1179
-    }
-  ],
-  "ipad": [
-    {
-      "imageURL": "altstore.io/iPadPortrait.png",
-      "width": 1179,
-      "height": 2556
-    },
-    {
-      "imageURL": "altstore.io/iPadLandscape.png",
-      "width": 2556,
-      "height": 1179
-    }
-  ]
+    "iphone": [
+        "https://example.com/iphone_portrait_1.png",
+        "https://example.com/iphone_portrait_2.png",
+        {
+            "imageURL": "https://example.com/iphone_landscape.png",
+            "width": 2556,
+            "height": 1179
+        }
+    ],
+    "ipad": [
+        {
+            "imageURL": "https://example.com/ipad_portrait.png",
+            "width": 1668,
+            "height": 2388
+        },
+        {
+            "imageURL": "https://altstore.io/ipad_landscape",
+            "width": 2388,
+            "height": 1668
+        }
+    ]
 }
 ```
 

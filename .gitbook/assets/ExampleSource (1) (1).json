@@ -40,24 +40,8 @@
           "downloadURL": "https://example.com/myapp_v1.0.ipa",
           "localizedDescription": "Initial release."
                 }
-            ],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.siri"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "App saves photos to your Photo Library."
-          }
-        ]
-      }
-    },
+            ]
+        },
         {
             "name": "Another Example App",
             "bundleIdentifier": "com.example.anotherapp",
@@ -98,24 +82,8 @@
           "localizedDescription": "Initial release.",
           "size": 79821
         }
-            ],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.siri"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "App scans the local network for nearby computers."
-          }
-        ]
-      }
-    }
+            ]
+        }
     ],
     "news": [
   {
