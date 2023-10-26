@@ -60,7 +60,7 @@ sudo touch /Library/Developer/CommandLineTools/.beta
 
 ```
 brew install openssl@3 
-python3 -m pip install -U pymobiledevice3
+/usr/bin/python3 -m pip install -U pymobiledevice3
 ```
 
 5. Connect your device to your Mac via lightning/USB-C. **Enabling JIT via WiFi is not yet supported**
