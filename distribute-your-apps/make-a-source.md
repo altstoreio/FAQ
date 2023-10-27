@@ -382,11 +382,14 @@ A list of all entitlements used by the app and its app extensions.
 ```
 
 {% hint style="success" %}
-For convenience, certain entitlements that are required for all applications don't need to be listed:
+These entitlements are required by all applications, so they don’t need to be explicitly listed:
+
+* `application-identifier`
+* `com.apple.developer.team-identifier`
 
 
 
-
+The `get-task-allow` entitlement also doesn't need to be explicitly listed because it is automatically given to all applications resigned with AltStore. Unlike the above entitlements though, it **will** be shown on the app’s store page.
 {% endhint %}
 
 **`privacy`** <mark style="color:purple;">**(dictionary of strings)**</mark>
