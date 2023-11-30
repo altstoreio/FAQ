@@ -1,5 +1,17 @@
 # 🖥 AltServer
 
+## <mark style="color:blue;">AltServer 1.7.1 (macOS only)</mark>
+
+<mark style="color:blue;">**November 30, 2023**</mark>
+
+* Increases default AltJIT timeout to 90 seconds
+*   Change AltJIT timeout via `defaults` Terminal command:
+
+    `defaults write com.rileytestut.AltServer JITTimeout [seconds]`
+* Adds `--timeout` argument to `altjit` CLI tool
+
+
+
 ## <mark style="color:blue;">AltServer 1.7 (macOS only)</mark>
 
 <mark style="color:blue;">**September 18, 2023**</mark>
