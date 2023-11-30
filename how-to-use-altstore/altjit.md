@@ -77,7 +77,13 @@ Enabling JIT on iOS 17 may take up to a minute. To speed up this process, we rec
 
 ### Troubleshooting
 
+#### "pymobiledevice3 timed out" (AltServer.ProcessError 0)
 
+If you keep getting this error while trying to enable JIT, you can try extending the default timeout duration by entering the command below in Terminal.  Just change "120" to your preferred duration (in seconds).
+
+```
+defaults write com.rileytestut.AltServer JITTimeout 120
+```
 
 #### "pymobiledevice3 not installed"
 
