@@ -98,7 +98,7 @@ defaults write com.rileytestut.AltServer JITTimeout 120
 Make sure you have followed the above instructions and installed pymobiledevice3. If you're still seeing this error after you've installed it, you can try downloading Xcode and using this command to reinstall pymobiledevice3:
 
 ```
-/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install -U pymobiledevice3
+/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install -U pymobiledevice3==2.30.0 construct==2.10.69
 ```
 
 #### "Could not attach debugger to \[app]. \[app] is not running"
