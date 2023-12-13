@@ -26,6 +26,7 @@ description: >-
   "iconURL": "https://example.com/source_icon.png",
   "headerURL": "https://example.com/source_header.png",
   "website": "https://example.com",
+  "patreonURL": "https://patreon.com/mycampaign"
   "tintColor": "#F54F32",
   "featuredApps": [
     "com.example.myapp",
@@ -82,6 +83,14 @@ _(optional)_
 
 A link to the primary website for your source. It will be displayed underneath your source's name on its About page.
 
+#### `patreonURL` <mark style="color:purple;">(string)</mark>
+
+_(optional)_
+
+A link to your Patreon campaign.  This will enable you to distribute Patreon-only apps through your Source.
+
+You must add a Patreon object to every app listing you want to designate as Patreon-only. See the [Apps](make-a-source.md#apps) section for more information.
+
 #### `tintColor` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
@@ -132,6 +141,7 @@ See [News Items](make-a-source.md#news-items) section below for more.
         "localizedDescription": "This is an awesome app only available on AltStore.",
         "iconURL": "https://example.com/myapp_icon.png",
         "tintColor": "#F54F32",
+        "category": "utilities",
         "screenshots": [
             "https://example.com/myapp_screenshot1.png",
             "https://example.com/myapp_screenshot2.png",
@@ -139,6 +149,7 @@ See [News Items](make-a-source.md#news-items) section below for more.
         ],
         "versions": [],
         "appPermissions": {},
+        "patreon": {},
     },
 ]
 ```
@@ -183,6 +194,25 @@ The color used to theme your app's store page. We recommend using your app's exi
 This must be in hexadecimal format (e.g **#F54F32** or **C9B632**)
 {% endhint %}
 
+#### `category` <mark style="color:purple;">(string)</mark>
+
+_(optional)_
+
+The store category best representing your app.
+
+{% hint style="info" %}
+This **must** be one of the below values. If no category is provided it will default to `other`
+
+* `developer`
+* `entertainment`
+* `games`
+* `lifestyle`
+* `other`
+* `photo-video`
+* `social`
+* `utilities`
+{% endhint %}
+
 #### `screenshots` <mark style="color:purple;">(array of Screenshots)</mark>
 
 _(optional)_
@@ -201,7 +231,21 @@ Please see the [App Versions](make-a-source.md#app-versions) section below for d
 **The order of versions matters**. AltStore uses the order to determine which version is the "latest" release. For more information, see [Updating Apps](updating-apps.md)
 {% endhint %}
 
-##
+#### `appPermissions` <mark style="color:purple;">(App Permissions object)</mark>
+
+An object listing all entitlements and privacy permissions information used by the app.&#x20;
+
+See [App Permissions](make-a-source.md#app-permissions) section below for more.
+
+#### `patreon` <mark style="color:purple;">(Patreon object)</mark>
+
+_(optional)_
+
+An object specifying the required pledge/tiers to download the app. &#x20;
+
+See [Patreon](make-a-source.md#patreon-apps) section below for more.
+
+
 
 ## <mark style="color:purple;">Screenshots</mark>
 
@@ -382,14 +426,10 @@ A list of all entitlements used by the app and its app extensions.
 ```
 
 {% hint style="success" %}
-These entitlements are required by all applications, so they don’t need to be explicitly listed:
+These entitlements are required for all applications, so don't need to be listed:
 
+* `com.app.developer.team-identifier`
 * `application-identifier`
-* `com.apple.developer.team-identifier`
-
-
-
-The `get-task-allow` entitlement also doesn't need to be explicitly listed because it is automatically given to all applications resigned with AltStore. Unlike the above entitlements though, it **will** be shown on the app’s store page.
 {% endhint %}
 
 **`privacy`** <mark style="color:purple;">**(dictionary of strings)**</mark>
@@ -484,3 +524,72 @@ A link that AltStore should open when the News item is tapped. Links will be ope
 _(optional)_
 
 The bundle identifier of an associated app. This will make the app's info banner appear below the News item, which will open the app's Store page when tapped.
+
+
+
+### <mark style="color:purple;">Patreon</mark>
+
+By adding a Patreon object to your app listing, AltStore can ensure only Patrons can download the app.&#x20;
+
+For more information on how AltStore's Patreon Integration works, please visit the [Patreon Integration](patreon-integration.md) page.
+
+<pre class="language-json"><code class="lang-json">"patreon": {
+  "pledge": 3,
+  "currency": "EUR",
+  "benefit": "90zyx87",
+<strong>  "tiers": [
+</strong>    "12abc34",
+    "56cde78",
+  ],  
+},
+</code></pre>
+
+{% hint style="warning" %}
+The below requirements are **mutually inclusive**. This means if **any** of the conditions you provide are met, a user will be able to download your app.
+
+If you don't provide any of the following keys, AltStore will default to allowing all active Patrons to download the app regardless of tier (excluding followers).
+{% endhint %}
+
+#### `pledge` <mark style="color:purple;">(number)</mark>
+
+_(optional)_
+
+The minimum pledge amount required for download. This can be used to limit downloads to higher tiers.
+
+This amount is assumed to be in USD by default. **If using a non-USD currency for your campaign, you must specify it using the currency key below.**
+
+{% hint style="info" %}
+This amount will be shown as the app's monthly price if provided. For this reason, we recommend always providing a minimum pledge amount, even if you only have one tier.
+{% endhint %}
+
+#### `currency` <mark style="color:purple;">(string)</mark>
+
+_(optional\*)_
+
+The [ISO currency code](https://www.iso.org/iso-4217-currency-codes.html) of your campaign's currency.&#x20;
+
+\*This key is **required** if you provide a pledge amount and your campaign uses a non-USD currency.
+
+#### `benefit` <mark style="color:purple;">(string)</mark>
+
+_(optional)_
+
+The identifier of a campaign benefit. You can add [benefits](https://support.patreon.com/hc/en-us/articles/203913559-How-to-set-up-paid-tiers-and-benefits) to any of your Patreon campaign tiers, then specify it using this key to allow anyone with that benefit to download your app.
+
+{% hint style="info" %}
+Benefit identifiers are hidden by default, but you can find them by using the [Patreon API](https://docs.patreon.com/#benefit).&#x20;
+{% endhint %}
+
+#### `tiers` <mark style="color:purple;">(array of strings)</mark>
+
+_(optional)_
+
+A list of tier identifiers designating which tiers are required to download. A user must be a member of one of these tiers to download your app.
+
+You can find a tier's identifier by selecting a tier and going to its checkout page. The identifier is the numeric value at the end of the URL.
+
+<table><thead><tr><th width="529">URL</th><th>Tier ID</th><th data-hidden></th></tr></thead><tbody><tr><td> https://www.patreon.com/checkout/shaneriley?rid=<a data-footnote-ref href="#user-content-fn-1">8373919</a> </td><td>8373919</td><td></td></tr></tbody></table>
+
+
+
+[^1]: 
