@@ -52,16 +52,22 @@ sudo touch /Library/Developer/CommandLineTools/.beta
 
 3. Install [Homebrew](https://brew.sh/) with the following command:
 
+{% code overflow="wrap" %}
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+{% endcode %}
 
 4. Install [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) with the following commands:
 
 ```
 brew install openssl@3 
-python3 -m pip install -U pymobiledevice3==2.30.0
+python3 -m pip install -U pymobiledevice3==2.30.0 
 ```
+
+{% hint style="warning" %}
+You must use pymobiledevice3 version 2.30.0 or earlier. Later versions may not be compatible.
+{% endhint %}
 
 5. Connect your device to your Mac via lightning/USB-C. **Enabling JIT via WiFi is not yet supported**
 6. Open AltStore (or any app that requires JIT)
@@ -77,13 +83,25 @@ Enabling JIT on iOS 17 may take up to a minute. To speed up this process, we rec
 
 ### Troubleshooting
 
-#### "Could not connect to device. The process 'python3' returned unexpected output. Error: No such command 'start-quic-tunnel'."
+#### "The process 'altjit' failed with code 1. The process 'python3' failed with code 1. stream.tell() failed"
 
-The latest version of pymobiledevice3 is not currently working with AltServer. Please run the following command to install the last compatible version:
+The version of pymobiledevice3 you are using is not currently working with AltServer. Please run the following command to install the last compatible version:
 
 ```
 python3 -m pip install pymobiledevice3==2.30.0 construct==2.10.69
 ```
+
+
+
+#### "Could not connect to device. The process 'python3' returned unexpected output. Error: No such command 'start-quic-tunnel'."
+
+The version of pymobiledevice3 you are using is not currently working with AltServer. Please run the following command to install the last compatible version:
+
+```
+python3 -m pip install pymobiledevice3==2.30.0 construct==2.10.69
+```
+
+####
 
 #### "pymobiledevice3 timed out" (AltServer.ProcessError 0)
 
@@ -93,19 +111,27 @@ If you keep getting this error while trying to enable JIT, you can try extending
 defaults write com.rileytestut.AltServer JITTimeout 120
 ```
 
+####
+
 #### "pymobiledevice3 not installed"
 
 Make sure you have followed the above instructions and installed pymobiledevice3. If you're still seeing this error after you've installed it, you can try downloading Xcode and using this command to reinstall pymobiledevice3:
 
+{% code overflow="wrap" %}
 ```
 /Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install -U pymobiledevice3
 ```
+{% endcode %}
+
+####
 
 #### "Could not attach debugger to \[app]. \[app] is not running"
 
 This means that you tried to enable JIT without the requested app running in the foreground. Make sure to launch the app and have it running before you enable JIT.
 
 If you're still running into issues, you can enable it from AltStore by long-pressing the app in the My Apps tab and selecting "Enable JIT"
+
+####
 
 #### "Could not connect to device \[Device ID]."
 
