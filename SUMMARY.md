@@ -26,6 +26,7 @@
 * [📓 Make a Source](distribute-your-apps/make-a-source.md)
 * [⬆ Updating Apps](distribute-your-apps/updating-apps.md)
 * [🅿 Patreon Integration](distribute-your-apps/patreon-integration.md)
+* [🤖 AltSource CLI](distribute-your-apps/altsource-cli.md)
 
 ## Release Notes
 

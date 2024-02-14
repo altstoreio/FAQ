@@ -1,22 +1,32 @@
----
-description: >-
-  To distribute your apps with AltStore you need to first create a source, which
-  is just a self-hosted JSON file containing basic metadata about your apps.
----
-
 # 📓 Make a Source
 
-## Example Source
+## Overview
 
-{% file src="../.gitbook/assets/ExampleSource.json" %}
-**We recommend reading the below instructions and editing this file with details for your source.**
-{% endfile %}
+To distribute your apps with AltStore you need to first create a source, which is just a self-hosted JSON file containing basic metadata about your apps. Below is a list of required keys to make a valid source in AltStore along with optional keys you can use to further customize your source.
 
-
+{% hint style="info" %}
+Generate your source automatically by using AltServer's built-in [AltSource tool](altsource-cli.md).&#x20;
+{% endhint %}
 
 ## Instructions
 
+1. Create a new JSON document&#x20;
+2. Input information about your Source using the Source Keys below
+3. Host that document at your sourceURL
+
+#### Example Source
+
+Download this example source as a template to edit with your source's information
+
+{% file src="../.gitbook/assets/ExampleSource.json" %}
+
+## Source Keys
+
+Below are descriptions of each key you can use to add details to your source. Each section starts with an example&#x20;
+
 ### <mark style="color:purple;">Source</mark>
+
+<mark style="color:purple;">Your source is</mark>&#x20;
 
 ```json
 {
@@ -130,6 +140,8 @@ See [News Items](make-a-source.md#news-items) section below for more.
 ###
 
 ### <mark style="color:purple;">Apps</mark>
+
+<mark style="color:purple;">\[some info here describing "To add an app listing create a new App in your array as below"]</mark>
 
 ```json
 "apps": [
@@ -247,7 +259,7 @@ See [Patreon](make-a-source.md#patreon-apps) section below for more.
 
 
 
-## <mark style="color:purple;">Screenshots</mark>
+### <mark style="color:purple;">Screenshots</mark>
 
 **Standard**
 

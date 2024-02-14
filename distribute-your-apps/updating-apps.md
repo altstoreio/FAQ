@@ -4,6 +4,12 @@ description: Learn how to issue app updates
 
 # ⬆ Updating Apps
 
+
+
+{% hint style="info" %}
+Update apps in your source automatically by using AltServer's built-in AltSource tool.
+{% endhint %}
+
 ### Overview
 
 To update your app, you'll need to add a new App Versions entry to your Source JSON with a unique `version` and/or `buildVersion`. After uploading your changes, AltStore will automatically detect that an app update is available and notify users.
