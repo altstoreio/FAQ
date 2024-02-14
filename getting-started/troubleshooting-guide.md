@@ -33,7 +33,7 @@ This could happen for a number of reasons. If you’re experiencing this issue, 
 
 ### AltServer
 
-<mark style="color:purple;">**AltStore says “Could not find AltServer” when trying to sideload or refresh apps.**</mark>
+#### <mark style="color:purple;">AltStore says “Could not find AltServer” when trying to sideload or refresh apps.</mark>
 
 AltServer must be running on a computer connected to the same WiFi as AltStore in order to sideload or refresh apps. If AltServer is running on the same WiFi network as AltStore and you're still receiving this error, try the following:
 
@@ -51,7 +51,7 @@ You can always sideload and refresh apps without WiFi by plugging your iPhone or
 
 ### AltJIT
 
-<mark style="color:purple;">**AltServer says “JIT could not be enabled for \[App]".**</mark>
+#### <mark style="color:purple;">AltServer says “JIT could not be enabled for \[App]".</mark>
 
 This could happen for a number of reasons. If you’re experiencing this issue, please check the following:
 

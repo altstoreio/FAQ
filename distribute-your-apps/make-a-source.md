@@ -22,11 +22,7 @@ Download this example source as a template to edit with your source's informatio
 
 ## Source Keys
 
-Below are descriptions of each key you can use to add details to your source. Each section starts with an example&#x20;
-
 ### <mark style="color:purple;">Source</mark>
-
-<mark style="color:purple;">Your source is</mark>&#x20;
 
 ```json
 {
@@ -140,8 +136,6 @@ See [News Items](make-a-source.md#news-items) section below for more.
 ###
 
 ### <mark style="color:purple;">Apps</mark>
-
-<mark style="color:purple;">\[some info here describing "To add an app listing create a new App in your array as below"]</mark>
 
 ```json
 "apps": [
@@ -341,7 +335,7 @@ The pixel width of the image. If not provided, AltStore will assume a default si
 All iPad screenshots must provide an explicit`width.`
 {% endhint %}
 
-#### **`height`** <mark style="color:purple;">(number)</mark>
+#### `height` <mark style="color:purple;">(number)</mark>
 
 _(optional)_
 
@@ -426,7 +420,7 @@ For security purposes, AltStore requires that sources list **all** entitlements 
 
 
 
-**`entitlements`** <mark style="color:purple;">**(array of strings)**</mark>
+#### `entitlements` <mark style="color:purple;">(array of strings)</mark>
 
 A list of all entitlements used by the app and its app extensions.
 
@@ -444,7 +438,7 @@ These entitlements are required for all applications, so don't need to be listed
 * `application-identifier`
 {% endhint %}
 
-**`privacy`** <mark style="color:purple;">**(dictionary of strings)**</mark>
+#### `privacy` <mark style="color:purple;">(dictionary of strings)</mark>
 
 A dictionary with all the "UsageDescription" keys in your app's Info.plist along with their descriptions. We recommend using the same descriptions already in your Info.plist.
 
