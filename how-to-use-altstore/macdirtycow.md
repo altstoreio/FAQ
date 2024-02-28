@@ -7,7 +7,7 @@ description: >-
 # 🐮 MacDirtyCow
 
 {% hint style="info" %}
-MacDirtyCow requires iOS 14.0-16.1.2 (excluding 15.7.2)
+MacDirtyCow requires iOS 15.0-16.1.2 (excluding 15.7.2)
 
 **iOS 16.2 or later is not supported**
 {% endhint %}
