@@ -119,7 +119,7 @@ Make sure you have followed the above instructions and installed pymobiledevice3
 
 {% code overflow="wrap" %}
 ```
-/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install -U pymobiledevice3
+/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install -U pymobiledevice3==2.30.0 construct==2.10.69
 ```
 {% endcode %}
 
