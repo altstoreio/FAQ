@@ -12,6 +12,12 @@ For information on how to see your Apple ID region, please see this [page](https
 
 
 
+<mark style="color:purple;">**Your device is on iOS 17.4+**</mark>
+
+AltStore PAL can only be run on devices running iOS 17.4 or later. Please ensure your device is up to date before trying to install.
+
+
+
 <mark style="color:purple;">**Apple Pay**</mark>
 
 There are some issues that may cause Apple Pay to fail, so we suggest making sure your payment has been processed correctly before trying to download AltStore PAL. If your payment continues to fail, we recommend providing a credit card directly or using another payment option.
