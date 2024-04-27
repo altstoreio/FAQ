@@ -5,6 +5,9 @@ AltStore PAL can only be downloaded onto devices physically located in the Europ
 
 For information on how to see your Apple ID region, please see this [page](https://support.apple.com/en-us/118283).
 
+### iOS 17.4
+Apple introduced third party marketplaces with iOS 17.4. Make sure you're running at least this version before trying to install AltStore PAL.
+
 ### Safari only
 Currently, Apple only permits installing marketplace apps from the Safari browser. 
 
