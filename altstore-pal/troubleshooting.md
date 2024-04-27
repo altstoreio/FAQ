@@ -12,6 +12,12 @@ For information on how to see your Apple ID region, please see this [page](https
 
 
 
+<mark style="color:purple;">**Missing Download Link (Re-Download)**</mark>
+
+You can redownload to the same device at any time by clicking the payment button again and typing in the same email address you used to check out before (or attempt to use Apple Pay again) - Stripe will automatically redirect you to the AltStore PAL download page. You do not need to re-subscribe&#x20;
+
+
+
 <mark style="color:purple;">**Your device is on iOS 17.4+**</mark>
 
 AltStore PAL can only be run on devices running iOS 17.4 or later. Please ensure your device is up to date before trying to install.
