@@ -4,7 +4,7 @@ If you have issues downloading AltStore PAL, make sure to check this guide and s
 
 
 
-<mark style="color:purple;">**Restart your Device**</mark>
+<mark style="color:purple;">**Restart Your Device**</mark>
 
 If you run into any issues while downloading, be sure to first restart your device. This may be required for your device to recognize AltStore and allow you to download. Once you do this, you can continue with the other below suggestions.
 
@@ -24,7 +24,7 @@ You can redownload to the same device at any time by clicking the payment button
 
 
 
-<mark style="color:purple;">**Your device is on iOS 17.4+**</mark>
+<mark style="color:purple;">**Your Device is on iOS 17.4+**</mark>
 
 AltStore PAL can only be run on devices running iOS 17.4 or later. Please ensure your device is up to date before trying to install.
 
@@ -50,6 +50,6 @@ Currently, AltStore PAL can only be downloaded onto one device per subscription.
 
 
 
-<mark style="color:purple;">**Still running into issues?**</mark>
+<mark style="color:purple;">**Still Running into Issues?**</mark>
 
 If you've tried everything above and are still having issues installing AltStore PAL, please start the entire process over again from the [altstore.io](https://altstore.io) homepage. Type in the same email address you used to check out before (or attempt to use Apple Pay again), and Stripe will automatically redirect you to the AltStore PAL download page — you do NOT need to re-subscribe.
