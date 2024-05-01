@@ -4,6 +4,12 @@ If you have issues downloading AltStore PAL, make sure to check this guide and s
 
 
 
+<mark style="color:purple;">**Restart your Device**</mark>
+
+If you run into any issues while downloading, be sure to first restart your device. This may be required for your device to recognize AltStore and allow you to download. Once you do this, you can continue with the other below suggestions.
+
+
+
 <mark style="color:purple;">**Apple ID region must be a country in the European Union**</mark>
 
 AltStore PAL can only be downloaded onto devices physically located in the [European Union](https://european-union.europa.eu/easy-read\_en), and that are logged into an EU Apple ID. You can find your Apple ID's region under Apple ID > Media & Purchases > Country/Region in Settings. And just because we've been asked this a lot, **this does not include the UK.**
