@@ -1,6 +1,6 @@
 # 🧑‍🔧 Troubleshooting
 
-If you have issues downloading AltStore PAL, make sure to check this guide and see if any of these items apply to you.
+If you have issues downloading AltStore PAL, make sure to check this guide and see if any of these items apply to you. If you go through this list and still need help, reach out to[ supprt@altstore.io](mailto:support@altstore.io)
 
 
 
