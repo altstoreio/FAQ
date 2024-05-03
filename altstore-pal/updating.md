@@ -1,4 +1,4 @@
-# ⬇️ Updating
+# 🔼 Updating
 
 Apple currently does not allow marketplace apps to update themselves, so please follow the below instructions to update AltStore PAL manually:
 
