@@ -23,7 +23,7 @@
 
 ## AltStore PAL
 
-* [🔼 Updating](altstore-pal/updating.md)
+* [🔼 Updating PAL](altstore-pal/updating-pal.md)
 * [🧑‍🔧 Troubleshooting](altstore-pal/troubleshooting.md)
 
 ## Distribute Your Apps
