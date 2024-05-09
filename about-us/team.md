@@ -1,4 +1,4 @@
-# 👨👩👧👦 Team
+# 👨‍👩‍👧‍👦 Team
 
 ## ![](../.gitbook/assets/Untitled.png)
 
@@ -16,6 +16,6 @@ Twitter: [@rileytestut ](https://twitter.com/rileytestut)
 
 Website: [shanegill.io](https://shanegill.io)
 
-Email: [shane@shanegill.io](mailto:shane@shanegill.io)
+Email: [shane@altstore.io](mailto:shane@altstore.io)
 
 Twitter: [@shanegillio](https://twitter.com/shanegillio)
