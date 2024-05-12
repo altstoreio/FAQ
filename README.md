@@ -4,6 +4,8 @@ Welcome to AltStore! This guide will show you how install AltStore onto your iPh
 
 [Return to Homepage](https://altstore.io)
 
+## [AltStore PAL](altstore-pal)
+
 ## [Getting Started (macOS)](getting-started/how-to-install-altstore-macos/)
 
 ## [Getting Started (Windows)](getting-started/how-to-install-altstore-windows.md)
