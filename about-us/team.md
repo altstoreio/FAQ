@@ -18,4 +18,4 @@ Website: [shanegill.io](https://shanegill.io)
 
 Email: [shane@altstore.io](mailto:shane@altstore.io)
 
-Twitter: [@shanegillio](https://twitter.com/shanegillio)
+Threads: [@shanegill.io](https://www.threads.net/@shanegill.io)
