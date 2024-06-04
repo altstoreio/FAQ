@@ -4,7 +4,7 @@ description: >-
   only available to those who have joined our Patreon.
 ---
 
-# 🛠️ AltStore (World) Beta Access
+# 🛠️ AltStore Beta Access
 
 ### How do I download the beta versions of AltStore?
 
@@ -14,11 +14,10 @@ description: >-
 4. Open the Settings tab in AltStore.
 5. Press “Link Patreon account”.
 6. Sign in with your Patreon account. After signing in, the message on the Patreon screen will now begin with “Hey \[your name]”. If a different Patreon account than the one you want to use is already logged in via Safari, you may need to sign out in Safari first.
-7. Open the Browse tab. Now, the beta versions of AltStore and Delta will be listed alongside their non-beta versions, designated with a “Beta” badge.
-8. Download the beta!
+7. Open the Browse tab and now the beta versions of Delta and Clip will also be available to download.
 
 {% hint style="warning" %}
-If you download the AltStore beta, make sure to delete the regular AltStore afterward. Having two versions of AltStore installed might cause conflicts.&#x20;
+Make sure to delete the regular AltStore afterward. Having two versions of AltStore installed might cause conflicts.&#x20;
 {% endhint %}
 
 ### What's Currently in Development?
