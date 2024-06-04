@@ -4,9 +4,17 @@ description: >-
   only available to those who have joined our Patreon.
 ---
 
-# 🛠️ AltStore Beta Access
+# 🛠️ Beta Access
 
-### How do I download the beta versions of AltStore?
+### AltStore PAL Instructions&#x20;
+
+1. Join our [Patreon](https://www.patreon.com/rileyshane).
+2. Open the Settings tab in AltStore.
+3. Press “Link Patreon account”.
+4. Sign in with your Patreon account. After signing in, the message on the Patreon screen will now begin with “Hey \[your name]”. If a different Patreon account than the one you want to use is already logged in via Safari, you may need to sign out in Safari first.
+5. Open the Browse tab and now the beta versions of Delta and Clip will also be available to download.
+
+### AltStore (World) Instructions&#x20;
 
 1. Join our [Patreon](https://www.patreon.com/rileyshane).
 2. Download and install the latest beta of AltServer from the most recent AltStore post on our Patreon [here](https://www.patreon.com/collection/48008).

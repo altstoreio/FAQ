@@ -41,7 +41,7 @@
 
 ## Patreon
 
-* [🛠️ AltStore Beta Access](patreon/beta-access.md)
+* [🛠️ Beta Access](patreon/beta-access.md)
 * [🗣️ Discord](patreon/discord.md)
 * [🧸 Friend Zone](patreon/patron-credits-page.md)
 
