@@ -15,7 +15,7 @@ Unlike apps distributed with AltStore, AltStore PAL itself cannot be updated fro
 ### Update Manually
 
 1. Go to Settings -> App Installation -> AltStore
-2. Tap "Update" under App Information
+2. Tap "Update Now" under App Information
 
 {% hint style="warning" %}
 You may need to wait up to 24 hours for the update to appear.
