@@ -172,6 +172,14 @@ Your app's bundle identifier (`CFBundleIdentifier`). It is **case sensitive** an
 A source cannot have multiple apps with the same bundle identifier.
 {% endhint %}
 
+#### `marketplaceID` _<mark style="color:purple;">(string)</mark>_
+
+The "Apple ID" of your notarized app. You can find this on your app's App Store Connect page under "App Information."
+
+{% hint style="warning" %}
+Not required for non-notarized apps distributed with AltStore (World)
+{% endhint %}
+
 #### `developerName` _<mark style="color:purple;">(string)</mark>_
 
 The name of the developer or developers as it will appear on the store page.
