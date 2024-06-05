@@ -4,8 +4,6 @@
 
 <mark style="color:blue;">**June 5, 2024**</mark>
 
-### New
-
 * Supports distributing Patreon-exclusive apps to free members
 * Adds "Manage Subscription" option in Settings to manage PAL annual subscription
 * Shows instructions when updating AltStore PAL
