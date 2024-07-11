@@ -14,6 +14,12 @@ You may run into this issue when first installing AltStore PAL. You can sometime
 
 
 
+<mark style="color:purple;">**iPad Support**</mark>
+
+PAL is only available for those on the iPadOS 18 beta, so you will need to update to this version if you wish to use PAL on any iPad
+
+
+
 <mark style="color:purple;">**Restart Your Device**</mark>
 
 If you run into any issues while downloading, be sure to first restart your device. This may be required for your device to recognize AltStore and allow you to download. Once you do this, you can continue with the other below suggestions.
