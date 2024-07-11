@@ -54,12 +54,6 @@ Optionally you can start the process over again in Safari. Type in the same emai
 
 
 
-<mark style="color:purple;">**Multiple Devices**</mark>
-
-Currently, AltStore PAL can only be downloaded onto one device per subscription. If you purchased and downloaded to a different device than intended, please send an email to support@altstore.io and we can get things sorted for you.
-
-
-
 <mark style="color:purple;">**Still Running into Issues?**</mark>
 
 If you've tried everything above and are still having issues installing AltStore PAL, please start the entire process over again from the [altstore.io](https://altstore.io) homepage. Type in the same email address you used to check out before (or attempt to use Apple Pay again), and Stripe will automatically redirect you to the AltStore PAL download page — you do NOT need to re-subscribe.
