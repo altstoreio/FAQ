@@ -353,7 +353,9 @@ The pixel height of the image. If not provided, AltStore will assume a default s
 All iPad screenshots must provide an explicit`height.`
 {% endhint %}
 
-##
+
+
+
 
 ### <mark style="color:purple;">App Versions</mark>
 
@@ -361,6 +363,7 @@ All iPad screenshots must provide an explicit`height.`
 "versions": [
   {
     "version": "1.0",
+    "buildVersion": "60",
     "date": "2023-03-30",
     "localizedDescription": "First AltStore release!",
     "downloadURL": "https://myapp.com/myapp-1.0.ipa",
@@ -376,6 +379,10 @@ For information on how to update your apps once they're published, see [Updating
 #### `version` <mark style="color:purple;">(string)</mark>
 
 Your app's version number (`CFBundleShortVersionString)`. It is **case sensitive** and should match exactly what is in your `Info.plist`.
+
+#### `buildVersion` <mark style="color:purple;">(string)</mark>
+
+Your app's build number (`CFBundleVersion)`. It is **case sensitive** and should match exactly what is in your `Info.plist`.
 
 #### `date` <mark style="color:purple;">(string)</mark>
 

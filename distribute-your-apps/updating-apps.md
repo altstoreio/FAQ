@@ -2,7 +2,7 @@
 description: Learn how to issue app updates
 ---
 
-# ⬆ Updating Apps
+# ⬆️ Updating Apps
 
 
 
@@ -36,7 +36,7 @@ Users can see a list of unsupported updates from the My Apps tab. Additionally, 
 2. Add a new entry to the beginning of your app's `versions` array in your Source JSON file.
    * Update `downloadURL` to the copied URL
    * Update `version` to match the app's `CFBundleShortVersionString` (e.g "1.2.1")
-   * (Optional) Update `buildVersion` to match the app's `CFBundleVersion` (e.g "10")
+   * Update `buildVersion` to match the app's `CFBundleVersion` (e.g "10")
 
 {% hint style="info" %}
 Each entry must have a different `version` or `buildVersion` from the previous version.
