@@ -1,5 +1,20 @@
 # 🇪🇺 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.1.1</mark>
+
+<mark style="color:blue;">**August 8, 2024**</mark>
+
+* Handles "search" and "view app" deep links
+  * Search: `altstore-pal://search?q=[query]`
+  * View App: `altstore-pal://viewApp?bundleID=[app bundle ID]`
+* Fixed duplicate "New Update Available" notifications
+* Fixed restoring offloaded apps
+* Fixed updating apps under certain conditions
+* Fixed not unlocking certain Patreon benefits
+* Fixed showing legacy app intents in Shortcuts app
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.1</mark>
 
 <mark style="color:blue;">**July 24, 2024**</mark>
