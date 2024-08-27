@@ -10,7 +10,7 @@ If you need to redownload AltStore PAL, follow the same instructions from the [U
 
 <mark style="color:purple;">**"Could Not Install App"**</mark>
 
-You may run into this issue when first installing AltStore PAL. You can sometimes easily fix this by following the instructions on the [Reinstalling PAL](reinstalling-pal.md) page and trying the download process over.
+You may run into this issue when first installing AltStore PAL. You can sometimes easily fix this by following the instructions on the [Reinstalling PAL](broken-reference) page and trying the download process over.
 
 
 

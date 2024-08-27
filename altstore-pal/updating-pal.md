@@ -21,7 +21,7 @@ Unlike apps distributed with AltStore, AltStore PAL itself cannot be updated fro
 You may need to wait up to 24 hours for the update to appear.
 
 \
-If you don't see this after 24 hours or want to update immediately, you can also follow the instructions for [Reinstalling PAL](reinstalling-pal.md). You DO NOT need to delete AltStore PAL first.
+If you don't see this after 24 hours or want to update immediately, you can also download the latest version from the [install page](https://altstore.io/download). You DO NOT need to delete AltStore PAL first.
 {% endhint %}
 
 

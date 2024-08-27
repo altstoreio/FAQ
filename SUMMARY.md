@@ -24,7 +24,6 @@
 ## AltStore PAL
 
 * [🔼 Updating PAL](altstore-pal/updating-pal.md)
-* [⤵️ Reinstalling PAL](altstore-pal/reinstalling-pal.md)
 * [🧑‍🔧 Troubleshooting](altstore-pal/troubleshooting.md)
 
 ## Distribute Your Apps
