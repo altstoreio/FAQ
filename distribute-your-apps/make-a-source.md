@@ -384,6 +384,16 @@ Your app's version number (`CFBundleShortVersionString)`. It is **case sensitive
 
 Your app's build number (`CFBundleVersion)`. It is **case sensitive** and should match exactly what is in your `Info.plist`.
 
+#### `marketingVersion` <mark style="color:purple;">(string)</mark>
+
+_(optional)_
+
+The full version displayed to users on your app's store page and throughout the UI. This can be anything you want and does not need to match `version` or `buildVersion`.
+
+{% hint style="info" %}
+If not provided, this will default to combining `version` and `buildVersion,`e.g. **1.3 (4)**
+{% endhint %}
+
 #### `date` <mark style="color:purple;">(string)</mark>
 
 The release date for this version.&#x20;
