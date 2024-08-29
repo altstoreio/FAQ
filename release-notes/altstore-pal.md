@@ -1,5 +1,31 @@
 # 🇪🇺 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.1.2</mark>
+
+<mark style="color:blue;">**August 29, 2024**</mark>
+
+### **New**&#x20;
+
+• “Auto Manage Installed Apps” debug setting
+
+• Supports `marketingVersion` source key
+
+### **Improved**
+
+• Verifies downloaded app matches source values
+
+• Handles MarketplaceKit deep links
+
+### **Fixed**
+
+• Fixed incorrect progress when installing multiple apps in single session&#x20;
+
+• Fixed installing apps before adding sources
+
+• Fixed Settings tab bar disappearing on iOS 18
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.1.1</mark>
 
 <mark style="color:blue;">**August 8, 2024**</mark>
