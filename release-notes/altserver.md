@@ -1,4 +1,12 @@
-# 🖥 AltServer
+# 🖥️ AltServer
+
+## <mark style="color:blue;">AltServer 1.7.2</mark>
+
+<mark style="color:blue;">**September 16, 2024**</mark>
+
+* Fixed apps becoming unverified on iOS 18
+
+
 
 ## <mark style="color:blue;">AltServer 1.7.1 (macOS only)</mark>
 
