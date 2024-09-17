@@ -330,7 +330,7 @@ This means that the developer disk required to enable JIT is not compatible with
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon
+This means that AltServer ran into an unknown error connecting to Apple servers. We recommend reaching out to our support channels if the issue persists.
 
 
 
@@ -356,7 +356,7 @@ If you still have issues, you can also try creating a new Apple ID to use with A
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+This error should not normally appear, but if it does create an app-specific password for your Apple ID.
 
 
 
@@ -364,7 +364,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+You need to go to the Apple Developer website and create a development team.
 
 
 
@@ -372,7 +372,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+Your device's UDID is invalid, probably due to a jailbreak.
 
 
 
@@ -412,7 +412,7 @@ AltStore couldn’t register an App ID with Apple because the app name contains 
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+AltStore couldn’t register an App ID with Apple because there are non-ASCII characters in the bundle identifier for this app. You can try downloading from another source.
 
 
 
@@ -420,7 +420,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+You have already installed the app you are trying to install.
 
 
 
@@ -436,7 +436,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+This is a limitation for free developer accounts. You will have to wait 7 days before registering new App IDs.
 
 
 
@@ -476,7 +476,7 @@ If you are seeing this error, it's likely due to a recent server-side change mad
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+Update your AltServer, the latest versions have support for 2FA.
 
 
 
@@ -484,7 +484,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+Incorrect 2FA verification code, request a new one and double check you typed it correctly.
 
 ####
 
@@ -492,7 +492,7 @@ Updated information coming soon.
 
 `AltStore.AppleDeveloperError`
 
-Updated information coming soon.
+This usually means that the SSL certificate is invalid. Try installing the latest updates for your computer and checking the clock.
 
 
 
@@ -552,7 +552,7 @@ This means that you will need to unlock your device before AltServer can connect
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+An invalid request was sent to AltServer from AltStore, update both of them and try again.
 
 
 
@@ -560,7 +560,7 @@ Updated information coming soon
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+An invalid response was recieved by AltServer from AltStore, update both of them and try again.
 
 
 
@@ -568,7 +568,7 @@ Updated information coming soon
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+Try killling usbmuxd from your terminal with `killall usbmuxd`.
 
 
 
@@ -576,7 +576,7 @@ Updated information coming soon
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+AltSever could not verify the SSL certificate. Check your computer's clock and if it is wrong, try fixing it.
 
 
 
@@ -584,7 +584,7 @@ Updated information coming soon
 
 `AltServer.ConnectionError`
 
-Updated information coming soon
+The connection has timed out to the website, check your internet connection.
 
 
 
