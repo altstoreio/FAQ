@@ -1,4 +1,4 @@
-# 🤖 AltSource CLI
+# 🤖 AltSource CLI (Beta)
 
 ## Overview
 
@@ -19,7 +19,7 @@ This tool is located in AltServer's app bundle: `AltServer.app/Contents/MacOS/al
 <pre><code><strong>/Applications/AltServer.app/Contents/MacOS/altsource new
 </strong></code></pre>
 
-There are two main commands, `new` and `update`. You can run either of these commands with any of the [additional arguments](altsource-cli.md#additional-arguments) below to overwrite default values.
+There are two main commands, `new` and `update`. You can run either of these commands with any of the [additional arguments](altsource-cli-beta.md#additional-arguments) below to overwrite default values.
 
 ```
 USAGE: altsource <subcommand>
@@ -63,7 +63,7 @@ OPTIONS:
   --ipa <ipa>             An .ipa to add to the source during creation.
 ```
 
-###
+
 
 ## Additional Arguments
 

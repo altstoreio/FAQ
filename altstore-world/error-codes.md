@@ -4,7 +4,7 @@ description: >-
   AltStore.
 ---
 
-# ⚠ Error Codes
+# ⚠️ Error Codes
 
 
 
@@ -248,7 +248,7 @@ This means that iOS rejected the app you were attempting to install. Make sure t
 
 This means that you have reached the maximum amount of sideloaded apps you can have with a Free Developer Account. Apple limits the amount of sideloaded apps you can have with a free account, and to remove the limit you need to sign up for a Paid Developer account at [developer.apple.com](https://developer.apple.com).
 
-You can also remove this limit if you have a device capable of using the [MacDirtyCow](../how-to-use-altstore/macdirtycow.md) exploit
+You can also remove this limit if you have a device capable of using the [MacDirtyCow](macdirtycow.md) exploit
 
 
 
@@ -615,4 +615,4 @@ This means that an error occurred while writing files to disk. Make sure your ph
 
 `AltServer.ProcessError`
 
-If you are trying to enable JIT on an iOS 17 device, you may see this error. Make sure to install all dependencies and keep your device connected with the app open until JIT has successfully been enabled. Instructions for this can be found [here](../how-to-use-altstore/altjit.md#ios-17-instructions-macos-only).
+If you are trying to enable JIT on an iOS 17 device, you may see this error. Make sure to install all dependencies and keep your device connected with the app open until JIT has successfully been enabled. Instructions for this can be found [here](altjit.md#ios-17-instructions-macos-only).

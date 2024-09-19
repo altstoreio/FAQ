@@ -1,6 +1,6 @@
-# ☑ Trusted Sources
+# ☑️ Trusted Sources
 
-Trusted Sources are sources that have been reviewed to make sure they meet our safety standards. Support for adding untrusted sources is currently in [beta](sources.md).
+Trusted Sources are sources that have been reviewed to make sure they meet our safety standards. Support for adding untrusted sources is currently in [beta](../altstore-pal/sources.md).
 
 #### <mark style="color:purple;">OatmealDome’s AltStore Source</mark> <a href="#mark-stylecolorpurpleoatmealdomes-sourcemark" id="mark-stylecolorpurpleoatmealdomes-sourcemark"></a>
 

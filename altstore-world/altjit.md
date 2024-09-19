@@ -1,4 +1,4 @@
-# 🏎 AltJIT
+# 🏎️ AltJIT
 
 AltJIT allows apps sideloaded with AltStore to enable just-in-time compilation, more commonly known as JIT. JIT allows some apps to run significantly faster — or even at all — but iOS does not normally allow apps to use JIT for security reasons. AltJIT is an AltStore-specific workaround that allows you to enable JIT for any sideloaded app whenever you're on the same WiFi as AltServer.
 
@@ -22,7 +22,7 @@ There are additional requirements for users on iOS 17. Please see the instructio
 Once enabled, an app can continue using JIT until it is force-quit from the app switcher or purged from memory while suspended in the background.
 {% endhint %}
 
-If you're experiencing issues getting AltJIT to work, be sure to check out our [troubleshooting guide](../getting-started/troubleshooting-guide.md).
+If you're experiencing issues getting AltJIT to work, be sure to check out our [troubleshooting guide](troubleshooting-guide.md).
 
 
 

@@ -4,10 +4,6 @@
 
 To distribute your apps with AltStore you need to first create a source, which is just a self-hosted JSON file containing basic metadata about your apps. Below is a list of required keys to make a valid source in AltStore along with optional keys you can use to further customize your source.
 
-{% hint style="info" %}
-Generate your source automatically by using AltServer's built-in [AltSource tool](altsource-cli.md).&#x20;
-{% endhint %}
-
 ## Instructions
 
 1. Create a new JSON document&#x20;
@@ -133,7 +129,7 @@ A list of the News items in your source. The ordering does not matter because Al
 
 See [News Items](make-a-source.md#news-items) section below for more.
 
-###
+
 
 ### <mark style="color:purple;">Apps</mark>
 
@@ -142,6 +138,7 @@ See [News Items](make-a-source.md#news-items) section below for more.
     {
         "name": "My Example App",
         "bundleIdentifier": "com.example.myapp",
+        "marketplaceID": "12345678",
         "developerName": "Example Developer",
         "subtitle": "An awesome app.",
         "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -355,8 +352,6 @@ All iPad screenshots must provide an explicit`height.`
 
 
 
-
-
 ### <mark style="color:purple;">App Versions</mark>
 
 ```json
@@ -410,7 +405,11 @@ A description of what's new in this version. You can use this to tell users abou
 
 #### `downloadURL` <mark style="color:purple;">(string)</mark>
 
-The URL where your `.ipa` is hosted.
+The URL where your ADP directory is hosted.
+
+{% hint style="info" %}
+For sideloading, this only needs to be the .`ipa` file
+{% endhint %}
 
 #### `minOSVersion` <mark style="color:purple;">(string)</mark>
 
@@ -424,7 +423,7 @@ _(optional)_
 
 The maximum iOS version supported by this release **(inclusive)**. AltStore will hide any updates that are not supported by the user's device.
 
-###
+
 
 ### <mark style="color:purple;">App Permissions</mark>
 
@@ -474,7 +473,7 @@ A dictionary with all the "UsageDescription" keys in your app's Info.plist along
 }
 ```
 
-###
+
 
 ### <mark style="color:purple;">News Items</mark>
 
