@@ -38,5 +38,5 @@ After it finishes processing, you can use the Download ADP endpoint above to dow
 curl --header "Content-Type: application/json" \
   -X POST \
   --data '{ "adpID": "[Your ADP ID]" }' \
-  https://api.altstore.io/adps
+  https://api.altstore.io/adps
 ```
