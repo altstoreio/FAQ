@@ -4,12 +4,6 @@ If you have issues downloading AltStore PAL, make sure to check this guide and s
 
 
 
-<mark style="color:purple;">**"Could Not Install App"**</mark>
-
-You may run into this issue when first installing AltStore PAL. You can sometimes easily fix this by following the instructions on the [Reinstalling PAL](broken-reference) page and trying the download process over.
-
-
-
 <mark style="color:purple;">**Restart Your Device**</mark>
 
 If you run into any issues while downloading, be sure to first restart your device. This may be required for your device to recognize AltStore and allow you to download. Once you do this, you can continue with the other below suggestions.
