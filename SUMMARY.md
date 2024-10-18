@@ -11,18 +11,18 @@
 
 ## AltStore Classic
 
-* [🪟 How to Install (Windows)](altstore-classic/how-to-install-altstore-windows.md)
-* [🍎 How to Install (macOS)](altstore-classic/how-to-install-altstore-macos/README.md)
-  * [📩 Enable Mail Plug-in](altstore-classic/how-to-install-altstore-macos/enable-mail-plug-in.md)
-* [🛍️ Getting Started](altstore-classic/your-altstore.md)
-* [🖥️ AltServer](altstore-classic/altserver.md)
-* [🆔 App IDs](altstore-classic/app-ids.md)
-* [⚡ Activating Apps](altstore-classic/activating-apps.md)
-* [🏎️ AltJIT](altstore-classic/altjit.md)
-* [☑️ Trusted Sources](altstore-classic/trusted-sources.md)
-* [🐮 MacDirtyCow](altstore-classic/macdirtycow.md)
-* [⚠️ Error Codes](altstore-classic/error-codes.md)
-* [🙋 Troubleshooting Guide](altstore-classic/troubleshooting-guide.md)
+* [🪟 How to Install (Windows)](altstore-world/how-to-install-altstore-windows.md)
+* [🍎 How to Install (macOS)](altstore-world/how-to-install-altstore-macos/README.md)
+  * [📩 Enable Mail Plug-in](altstore-world/how-to-install-altstore-macos/enable-mail-plug-in.md)
+* [🛍️ Getting Started](altstore-world/your-altstore.md)
+* [🖥️ AltServer](altstore-world/altserver.md)
+* [🆔 App IDs](altstore-world/app-ids.md)
+* [⚡ Activating Apps](altstore-world/activating-apps.md)
+* [🏎️ AltJIT](altstore-world/altjit.md)
+* [☑️ Trusted Sources](altstore-world/trusted-sources.md)
+* [🐮 MacDirtyCow](altstore-world/macdirtycow.md)
+* [⚠️ Error Codes](altstore-world/error-codes.md)
+* [🙋 Troubleshooting Guide](altstore-world/troubleshooting-guide.md)
 
 ## Developers
 
