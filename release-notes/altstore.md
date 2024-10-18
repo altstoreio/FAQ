@@ -1,4 +1,165 @@
-# 🛍 AltStore
+# 🛍️ AltStore Classic
+
+## <mark style="color:green;">AltStore 2.0</mark>
+
+<mark style="color:green;">**September 28, 2024**</mark>
+
+### New
+
+**Sources**
+
+* Add any 3rd-party source, in addition to existing Recommended Sources!
+* New dedicated Sources tab to easily manage and browse sources
+* Separate "Add Source" screen to simplify adding sources
+* Preview sources before adding them to AltStore
+  * View detailed information as well as any additional links
+  * Browse all apps and news for a source
+  * "Featured Apps" section showcases a source's best apps
+* Supports remote blocking malicious sources
+
+**Redesigned Browse Tab**
+
+* New "card" design for app listings
+* View most recently updated apps at a glance
+* Browse apps by source or by 8 new categories
+* Scroll through featured apps from each source
+* Change sort order of apps when browsing by source or category
+* Tap category name to easily switch between categories when browsing
+* Swipe through all screenshots directly from Browse tab
+
+**Patreon**
+
+* 3rd-party sources can now distribute Patreon-exclusive apps to patrons, including free members
+* Donate to developers' Patreons and download Patreon-exclusive apps all within AltStore
+* Supports "custom" pledge amounts so patrons can donate what they want
+* Shows required pledge amount for Patreon apps (if provided)
+
+**App Icon**
+
+* Brand new app icon
+* Choose alternate app icons in Settings
+
+**Detailed App Permissions**
+
+* View all entitlements and privacy permissions for an app from its store page
+* Tap any permission to view a detailed description
+* Automatically verifies permissions are accurate before installing
+* Asks user to review permissions when installing and updating apps
+  * When installing a new app, all entitlements will be shown
+  * When updating an app, only added entitlements will be shown
+
+**Source JSON**
+
+* Supports JSON5
+* `buildVersion` parameter allows distributing multiple builds with same app version
+* `sha256` parameter lets AltStore verify downloaded .ipa's have the correct SHA-256 hash
+* `appPermissions` parameter declares all permissions used by an app and its extensions
+* `marketingVersion` parameter allows customizing the version displayed to the user
+
+**Misc.**
+
+* Added social media follow buttons to Settings
+* Handles “search” and “view app” deep links
+  * Search: `altstore://search?q=[query]`
+  * View App: `altstore://viewApp?bundleID=[app bundle ID]`
+
+### Improved
+
+**Screenshots**
+
+* Supports screenshots of different sizes
+* Supports both iPhone and iPad specific screenshots
+* Automatically rounds screenshots taken with Face ID iPhone
+* Preview screenshots full-screen by tapping them from an app's store page
+* Dismiss full-screen screenshots with swipe gesture
+
+**App Verification**
+
+* Verifies downloaded app version matches source
+* Verifies downloaded app build version matches source
+* Verifies downloaded app’s permissions match source
+* Verifies downloaded .ipa matches SHA-256 hash (if provided)
+
+**Source Verification**
+
+* Verifies source's identifier doesn't change after refreshing
+* Verifies source’s identifier doesn’t match existing sources when adding
+* Verifies all privacy permissions have a valid `usageDescription`
+* Throws error when adding marketplace source to non-marketplace AltStore (and vice versa)
+* Includes missing last Coding Path value for DecodingError.keyNotFound
+* Deprecates `identifier` key
+
+**News Tab**
+
+* Changed image aspect ratio to 3:2
+* Updated font to use dynamic text styles
+* Uses uniform height for all News Items on source's detail page
+
+**Logging**
+
+* Switched to OSLog.framework for important tasks
+* Export detailed logs via Error Log from Settings tab
+
+**Image Caching**
+
+* Increased cache limit to reduce how often AltStore refetches images
+* Clear image cache with “Clear Cache…” option in Settings
+
+**Misc.**
+
+* Limits relative dates to "Today" and "Yesterday"
+* Changed "WiFi" spelling to "Wi-Fi"
+* Displays version # for updates in My Apps tab
+* Replaced AppCenter dependency with TelemetryDeck
+* Added Privacy manifest
+* Updated Patreon sign-out alert message to apply to all pledged apps
+* Rethrows Core Data save errors after installing apps
+* Captures `#fileID` and `#line` for `OperationError.appNotFound`
+* Enforces consistent minimum size for `PillButton`
+* Updates `AppViewController` to use `UINavigationBarAppearance` APIs
+
+### Fixed
+
+**Resigning Apps**
+
+* Fixed various issues resigning certain apps
+* Fixed app sometimes freezing when installing/refreshing apps
+* Fixed resigning apps with entitlements the original app doesn’t have
+* Fixed resigning apps without required entitlements
+* Fixed resigning apps with wildcard \`keychain-access-groups\` entitlement
+* Fixed resigning apps with non-English alphanumeric characters in name
+
+**User Interface**
+
+* Fixed Settings tab bar disappearing on iOS 18
+* Fixed squished banners on App IDs screen
+* Fixed button titles flashing when scrolling into view
+* Fixed incorrect corner radius animation for app + source detail screens
+* Fixed "More" button appearing by accident if text height exactly equals collapsed height
+* Fixed not showing "more updates" button when there are more than 2 updates
+* Fixed erroneously showing “Unsupported Updates Available” message
+* Fixed showing “Update” button on app store page when no supported update is available
+* Fixed incorrect cell height for some News items
+* Fixed missing blur when pushing `AppViewController` onto modal navigation controller
+
+**Misc.**
+
+* Fixed crash when adding source with the same name as another source
+* Fixed “Core Data error” if error occurs while parsing Source JSON
+* Fixed redundant app update appearing after failing to backup/restore app
+* Fixed not showing toast view if error occurs during initial sources fetch
+* Fixed incorrectly handling various cancelled operations
+* Fixed error fetching Friend Zone patrons due to unexpected nil name
+* Fixed incorrectly merging app versions for same app from different sources
+* Fixed migration error on launch if AltStore app group does not exist
+* Fixed "missing app group" error if AltStore app group is not the first one listed in Info.plist
+* Fixed accidentally saving "Operation Cancelled" errors to Error Log
+* \[iPad] Fixed crash when removing apps from My Apps tab
+* Fixed `CollapsingTextView` “TextKit 1 compatibility mode” runtime warning
+* Fixed "transformable properties not using secure transformer" runtime warnings
+* Fixed "unsatisfiable constraints" runtime error for `InstalledAppsCollectionFooterView`
+
+
 
 ## <mark style="color:green;">AltStore 1.7</mark>
 

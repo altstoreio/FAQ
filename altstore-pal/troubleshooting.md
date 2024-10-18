@@ -2,10 +2,6 @@
 
 If you have issues downloading AltStore PAL, make sure to check this guide and see if any of these items apply to you. If you go through this list and still need help, reach out to[ support@altstore.io](mailto:support@altstore.io)
 
-{% hint style="info" %}
-If you need to redownload AltStore PAL, follow the same instructions from the [Update AltStore PAL](broken-reference) page.
-{% endhint %}
-
 
 
 <mark style="color:purple;">**"Could Not Install App"**</mark>
