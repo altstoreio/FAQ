@@ -1,28 +1,46 @@
 # 🇪🇺 AltStore PAL
 
+<mark style="color:blue;">**August 29, 2024**</mark>
+
+### **New**
+
+"Day One" Promo
+
+* New promo to thank our early adopters who paid €1,50 to install AltStore PAL
+* Exclusive "Day One" app icon
+* 1 free month of access to our "Early Adopter" Patreon tier
+* Follow instructions here to redeem: [https://faq.altstore.io/altstore-pal/day-one-promo](https://faq.altstore.io/altstore-pal/day-one-promo)
+
+Misc.
+
+* Added dark mode & tinted variants of primary app icon
+* Added new Home Screen quick actions with support info
+
+### **Fixed**
+
+* Fixed crash when fetching source containing app larger than 2GB&#x20;
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.1.2</mark>
 
 <mark style="color:blue;">**August 29, 2024**</mark>
 
 ### **New**&#x20;
 
-• “Auto Manage Installed Apps” debug setting
-
-• Supports `marketingVersion` source key
+* “Auto Manage Installed Apps” debug setting
+* Supports `marketingVersion` source key
 
 ### **Improved**
 
-• Verifies downloaded app matches source values
-
-• Handles MarketplaceKit deep links
+* Verifies downloaded app matches source values
+* Handles MarketplaceKit deep links
 
 ### **Fixed**
 
-• Fixed incorrect progress when installing multiple apps in single session&#x20;
-
-• Fixed installing apps before adding sources
-
-• Fixed Settings tab bar disappearing on iOS 18
+* Fixed incorrect progress when installing multiple apps in single session&#x20;
+* Fixed installing apps before adding sources
+* Fixed Settings tab bar disappearing on iOS 18
 
 
 
