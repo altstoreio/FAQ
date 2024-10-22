@@ -7,6 +7,7 @@
 * [🤗 What is AltStore PAL?](altstore-pal/what-is-altstore-pal.md)
 * [🔗 Sources](altstore-pal/sources.md)
 * [🔼 Updating AltStore PAL](altstore-pal/updating-altstore-pal.md)
+* [🎁 Day One Promo](altstore-pal/day-one-promo.md)
 * [🧑‍🔧 Troubleshooting](altstore-pal/troubleshooting.md)
 
 ## AltStore Classic
