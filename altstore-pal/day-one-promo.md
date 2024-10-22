@@ -6,7 +6,7 @@ If you originally paid €1,50 to download AltStore PAL, you're eligible to clai
 * One month free of our "Early Adopter" tier on [Patreon](https://patreon.com/rileyshane)
 
 {% hint style="warning" %}
-Your free month will begin as soon as you redeem the promo using the instructions below.
+**You must update AltStore PAL to version 2.1.3 or later to claim this promo.**
 {% endhint %}
 
 ### Instructions
@@ -49,6 +49,10 @@ If you would just like the exclusive icon without a free month of our "Early Ado
 
 6. Tap "Redeem in AltStore" and then tap "OK" on the alert to be taken to AltStore PAL.
 7. After a couple of seconds, you will see a confirmation alert. You can now access your promo benefits! **Make sure your Patreon is linked and you have joined our campaign as a Free Member to download our betas.**
+
+{% hint style="warning" %}
+Your free month will begin as soon as you redeem the promo in AltStore PAL.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/IMG_3342.png" alt="" width="375"><figcaption><p>You'll see this alert once you've successfully completed all the instructions</p></figcaption></figure>
 
