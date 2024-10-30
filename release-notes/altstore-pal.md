@@ -1,6 +1,8 @@
 # 🇪🇺 AltStore PAL
 
-<mark style="color:blue;">**August 29, 2024**</mark>
+## <mark style="color:blue;">AltStore PAL 2.1.3</mark>
+
+<mark style="color:blue;">**October 22, 2024**</mark>
 
 ### **New**
 
