@@ -1,5 +1,14 @@
 # 🇪🇺 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.1.4</mark>
+
+<mark style="color:blue;">**October 31, 2024 🎃**</mark>
+
+* Fixed certificate validation error when redeeming PAL promo&#x20;
+* Fixed "Failed to Verify AltStore" error when updating PAL
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.1.3</mark>
 
 <mark style="color:blue;">**October 22, 2024**</mark>
