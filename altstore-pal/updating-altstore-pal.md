@@ -15,7 +15,7 @@ Unlike apps distributed with AltStore, AltStore PAL itself cannot be updated fro
 #### Safari
 
 1. Open Safari
-2. Go to https://altstore.io/download
+2. Go to [https://altstore.io/download](https://altstore.io/download)
 3. Tap 'Download'
 4. AltStore PAL will update itself to the latest version in the background
 
