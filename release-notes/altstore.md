@@ -1,5 +1,16 @@
 # 🛍️ AltStore Classic
 
+## <mark style="color:green;">AltStore 2.0.1</mark>
+
+<mark style="color:green;">**November 13, 2024**</mark>
+
+* Added dark mode & tinted variants of primary app icon
+* Added new Home Screen quick actions with support info
+* Fixed crash when fetching source containing app larger than 2GB
+* Delays fetching Friend Zone patrons until user first opens Patreon screen
+* Fixed handling Patreon rate limit errors
+* Fixed crash updating apps when there is more than 1 update available
+
 ## <mark style="color:green;">AltStore 2.0</mark>
 
 <mark style="color:green;">**September 28, 2024**</mark>
