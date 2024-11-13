@@ -2,7 +2,7 @@
 
 ## <mark style="color:blue;">AltStore PAL 2.1.5</mark>
 
-<mark style="color:blue;">**November 13, 2024 🎃**</mark>
+<mark style="color:blue;">**November 13, 2024**</mark>
 
 * Delays fetching Friend Zone patrons until user first opens Patreon screen
 * Fixed handling Patreon rate limit errors
