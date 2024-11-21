@@ -1,5 +1,15 @@
 # 🛍️ AltStore Classic
 
+## <mark style="color:green;">AltStore 2.0.2</mark>
+
+<mark style="color:green;">**November 21, 2024**</mark>
+
+* Fixed App IDs collection view assertion crash on iOS 18
+* Fixed My Apps tab collection view assertion crash on iOS 18
+* Fixed "Handshake Failed" error when signing-in
+
+
+
 ## <mark style="color:green;">AltStore 2.0.1</mark>
 
 <mark style="color:green;">**November 13, 2024**</mark>
@@ -10,6 +20,8 @@
 * Delays fetching Friend Zone patrons until user first opens Patreon screen
 * Fixed handling Patreon rate limit errors
 * Fixed crash updating apps when there is more than 1 update available
+
+
 
 ## <mark style="color:green;">AltStore 2.0</mark>
 
