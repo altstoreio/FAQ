@@ -6,7 +6,7 @@
 
 Website: [rileytestut.com](https://rileytestut.com)
 
-Email: [riley@rileytestut.com](mailto:riley@rileytestut.com)
+Email: [riley@altstore.io](mailto:riley@altstore.io)
 
 Twitter: [@rileytestut ](https://twitter.com/rileytestut)
 
