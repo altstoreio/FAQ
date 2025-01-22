@@ -1,5 +1,19 @@
 # 🇪🇺 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.1.6</mark>
+
+<mark style="color:blue;">**January 22, 2025**</mark>
+
+* Automatically removes apps when deleted from the Home Screen (iOS 18+)
+* Adds "Discover More Apps" button to showcase featured apps on [altstore.io](https://altstore.io)
+* Includes app bundle ID when logging installation progress
+* Fixed apps not appearing in My Apps if installation finishes while in background
+* Fixed apps not updating under certain conditions
+* Fixed opening source deep links when app is not in background
+* Fixed displaying internal version number instead of public version number in settings
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.1.5</mark>
 
 <mark style="color:blue;">**November 13, 2024**</mark>
