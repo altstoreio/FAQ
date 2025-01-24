@@ -28,107 +28,33 @@ GitHub: [https://github.com/altstoreio/AltStore](https://github.com/altstoreio/A
 
 
 
-## Files
 
-{% file src="../.gitbook/assets/AltStore (1).zip" %}
-Includes all below images. You can also right-click all images to save full-resolution versions.
-{% endfile %}
 
 ## App Icon
 
-<div>
+<div><figure><img src="../.gitbook/assets/newSquare.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/AltStoreIcon_Rounded.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/AltStoreIcon1024 (1).png" alt=""><figcaption><p>Full Icon</p></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/AltStore_AppIcon.png" alt=""><figcaption><p>Rounded App Icon</p></figcaption></figure>
-
-</div>
 
 ## Framed Screenshots
 
-<div align="center">
+<div align="center"><figure><img src="../.gitbook/assets/AltStore_Browse_14Pro.PNG" alt=""><figcaption><p>Browse Tab</p></figcaption></figure> <figure><img src="../.gitbook/assets/AltStore_My_Apps_14Pro.PNG" alt=""><figcaption><p>My Apps Tab</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/AltStore_Browse_14Pro.PNG" alt=""><figcaption><p>Browse Tab</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/AltStore_NewsTab_1.png" alt=""><figcaption><p>News Tab</p></figcaption></figure> <figure><img src="../.gitbook/assets/AltStore_Delta_StorePage.png" alt=""><figcaption><p>App Store Page</p></figcaption></figure></div>
 
- 
+<div><figure><img src="../.gitbook/assets/AltWidget_LockScreen_iPhone13Pro.png" alt=""><figcaption><p>Lock Screen Widget</p></figcaption></figure> <figure><img src="../.gitbook/assets/AltStore_Settings_14Pro.PNG" alt=""><figcaption><p>AltStore Settings</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/AltStore_My_Apps_14Pro.PNG" alt=""><figcaption><p>My Apps Tab</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/AltStore_NewsTab_1.png" alt=""><figcaption><p>News Tab</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AltStore_Delta_StorePage.png" alt=""><figcaption><p>App Store Page</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/AltWidget_LockScreen_iPhone13Pro.png" alt=""><figcaption><p>Lock Screen Widget</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AltStore_Settings_14Pro.PNG" alt=""><figcaption><p>AltStore Settings</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/AltStore_Trusted_List.PNG" alt=""><figcaption><p>Trusted Sources Page</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AltStore_Error_Log.PNG" alt=""><figcaption><p>Error Log</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/AltStore_Trusted_List.PNG" alt=""><figcaption><p>Trusted Sources Page</p></figcaption></figure> <figure><img src="../.gitbook/assets/AltStore_Error_Log.PNG" alt=""><figcaption><p>Error Log</p></figcaption></figure></div>
 
 ## Screenshots
 
-<div>
+<div><figure><img src="../.gitbook/assets/Alt_Browse_Tab.PNG" alt=""><figcaption><p>Browse Tab</p></figcaption></figure> <figure><img src="../.gitbook/assets/Alt_My_Apps.PNG" alt=""><figcaption><p>My Apps Tab</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/Alt_Browse_Tab.PNG" alt=""><figcaption><p>Browse Tab</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/news1.PNG" alt=""><figcaption><p>News Tab</p></figcaption></figure> <figure><img src="../.gitbook/assets/delta_store_page.PNG" alt=""><figcaption><p>App Store Page</p></figcaption></figure></div>
 
- 
+<div><figure><img src="../.gitbook/assets/LockScreenWidget.png" alt=""><figcaption><p>Lock Screen Widget</p></figcaption></figure> <figure><img src="../.gitbook/assets/AltStore_Settings.PNG" alt=""><figcaption><p>AltStore Settings</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/Alt_My_Apps.PNG" alt=""><figcaption><p>My Apps Tab</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/news1.PNG" alt=""><figcaption><p>News Tab</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/delta_store_page.PNG" alt=""><figcaption><p>App Store Page</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/LockScreenWidget.png" alt=""><figcaption><p>Lock Screen Widget</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AltStore_Settings.PNG" alt=""><figcaption><p>AltStore Settings</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/Delta_Trusted_Sources_Added_List.PNG" alt=""><figcaption><p>Trusted Sources</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/AltStore_ErrorLog_Plain.PNG" alt=""><figcaption><p>Error Log</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Delta_Trusted_Sources_Added_List.PNG" alt=""><figcaption><p>Trusted Sources</p></figcaption></figure> <figure><img src="../.gitbook/assets/AltStore_ErrorLog_Plain.PNG" alt=""><figcaption><p>Error Log</p></figcaption></figure></div>
 
 ## Promo Images
 

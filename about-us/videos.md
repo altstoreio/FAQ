@@ -1,5 +1,6 @@
 ---
 description: Here you can find videos of people using AltStore to do fun things!
+hidden: true
 ---
 
 # 📺 Videos
@@ -33,7 +34,7 @@ description: Here you can find videos of people using AltStore to do fun things!
 
 {% tab title="ETAPrime" %}
 {% embed url="https://youtube.com/clip/Ugkxqij5-5x5cp5s9uaM_hjhntPdhvfY--Jg" %}
-[ETAPrime](https://www.youtube.com/channel/UC\_0CVCfC\_3iuHqmyClu59Uw) uses emulators on the 2021 iPad
+[ETAPrime](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw) uses emulators on the 2021 iPad
 {% endembed %}
 {% endtab %}
 

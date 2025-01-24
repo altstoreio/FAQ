@@ -50,5 +50,4 @@
 
 * [👨‍👩‍👧‍👦 Team](about-us/team.md)
 * [📰 Press Kit](about-us/press-kit.md)
-* [🎤 In The News](about-us/press.md)
 * [📺 Videos](about-us/videos.md)
