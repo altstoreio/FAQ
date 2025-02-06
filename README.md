@@ -6,9 +6,9 @@ Welcome to AltStore! This guide will show you how install AltStore onto your iPh
 
 ## [AltStore PAL](./#altstore-pal)
 
-## [AltStore Classic ](./#altstore-world)
+## [AltStore Classic](./#altstore-classic)&#x20;
 
-## [Release Notes](release-notes/altstore.md)
+## [Release Notes](./#release-notes)
 
 ## [Developer Resources](developers/make-a-source.md)
 

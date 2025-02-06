@@ -27,9 +27,9 @@
 
 ## Developers
 
+* [📓 Make a Source](developers/make-a-source.md)
 * [🛒 Distribute with AltStore PAL](developers/distribute-with-altstore-pal.md)
 * [📔 ADP REST API](developers/adp-rest-api.md)
-* [📓 Make a Source](developers/make-a-source.md)
 * [⬆️ Updating Apps](developers/updating-apps.md)
 * [🅿️ Patreon Integration](developers/patreon-integration.md)
 * [🤖 AltSource CLI (Beta)](developers/altsource-cli-beta.md)
