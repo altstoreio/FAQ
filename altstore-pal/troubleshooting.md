@@ -12,7 +12,7 @@ If you run into any issues while downloading, be sure to first restart your devi
 
 <mark style="color:purple;">**Apple ID region must be a country in the European Union**</mark>
 
-AltStore PAL can only be downloaded onto devices physically located in the [European Union](https://european-union.europa.eu/easy-read\_en), and that are logged into an EU Apple ID. You can find your Apple ID's region under Apple ID > Media & Purchases > Country/Region in Settings. And just because we've been asked this a lot, **this does not include the UK.**
+AltStore PAL can only be downloaded onto devices physically located in the [European Union](https://european-union.europa.eu/easy-read\_en), and that are logged into an EU Apple ID. You can find your Apple ID's region under Apple ID > Media & Purchases > Country/Region in Settings. And just because we've been asked this a lot, **this does not include the UK due to Brexit.**
 
 
 
