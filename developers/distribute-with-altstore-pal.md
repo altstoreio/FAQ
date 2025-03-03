@@ -30,13 +30,9 @@ Before you can submit your apps to AltStore PAL, you must prepare your developer
 
     <figure><img src="../.gitbook/assets/DevIDAppConnect(Hidden).jpg" alt=""><figcaption></figcaption></figure>
 
-<!---->
-
-2.  You will receive a response with a security token. In App Store Connect, go to Users and Access -> Integrations -> Marketplace, click '+' and input the token.
+2)  You will receive a response with a security token. In App Store Connect, go to Users and Access -> Integrations -> Marketplace, click '+' and input the token.
 
     <figure><img src="../.gitbook/assets/marketplace.PNG" alt=""><figcaption></figcaption></figure>
-
-<!---->
 
 3. Select the app(s) you want to distribute with AltStore PAL. You can change this at any time.
 4. Select "Yes, send notifications" on the next screen to let AltStore PAL process your apps automatically (recommended).
@@ -77,7 +73,7 @@ Once Notarized, you'll need to download your app's ADP to then host it on your s
 
 Once your server is updated with your app's ADP, the last step is to [make a source](make-a-source.md), which is just a JSON file with information about your app(s).
 
-Once you've made your source, anyone can now add the URL to download your apps!
+Once you've made your source, please respond to your security token email with the URL. The source will then be made available on PAL and anyone can now add the URL to download your apps!
 
 </details>
 
