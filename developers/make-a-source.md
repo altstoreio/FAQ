@@ -421,6 +421,10 @@ The minimum iOS version supported by this release. AltStore will hide any update
 
 _(optional)_
 
+{% hint style="warning" %}
+Only use this if your app is not supported beyond a specific iOS version. **Most apps should not use this.**
+{% endhint %}
+
 The maximum iOS version supported by this release **(inclusive)**. AltStore will hide any updates that are not supported by the user's device.
 
 
