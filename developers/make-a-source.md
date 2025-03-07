@@ -401,7 +401,7 @@ This should be in **ISO 8601** format (e.g. **2023-2-17** or **2023-02-17T12:00:
 
 _(optional)_
 
-A description of what's new in this version. You can use this to tell users about new features, bugs fixes, etc.
+A description of what's new in this version. You can use this to tell users about new features, bug fixes, etc.
 
 #### `downloadURL` <mark style="color:purple;">(string)</mark>
 
