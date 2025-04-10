@@ -405,11 +405,17 @@ A description of what's new in this version. You can use this to tell users abou
 
 #### `downloadURL` <mark style="color:purple;">(string)</mark>
 
-The URL where your ADP directory is hosted.
-
-{% hint style="info" %}
-For sideloading, this only needs to be the .`ipa` file
+{% hint style="warning" %}
+If you're using Patreon with your app, you must attach your ADP or IPA to a Patreon post. For more information, see [Patreon Integration](patreon-integration.md#overview)
 {% endhint %}
+
+**AltStore Classic**
+
+The URL of the uploaded `.ipa` file.
+
+**AltStore PAL**
+
+The URL of the `manifest.json` in your uploaded ADP, or the root directory of the ADP itself.
 
 #### `minOSVersion` <mark style="color:purple;">(string)</mark>
 

@@ -26,7 +26,7 @@ You can find and agree to the terms in App Store Connect from your account page 
 
 Before you can submit your apps to AltStore PAL, you must prepare your developer account for distribution with alternative marketplaces
 
-1.  Email your Developer ID to [apps@altstore.io](mailto:apps@altstore.io). You can find your Developer ID in App Store Connect by selecting "Edit Profile" in the top right.
+1.  Register your Developer ID with AltStore PAL using our [REST API](rest-api.md). You can find your Developer ID in App Store Connect by selecting "Edit Profile" in the top right.
 
     <figure><img src="../.gitbook/assets/DevIDAppConnect(Hidden).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ Before you can submit your apps to AltStore PAL, you must prepare your developer
 3. Select the app(s) you want to distribute with AltStore PAL. You can change this at any time.
 4. Select "Yes, send notifications" on the next screen to let AltStore PAL process your apps automatically (recommended).
 
-**All apps must be processed by AltStore PAL before they can be distributed.** If you don't want AltStore PAL to process your builds automatically, you can manually process them using our [REST API](adp-rest-api.md).
+**All apps must be processed by AltStore PAL before they can be distributed.** If you don't want AltStore PAL to process your builds automatically, you can manually process them using our [REST API](rest-api.md).
 
 </details>
 
@@ -62,7 +62,7 @@ Even though you are distributing outside the App Store, you still need to submit
 
 Once Notarized, you'll need to download your app's ADP to then host it on your server.
 
-1. Download your ADP using our [REST API](adp-rest-api.md#download-adp).
+1. Download your ADP using our [REST API](rest-api.md#download-adp).
 2. Upload the complete package to your server. You must preserve the directory hierarchy exactly.
 
 </details>

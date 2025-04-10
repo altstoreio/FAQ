@@ -4,7 +4,7 @@ description: >-
   Patrons.
 ---
 
-# 🅿 Patreon Integration
+# 🅿️ Patreon Integration
 
 ## Overview
 
@@ -45,6 +45,36 @@ If they become a Patron again in the future, they will be able to use your apps 
 
 
 ## Instructions
+
+### <mark style="color:purple;">AltStore PAL</mark>
+
+#### Upload the ADP
+
+{% hint style="danger" %}
+To ensure only Patrons can download your app, you must attach your ADPs to Patreon posts which have a limit of 200MB per attachment.
+{% endhint %}
+
+1. Create a new Patreon post
+2. Attach all the files in your ADP, including `manifest.json`, `signature`, and all `.ipa` files
+
+{% hint style="info" %}
+If you want to attach more than one ADP to the same Patreon post, you must rename `manifest.json` and `signature` to something unique.
+{% endhint %}
+
+3. Configure post visibility to limit which tiers can download it
+4. Publish Patreon post
+
+#### Update Your Source
+
+1. Add the [`patreonURL` key](make-a-source.md#patreonurl-string) to your source JSON with your Patreon page's URL
+2. Add a [Patreon](make-a-source.md#patreon-apps) object to your app's entry with the conditions required to download it (this should match the visibility of your Patreon post)
+3. Use the published Patreon post's URL for your app version's `downloadURL`
+4. If multiple ADPs are attached to the same Patreon post, add the `assetURLs` key to your app's version and specify the URLs for `manifest.json` and `signature`&#x20;
+5. Upload your source JSON to your server
+
+
+
+### <mark style="color:purple;">AltStore Classic</mark>
 
 #### Upload the IPA
 
