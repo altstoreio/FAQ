@@ -9,6 +9,8 @@ If you originally paid €1,50 to download AltStore PAL, you're eligible to clai
 **You must update AltStore PAL to version 2.1.3 or later to claim this promo.**
 {% endhint %}
 
+
+
 ### Instructions
 
 {% hint style="info" %}
@@ -31,33 +33,23 @@ If you would just like the exclusive icon without a free month of our "Early Ado
 2. Attempt to checkout by double clicking to pay and Stripe will recognize your existing subscription. **You will not be charged again and it is only required for email verification.**
 3. Tap "Continue" on the "Payment wasn't processed" screen.
 
-&#x20;  ![](<../.gitbook/assets/IMG\_8641 (1).PNG>) ![](<../.gitbook/assets/IMG\_8640 (1).PNG>)&#x20;
+&#x20;  ![](<../.gitbook/assets/IMG_8641 (1).PNG>) ![](<../.gitbook/assets/IMG_8640 (1).PNG>)&#x20;
 
 </details>
 
 5. Tap "Continue" to be taken to the Redeem Promo page.
 
-<div>
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7mgCsgGz7DhVzZOrol7cEc5RvtirJreXoGKybBZ5QiCJIlMuYbLLWq4OpurhLzYpKz-SLTj5UpZeU6D33Ss_4iBpn0XkPhiF-kbKyzfevy8hrlX2ERtVjRxUZdwgFKAtYJmx0ozCaPJCljKXJvYD_GyBi?key=Td4Vb7OZ1J_SnC3adbD3fQ" alt="" width="375"><figcaption><p>Enter Email</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/IMG_8638.PNG" alt="" width="375"><figcaption><p>Stripe will Confirm Your Subscription</p></figcaption></figure>
-
-</div>
+<div><figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7mgCsgGz7DhVzZOrol7cEc5RvtirJreXoGKybBZ5QiCJIlMuYbLLWq4OpurhLzYpKz-SLTj5UpZeU6D33Ss_4iBpn0XkPhiF-kbKyzfevy8hrlX2ERtVjRxUZdwgFKAtYJmx0ozCaPJCljKXJvYD_GyBi?key=Td4Vb7OZ1J_SnC3adbD3fQ" alt="" width="375"><figcaption><p>Enter Email</p></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_8638.PNG" alt="" width="375"><figcaption><p>Stripe will Confirm Your Subscription</p></figcaption></figure></div>
 
 6. Tap "Redeem in AltStore" and then tap "OK" on the alert to be taken to AltStore PAL.
 7. After a couple of seconds, you will see a confirmation alert. You can now access your promo benefits! **Make sure your Patreon is linked and you have joined our campaign as a Free Member to download our betas.**
+
+If you have problems claiming the promo, please email us at [support@altstore.io](mailto:support@altstore.io) with the email you used to subscribe, and we will help to verify your subscription.
 
 {% hint style="warning" %}
 Your free month will begin as soon as you redeem the promo in AltStore PAL.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/IMG_3342.png" alt="" width="375"><figcaption><p>You'll see this alert once you've successfully completed all the instructions</p></figcaption></figure>
-
-
-
-
 
 ### &#x20;
