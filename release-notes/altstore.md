@@ -1,5 +1,38 @@
 # 🛍️ AltStore Classic
 
+## <mark style="color:green;">AltStore 2.2</mark>
+
+<mark style="color:green;">**April 16, 2025**</mark>
+
+### **New**
+
+* Supports sideloading apps with “Increased Memory Limit” entitlement
+* Supports localized titles, subtitles, and descriptions in sources
+* Added \`altstore-classic://\` URL scheme
+* Added Bluesky social media button to Settings
+
+### **Improved**
+
+* Hides “See All” button in Browse tab for sources with just 1 app
+* Changed icon back to Classic icon by default
+* Uses separate Patreon API token from AltStore PAL to improve rate-limiting
+* Changed Patreon URL back to direct link
+* Replaced hardcoded API keys with dynamically-loaded ones
+* Switches to classic linker to silence “no platform load command found” warnings
+
+### **Fixed**
+
+* Fixed choosing alternate app icon on iPad
+* Fixed “Join Patreon” sheet appearance in dark mode
+* Fixed installing apps before adding source via deep link
+* Fixed handling source deep link when already viewing source details
+* Fixed redundant app update appearing after resigning expired app
+* Fixed not immediately showing updates for some installed apps&#x20;
+* Fixed not showing OPEN for installed apps when previewing source via deep link
+* Fixed not showing OPEN for installed apps when previewing already-added Recommended Source
+
+
+
 ## <mark style="color:green;">AltStore 2.0.2</mark>
 
 <mark style="color:green;">**November 21, 2024**</mark>
