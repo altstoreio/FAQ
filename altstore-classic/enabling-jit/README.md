@@ -62,7 +62,7 @@ Once you've created the pairing file, you can import it into StikDebug/StikJIT t
 
 <summary>StikDebug (AltStore PAL)</summary>
 
-1. Open AltStore PAL
+1. Open AltStore Classic
 2. Long-press an app in My Apps
 3. Tap "Enable JIT"
 4. The chosen app will then launch with JIT enabled
