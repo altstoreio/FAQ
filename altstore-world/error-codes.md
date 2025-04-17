@@ -615,4 +615,4 @@ This means that an error occurred while writing files to disk. Make sure your ph
 
 `AltServer.ProcessError`
 
-If you are trying to enable JIT on an iOS 17 device, you may see this error. Make sure to install all dependencies and keep your device connected with the app open until JIT has successfully been enabled. Instructions for this can be found [here](altjit.md#ios-17-instructions-macos-only).
+If you are trying to enable JIT on an iOS 17 device, you may see this error. Make sure to install all dependencies and keep your device connected with the app open until JIT has successfully been enabled. Instructions for this can be found [here](../altstore-classic/enabling-jit/altjit.md#ios-17-instructions-macos-only).

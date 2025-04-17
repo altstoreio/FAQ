@@ -22,7 +22,7 @@ There are additional requirements for users on iOS 17. Please see the instructio
 Once enabled, an app can continue using JIT until it is force-quit from the app switcher or purged from memory while suspended in the background.
 {% endhint %}
 
-If you're experiencing issues getting AltJIT to work, be sure to check out our [troubleshooting guide](troubleshooting-guide.md).
+If you're experiencing issues getting AltJIT to work, be sure to check out our [troubleshooting guide](../../altstore-world/troubleshooting-guide.md).
 
 
 
