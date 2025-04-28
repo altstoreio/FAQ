@@ -10,11 +10,17 @@ To distribute your apps with AltStore you need to first create a source, which i
 2. Input information about your Source using the Source Keys below
 3. Host that document at your sourceURL
 
-#### Example Source
+### Example Source&#x20;
 
-Download this example source as a template to edit with your source's information
+Download the appropriate example source as a template to edit with your source's information.
 
-{% file src="../.gitbook/assets/ExampleSource.json" %}
+**AltStore PAL**
+
+{% file src="../.gitbook/assets/PALSource.json" %}
+
+**AltStore Classic**
+
+{% file src="../.gitbook/assets/ClassicSource.json" %}
 
 ## Source Keys
 
