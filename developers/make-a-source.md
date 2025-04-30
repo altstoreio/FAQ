@@ -550,7 +550,7 @@ _(optional)_
 A link to the image you want featured with your News item.&#x20;
 
 {% hint style="info" %}
-This will be scaled to fill a **67:40 aspect ratio**.
+This will be scaled to fill a **3:2 aspect ratio**.
 {% endhint %}
 
 #### `notify` <mark style="color:purple;">(boolean)</mark>
