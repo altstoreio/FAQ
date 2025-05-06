@@ -1,12 +1,18 @@
 # 🧑‍🔧 Troubleshooting
 
-If you have issues downloading AltStore PAL, make sure to check this guide and see if any of these items apply to you. If you go through this list and still need help, reach out to[ support@altstore.io](mailto:support@altstore.io)
+If you have issues downloading or using AltStore PAL, make sure to check this guide and see if any of these items apply to you. If you go through this list and still need help, reach out to[ support@altstore.io](mailto:support@altstore.io)
 
 
 
 <mark style="color:purple;">**NSURLError when Downloading an App**</mark>
 
 You may need to turn off your VPN as VPNs can cause NSURLError when downloading app with PAL
+
+
+
+<mark style="color:purple;">**"The source \[Source Name] is not supported by this version of AltStore" Error**</mark>
+
+You may see this alert if you are trying to add a source to an older version of AltStore PAL. Please update to AltStore PAL 2.2 or later.
 
 
 
@@ -34,13 +40,13 @@ AltStore PAL can only be run on devices running iOS 17.4 or later. Please ensure
 
 
 
-<mark style="color:purple;">**Apple Pay**</mark>
+<mark style="color:purple;">**Problems with Apple Pay**</mark>
 
 There are some issues that may cause Apple Pay to fail, so we suggest making sure your payment has been processed correctly before trying to download AltStore PAL. If your payment continues to fail, we recommend providing a credit card directly or using another payment option.
 
 
 
-<mark style="color:purple;">**3rd Party Browsers (Chrome, Arc, Brave, etc.)**</mark>
+<mark style="color:purple;">**Can't install with 3rd Party Browsers (Chrome, Arc, Brave, etc.)**</mark>
 
 Currently, Apple only permits installing marketplace apps from the Safari browser. If you've already subscribed using a 3rd party browser, you can copy + paste the URL of the download page to Safari and finish installing AltStore PAL from there.
 
