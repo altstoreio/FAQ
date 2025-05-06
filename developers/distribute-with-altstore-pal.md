@@ -73,7 +73,7 @@ Once Notarized, you'll need to download your app's ADP to then host it on your s
 
 Once your server is updated with your app's ADP, the last step is to [make a source](make-a-source.md), which is just a JSON file with information about your app(s).
 
-Once you've uploaded your source, it will be made available on PAL and anyone can now add the URL to download your apps!
+Once you've uploaded your source, it will be made available on PAL and anyone can now add the URL to download your apps! **(Requires AltStore PAL 2.2 or later)**
 
 </details>
 
