@@ -1,5 +1,60 @@
 # 🇪🇺 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.2</mark>
+
+<mark style="color:blue;">**May 6, 2025**</mark>
+
+### New
+
+Sources
+
+* Supports installing apps from developers registered via our updated [REST API](https://faq.altstore.io/developers/rest-api)
+* Supports localized titles, subtitles, and descriptions in sources
+* Supports downloading ADPs from Patreon posts
+* Supports `assetURLs` to override URLs for individual ADP assets
+  * Dictionary of override URLs for files in ADP, keyed by filename (without file extension)
+  * Allows for hosting ADPs is other ways besides just a directory structure (e.g. GitHub Releases)
+
+Misc.
+
+* Added Bluesky social media button to Settings
+
+### Improved
+
+UI
+
+* Hides “See All” button in Browse tab for sources with just 1 app
+* Sorts apps alphabetically in My Apps
+
+Sources
+
+* Supports using ADP's `manifest.json` URL as `downloadURL`
+* Ignores irrelevant `maxOSVersion` AltStore Classic key
+
+Patreon
+
+* Migrates Patreon cookies to shared container on launch (if needed)
+* Attempts to re-authenticate if necessary when downloading ADP from Patreon
+
+Misc.
+
+* Includes error message in `AltMarketplace` headers if error occurs
+* Ignores “downgrade” updates for AltStore PAL
+
+### Fixed
+
+* Fixed choosing alternate app icon on iPad
+* Fixed fetching Patreon post attachments with `nil` mimeType
+* Fixed handling source deep link when already viewing source details
+* Fixed installing ADPs with case-sensitive download URLs
+* Fixed installing apps before adding source via deep link
+* Fixed “Join Patreon” sheet appearance in dark mode
+* Fixed not showing OPEN for installed apps when previewing source via deep link
+* Fixed not showing OPEN for installed apps when previewing already-added Recommended Source
+* Fixed accessing deep link Source on background context from main thread
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.1.6</mark>
 
 <mark style="color:blue;">**January 22, 2025**</mark>
