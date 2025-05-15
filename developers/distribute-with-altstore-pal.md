@@ -63,7 +63,7 @@ Even though you are distributing outside the App Store, you still need to submit
 Once Notarized, you'll need to download your app's ADP to then host it on your server.
 
 1. Download your ADP using our [REST API](rest-api.md#download-adp).
-2. Upload the complete package to your server. You must preserve the directory hierarchy exactly.
+2. Upload the complete package to your server. You must preserve the directory hierarchy exactly, and the hashes of each file must not change. In other words, **DO NOT modify the `manifest.json` in any way (e.g prettifying).**
 
 </details>
 

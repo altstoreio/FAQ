@@ -4,12 +4,6 @@
 
 To distribute your apps with AltStore you need to first create a source, which is just a self-hosted JSON file containing basic metadata about your apps. Below is a list of required keys to make a valid source in AltStore along with optional keys you can use to further customize your source.
 
-## Instructions
-
-1. Create a new JSON document&#x20;
-2. Input information about your Source using the Source Keys below
-3. Host that document at your sourceURL
-
 ### Example Source&#x20;
 
 Download the appropriate example source as a template to edit with your source's information.
