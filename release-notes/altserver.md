@@ -1,5 +1,14 @@
 # 🖥️ AltServer
 
+## <mark style="color:blue;">AltServer 1.7.3 (macOS only)</mark>
+
+<mark style="color:blue;">**May 22, 2025**</mark>
+
+* Fixed enabling JIT on iOS 17.4+&#x20;
+  * Requires pymobiledevice3 3.2 or later
+
+
+
 ## <mark style="color:blue;">AltServer 1.7.2</mark>
 
 <mark style="color:blue;">**September 16, 2024**</mark>
