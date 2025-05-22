@@ -421,7 +421,25 @@ The URL of the uploaded `.ipa` file.
 
 The URL of the `manifest.json` in your uploaded ADP, or the root directory of the ADP itself.
 
-#### `minOSVersion` <mark style="color:purple;">(string)</mark>
+#### `assetURLs` <mark style="color:purple;">(dictionary of strings)</mark>
+
+_(optional)_
+
+If you are unable to preserve an ADP's directory structure as-is, this allows you to manually specify the download URL for individual files in an ADP.  The keys are the names of the files you want to override (minus file extensions) and the values are the URLs where they are hosted.
+
+{% hint style="success" %}
+This allows you to host ADPs using GitHub Releases!
+{% endhint %}
+
+```json
+"assetURLs": {
+    "manifest": "https://github.com/rileytestut/Delta/releases/download/v1.6/manifest.json",
+    "signature": "https://github.com/rileytestut/Delta/releases/download/v1.6/signature",
+    "fb855afc-8ce8-39b7-877e-63444105c95c": "https://github.com/rileytestut/Delta/releases/download/v1.6/fb855afc-8ce8-39b7-877e-63444105c95c.ipa"
+}
+```
+
+`minOSVersion` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 
