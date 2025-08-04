@@ -14,7 +14,7 @@ When ready, follow each of the steps outlined below to begin distributing your a
 
 The Alternative EU Terms Addendum is an additional agreement you must make with Apple in order to distribute your apps outside the App Store.&#x20;
 
-You can find and agree to the terms in App Store Connect from your account page under Agreements. You must have a paid Apple developer account.
+Request EU Terms Addendum: [https://developer.apple.com/contact/request/alternative-eu-terms-addendum/](https://developer.apple.com/contact/request/alternative-eu-terms-addendum/)
 
 **Note:** The new terms will change your commission rates and fees for apps distributed in the EU. [Learn More](https://developer.apple.com/support/core-technology-fee/)
 
