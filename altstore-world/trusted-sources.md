@@ -29,7 +29,7 @@ Trusted Sources are sources that have been reviewed to make sure they meet our s
 
 #### <mark style="color:purple;">Provenance</mark> <a href="#mark-stylecolorpurpleflyingheads-sourcemark" id="mark-stylecolorpurpleflyingheads-sourcemark"></a>
 
-**Link**: [https://provenance-emu.com/apps.json](https://provenance-emu.com)
+**Link**: [https://provenance-emu.com/apps.json](altstore://source?url=https://provenance-emu.com/apps.json)
 
 **Apps:**
 
