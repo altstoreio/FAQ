@@ -83,7 +83,7 @@ Once you've uploaded your source, it will be made available on PAL and anyone ca
 
 You can optionally make your source discoverable, which means your apps and updates will appear automatically on our [website](https://explore.alt.store/) where anyone can easily find them.
 
-1. Add the [`fediUsername`](make-a-source.md#fediuser-string) key to your source
+1. Add the [`fediUsername`](make-a-source.md#fediusername-string) key to your source
 2. Federate your source using our [REST API](rest-api.md#federate-source)
 
 </details>
