@@ -89,6 +89,16 @@ _(optional)_
 
 A link to the primary website for your source. It will be displayed underneath your source's name on its About page.
 
+#### `fediUsername` <mark style="color:purple;">(string)</mark>
+
+_(optional)_
+
+Your preferred username for your source's account on explore.alt.store (e.g. "utm" will become [@utm@alt.store](https://explore.alt.store/@utm)). **This cannot be changed later.**
+
+{% hint style="warning" %}
+You must include this to make your source discoverable with our [`REST API`](rest-api.md#federate-source)
+{% endhint %}
+
 #### `patreonURL` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
@@ -586,8 +596,6 @@ A link that AltStore should open when the News item is tapped. Links will be ope
 _(optional)_
 
 The bundle identifier of an associated app. This will make the app's info banner appear below the News item, which will open the app's Store page when tapped.
-
-
 
 ### <mark style="color:purple;">Patreon</mark>
 

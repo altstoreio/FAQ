@@ -84,3 +84,37 @@ curl --header "Content-Type: application/json" \
   --data '{ "adpID": "[Your ADP ID]" }' \
   https://api.altstore.io/adps
 ```
+
+
+
+## Federate Source
+
+`POST https://api.altstore.io/federate`
+
+Use this endpoint to make your source discoverable on explore.alt.store and start federating to the open social web.
+
+#### Request Body
+
+```
+{
+  "source": "YOUR_SOURCE_URL",
+}
+```
+
+#### Response
+
+```
+HTTP 200 OK
+```
+
+#### Terminal Command
+
+```
+curl --header "Content-Type: application/json" \
+  -X POST \
+  --data '{  
+    "source": "YOUR_SOURCE_URL"
+  }' \
+  https://api.altstore.io/federate
+```
+
