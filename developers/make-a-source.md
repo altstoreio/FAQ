@@ -14,7 +14,7 @@ Want to generate your source automatically? Try the community-built tool AltStud
 
 **AltStore PAL**
 
-{% file src="../.gitbook/assets/PALSource.json" %}
+{% file src="../.gitbook/assets/PALSource (1).json" %}
 
 **AltStore Classic**
 

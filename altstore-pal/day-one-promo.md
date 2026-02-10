@@ -52,4 +52,4 @@ Your free month will begin as soon as you redeem the promo in AltStore PAL.
 
 <figure><img src="../.gitbook/assets/IMG_3342.png" alt="" width="375"><figcaption><p>You'll see this alert once you've successfully completed all the instructions</p></figcaption></figure>
 
-### &#x20;
+### <br>

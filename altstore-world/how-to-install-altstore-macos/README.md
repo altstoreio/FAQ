@@ -10,7 +10,7 @@ description: >-
 1. Download [AltServer for macOS](https://cdn.altstore.io/file/altstore/altserver.zip) (requires macOS 11 or later).
 
 {% hint style="info" %}
-If you are on macOS 10.14 or 10.15, download [AltServer 1.6.2](https://f000.backblazeb2.com/file/altstore/altserver/1\_6\_2.zip)
+If you are on macOS 10.14 or 10.15, download [AltServer 1.6.2](https://f000.backblazeb2.com/file/altstore/altserver/1_6_2.zip)
 {% endhint %}
 
 2. Copy `AltServer.app` to your `/Applications` folder.
@@ -28,7 +28,7 @@ If you are on macOS 10.14 or 10.15, download [AltServer 1.6.2](https://f000.back
 Open iTunes, then enable “Sync with this iPhone/iPad over Wi-Fi” for your device.
 {% endhint %}
 
-![](../../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
+![](../../.gitbook/assets/002_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
 
 {% hint style="info" %}
 **(macOS 10.15 Catalina or Later)**
@@ -78,6 +78,6 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 
 **You are now ready to sideload apps using AltStore!**
 
-[**Looking for more apps? You can continue here to learn more about apps in AltStore**](broken-reference)**.**
+[**Looking for more apps? You can continue here to learn more about apps in AltStore**](/broken/pages/RWyEwprsREto1ePxQa9V)**.**
 
 [**Still having trouble? Check out our troubleshooting guide here**](../troubleshooting-guide.md)**.**
