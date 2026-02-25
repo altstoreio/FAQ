@@ -431,6 +431,14 @@ The URL of the uploaded `.ipa` file.
 
 The URL of the `manifest.json` in your uploaded ADP, or the root directory of the ADP itself.
 
+#### `size` <mark style="color:purple;">(number)</mark>
+
+The size of your app in bytes. The size will displayed to users on your app's store page and throughout the UI.&#x20;
+
+{% hint style="info" %}
+**AltStore PAL:** For ADPs you can pick any of the variants from your `variant` folder to determine the size.
+{% endhint %}
+
 #### `assetURLs` <mark style="color:purple;">(dictionary of strings)</mark>
 
 _(optional)_
