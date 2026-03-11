@@ -2,68 +2,51 @@
 
 ## <mark style="color:blue;">AltStore PAL 2.3</mark>
 
-<mark style="color:blue;">**March 10, 2026**</mark>
+<mark style="color:blue;">**March 11, 2026**</mark>
 
 ### **NEW**
 
-Fediverse/Social Web Support
+Social Web Support
 
-* View likes & comments on federated apps, app updates, and news alerts
-* “Open in Browser” option when sharing these items
+* Discover apps and sources from our new explore page https://explore.alt.store
+* Developers can opt-in to have their sources federated to explore page
+* View all likes on federated apps, app updates, and news items in-app
 * Sign in with your Mastodon or Bluesky account to like items directly in-app
-* Discover new apps from [https://explore.alt.store](https://explore.alt.store)
+* Share links to federated items with others or view them in system browser
+
+Liquid Glass UI
+
+* Updated design to fit at home on iOS 26
+* New Liquid Glass app icon
 
 Source Collections
 
-* Redesigned Add Source screen makes discovering sources easier
-* View all featured sources, or view recommended source “collections”
+* Redesigned Add Source screen makes discovering sources easier than ever
+* View all featured sources, or view specific source “collections”
+* Launching with 3 collections: Popular, Indie Gems, and Fediverse Favorites
 
-Updated UI
+App Icons
 
-* New Liquid Glass design to feel at home on iOS 26
-* Ability to select app icon, including new Liquid Glass and Japan-inspired designs
-
-### **IMPROVED**
-
-Fediverse/Social Web Support
-
-* Plays haptic feedback when (un-)liking items
-* Improved accessibility descriptions for like button and avatars on federated items
-* Prefers opening federated item's bridged Bluesky URL if user is signed into Bluesky
-* Disables Mastodon & Bluesky login buttons when text fields are empty
-* Uses white background for avatars & source icons with transparency
-* Improved checking whether Bluesky account is already bridged to fediverse
-* Fetches & caches avatars + social interactions for federated items most efficiently
-* Updated wording for social web account section in settings
+* New Japan-inspired alternate app icon
 
 Misc.
 
+* Includes `ALT_PAL_VER` header with current build version when fetching sources
+
+### **IMPROVED**
+
 * Removed “Manage Subscription” from settings
-* Increased corner radius in settings for iOS 26
-* Disables "Auto-Manage Installed Apps" on iOS 26.1 by default to work around iOS bug
-* Displays up to 2 lines for subtitle of source in source collection
-* Includes \`ALT\_PAL\_VER\` header with current build version when fetching sources
 
 ### **FIXED**
 
+* Fixed unreadable text in light mode for some news alerts (thanks @partyknightsdev!)
+* Fixed My Apps tab badge count showing incorrect number of app updates
+* Fixed showing empty text view for updates with no description
+* Fixed Apple’s system download button not being accessible with VoiceOver
+* Fixed difficulty accessing action button when VoiceOver is enabled
+* Fixed category cells not being accessible with VoiceOver
 * Fixed AltStore incorrectly thinking an updated failed when it succeeded in background
 * Fixed false-positive errors due to installed version (temporarily) not matching expected version
-* Fixed badge count to accurately reflect number of app updates
-* Fixed showing empty text view for updates with no description
-* Fixed unreadable text in light mode for some news alerts (thanks [@partyknightsdev](https://github.com/partyknightsdev)!)
-* Fixed refreshing Bluesky API access token
-* Fixed occasional crash when viewing all likes for federated apps, app updates, and news alerts
-* Fixed extraneous space above version description for app updates
-* Fixed VoiceOver skipping over social interactions on federated news alerts
-* Fixed "Likes" screen not having translucent background
-* Fixed not showing error message if there's an error loading likes
-* Fixed incorrect like button size after (un-)liking app on store page
-* Fixed crash when fetching fediverse interactions before adding source
-* Fixed issue fetching non-federated sources
-* Fixed crash when viewing all apps/news items for non-added source
-* Fixed close button not dismissing likes view on app store page
-* Fixed invisible navigation bar on iOS 18 when viewing likes on app store page
-* Fixed incorrect news alert height when source is newly federated
 
 ## <mark style="color:blue;">AltStore PAL 2.2</mark>
 
