@@ -4,11 +4,11 @@
 
 <mark style="color:blue;">**March 11, 2026**</mark>
 
-### **NEW**
+### **New**
 
 Social Web Support
 
-* Discover apps and sources from our new explore page https://explore.alt.store
+* Discover apps and sources from our new explore page [https://explore.alt.store](https://explore.alt.store/)
 * Developers can opt-in to have their sources federated to explore page
 * View all likes on federated apps, app updates, and news items in-app
 * Sign in with your Mastodon or Bluesky account to like items directly in-app
@@ -33,13 +33,13 @@ Misc.
 
 * Includes `ALT_PAL_VER` header with current build version when fetching sources
 
-### **IMPROVED**
+### **Improved**
 
 * Removed “Manage Subscription” from settings
 
-### **FIXED**
+### **Fixed**
 
-* Fixed unreadable text in light mode for some news alerts (thanks @partyknightsdev!)
+* Fixed unreadable text in light mode for some news alerts (thanks [@partyknightsdev](https://github.com/partyknightsdev)!)
 * Fixed My Apps tab badge count showing incorrect number of app updates
 * Fixed showing empty text view for updates with no description
 * Fixed Apple’s system download button not being accessible with VoiceOver
