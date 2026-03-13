@@ -48,6 +48,34 @@ Misc.
 * Fixed AltStore incorrectly thinking an updated failed when it succeeded in background
 * Fixed false-positive errors due to installed version (temporarily) not matching expected version
 
+
+
+## <mark style="color:blue;">AltStore PAL 2.2.3</mark>
+
+<mark style="color:blue;">**December 23, 2025**</mark>
+
+* Fixes app descriptions appearing in Japanese for some users even if primary language is set to English.
+
+
+
+## <mark style="color:blue;">AltStore PAL 2.2.2</mark>
+
+<mark style="color:blue;">**December 17, 2025**</mark>
+
+* Initial support for Japan
+* Added Japanese localization
+
+
+
+## <mark style="color:blue;">AltStore PAL 2.2.1</mark>
+
+<mark style="color:blue;">**November 3, 2025**</mark>
+
+* Improved error handling when installing apps
+* Mitigates iOS 26.1 bug causing apps to disappear from My Apps tab
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.2</mark>
 
 <mark style="color:blue;">**May 6, 2025**</mark>
