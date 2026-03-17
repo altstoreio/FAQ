@@ -1,5 +1,17 @@
 # 🇪🇺 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.3.1</mark>
+
+March 17, 2026
+
+* Fixed crash on launch for some users when refreshing likes on News tab
+* Fixed some app icons not working correctly on iPad
+  * Default
+  * AltStore Japan
+  * Turquoise
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.3</mark>
 
 <mark style="color:blue;">**March 11, 2026**</mark>
