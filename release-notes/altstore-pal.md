@@ -2,7 +2,7 @@
 
 ## <mark style="color:blue;">AltStore PAL 2.3.1</mark>
 
-March 17, 2026
+<mark style="color:blue;">**March 17, 2026**</mark>
 
 * Fixed crash on launch for some users when refreshing likes on News tab
 * Fixed some app icons not working correctly on iPad
