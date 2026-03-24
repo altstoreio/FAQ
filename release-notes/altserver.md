@@ -1,5 +1,22 @@
 # 🖥️ AltServer
 
+## <mark style="color:blue;">AltServer 1.7.4 (Windows only)</mark>
+
+<mark style="color:blue;">**March 24, 2026**</mark>
+
+* Fixed apps crashing on launch on iOS 26.4
+* Updated codesigning library to match AltStore & AltServer macOS
+
+
+
+## <mark style="color:blue;">AltServer 1.7.3 (Windows only)</mark>
+
+<mark style="color:blue;">**February 8, 2026**</mark>
+
+* Fixed -22410 error when installing and refreshing apps
+
+
+
 ## <mark style="color:blue;">AltServer 1.7.3 (macOS only)</mark>
 
 <mark style="color:blue;">**May 22, 2025**</mark>
