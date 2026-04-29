@@ -38,7 +38,7 @@
 
 ## Release Notes
 
-* [🇪🇺 AltStore PAL](release-notes/altstore-pal.md)
+* [🛒 AltStore PAL](release-notes/altstore-pal.md)
 * [🛍️ AltStore Classic](release-notes/altstore.md)
 * [🖥️ AltServer](release-notes/altserver.md)
 

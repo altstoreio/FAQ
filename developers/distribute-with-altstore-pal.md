@@ -1,9 +1,9 @@
 # 🛒 Distribute with AltStore PAL
 
-Distributing your app with AltStore PAL is similar to what you may be used to when submitting to the Apple App Store. You will still submit apps through App Store Connect using your paid Apple Developer account, so make sure you are set up with one before proceeding. The only major difference is that your apps will only be available in the EU.
+Distributing your app with AltStore PAL is similar to what you may be used to when submitting to the Apple App Store. You will still submit apps through App Store Connect using your paid Apple Developer account, so make sure you are set up with one before proceeding. The only major difference is that your apps will only be available in the EU and Japan.
 
 {% hint style="info" %}
-You **do not** have to be located in or have a business in the EU to distribute your apps with AltStore PAL.
+You can distribute apps with AltStore PAL from anywhere. You **do not** need to be located in or have a business in the EU or Japan.
 {% endhint %}
 
 When ready, follow each of the steps outlined below to begin distributing your apps on AltStore PAL 🙂
@@ -12,11 +12,14 @@ When ready, follow each of the steps outlined below to begin distributing your a
 
 <summary>Agree to Alternative EU Terms Addendum</summary>
 
-The Alternative EU Terms Addendum is an additional agreement you must make with Apple in order to distribute your apps outside the App Store.&#x20;
+The Alternative EU Terms Addendum is an additional agreement you must make with Apple in order to distribute your apps outside the App Store in the EU specifically.
 
 Request EU Terms Addendum: [https://developer.apple.com/contact/request/alternative-eu-terms-addendum/](https://developer.apple.com/contact/request/alternative-eu-terms-addendum/)
 
-**Note:** The new terms will change your commission rates and fees for apps distributed in the EU. [Learn More](https://developer.apple.com/support/core-technology-fee/)
+**Notes:**&#x20;
+
+1. The new terms will change your commission rates and fees for apps distributed in the EU. [Learn More](https://developer.apple.com/support/core-technology-fee/)
+2. If you're only planning on only distributing in Japan, you do not need to request the EU Terms Addendum.
 
 </details>
 
@@ -29,11 +32,9 @@ Before you can submit your apps to AltStore PAL, you must prepare your developer
 1.  Register your Developer ID with AltStore PAL using our [REST API](rest-api.md). You can find your Developer ID in App Store Connect by selecting "Edit Profile" in the top right.
 
     <figure><img src="../.gitbook/assets/DevIDAppConnect(Hidden).jpg" alt=""><figcaption></figcaption></figure>
-
-2)  You will receive a response with a security token. In App Store Connect, go to Users and Access -> Integrations -> Marketplace, click '+' and input the token.
+2.  You will receive a response with a security token. In App Store Connect, go to Users and Access -> Integrations -> Marketplace, click '+' and input the token.
 
     <figure><img src="../.gitbook/assets/marketplace.PNG" alt=""><figcaption></figcaption></figure>
-
 3. Select the app(s) you want to distribute with AltStore PAL. You can change this at any time.
 4. Select "Yes, send notifications" on the next screen to let AltStore PAL process your apps automatically (recommended).
 

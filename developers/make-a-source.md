@@ -457,7 +457,7 @@ This allows you to host ADPs using GitHub Releases!
 }
 ```
 
-`minOSVersion` <mark style="color:purple;">(string)</mark>
+#### `minOSVersion` <mark style="color:purple;">(string)</mark>
 
 _(optional)_
 

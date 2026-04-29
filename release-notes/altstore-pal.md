@@ -1,4 +1,4 @@
-# 🇪🇺 AltStore PAL
+# 🛒 AltStore PAL
 
 ## <mark style="color:blue;">AltStore PAL 2.3.1</mark>
 
