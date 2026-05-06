@@ -527,6 +527,8 @@ A dictionary with all the "UsageDescription" keys in your app's Info.plist along
 
 ### <mark style="color:purple;">News Items</mark>
 
+_<mark style="color:$info;">(optional)</mark>_
+
 ```json
 "news": [
   {
