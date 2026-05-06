@@ -603,6 +603,12 @@ Updated information coming soon
 
 ## Other Errors
 
+#### <mark style="color:purple;">(22410) Failed to write to disk</mark>
+
+
+
+This means that an error occurred while writing files to disk. Make sure your phone and PC both have plenty of available disk space and try again.
+
 #### <mark style="color:purple;">(512) Failed to write to disk</mark>
 
 `NSCocoaErrorDomain`
