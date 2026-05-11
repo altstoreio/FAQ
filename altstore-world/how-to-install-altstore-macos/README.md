@@ -62,12 +62,12 @@ If you don't see any notifications from AltServer, make sure you've given AltSer
 You may need to restart your device to make AltStore appear on your Home Screen.
 {% endhint %}
 
-10\.  On your iOS device, go to Settings -> General -> Profiles & Device Management. Tap “Trust \[Your Apple ID],” then tap “Trust” again to confirm.
+10\.  On your iOS device, go to Settings -> General -> VPN & Device Management. Tap "\[Your Apple ID]", then tap “Trust \[Your Apple ID],” then tap “Allow” to confirm.
 
-![Image courtesy of @LouisAnslow](<../../.gitbook/assets/1-CwxM2iiAN0kLSWGuRQcCHQ-2 (dragged).jpg>)
+<figure><img src="../../.gitbook/assets/Trusting Developer (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-"Profiles & Device Management" may read as a number of things depending on your version, but you can always find it near the bottom of Settings -> General.
+"VPN & Device Management" may read as a number of things depending on your version, but you can always find it near the bottom of Settings -> General.
 {% endhint %}
 
 #### Enable Developer Mode (iOS 16+)
