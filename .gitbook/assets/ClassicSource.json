@@ -5,6 +5,7 @@
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
+    "patreonURL": "https://www.patreon.com/cw/example",
     "tintColor": "#4185A9",
     "featuredApps": [
         "com.example.myapp",
