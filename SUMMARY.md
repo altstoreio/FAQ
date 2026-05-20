@@ -17,6 +17,7 @@
   * [📩 Enable Mail Plug-in](altstore-world/how-to-install-altstore-macos/enable-mail-plug-in.md)
 * [🛍️ Getting Started](altstore-world/your-altstore.md)
 * [🖥️ AltServer](altstore-world/altserver.md)
+* [📲 No Computer Instructions](altstore-classic/no-computer-instructions.md)
 * [🆔 App IDs](altstore-world/app-ids.md)
 * [⚡ Activating Apps](altstore-world/activating-apps.md)
 * [🏎️ Enabling JIT](altstore-classic/enabling-jit/README.md)
