@@ -33,7 +33,7 @@ Once you've created the pairing file, you can import it into StikDebug/StikJIT t
 
 <summary>StikDebug (AltStore PAL)</summary>
 
-1. Install StikDebug from the [StikDebug source](https://altstore-pal/source?url=https://stikdebug.xyz/apps.json)
+1. Install StikDebug from the [StikDebug source](altstore-pal://source?url=https://stikdebug.xyz/apps.json)
 2. Open StikDebug
 3. Press "Allow" when prompted to add VPN Configurations and follow instructions
 4. Tap 'Select Pairing File'

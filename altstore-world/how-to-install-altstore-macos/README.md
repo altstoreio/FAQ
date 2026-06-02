@@ -78,6 +78,6 @@ You may need to restart your device to make AltStore appear on your Home Screen.
 
 **You are now ready to sideload apps using AltStore!**
 
-[**Looking for more apps? You can continue here to learn more about apps in AltStore**](/broken/pages/RWyEwprsREto1ePxQa9V)**.**
+[**Looking for more apps? You can continue here to learn more about apps in AltStore**](https://app.gitbook.com/s/Afe8qEztjcTjsjjaMBY2/altstore-classic)**.**
 
 [**Still having trouble? Check out our troubleshooting guide here**](../troubleshooting-guide.md)**.**

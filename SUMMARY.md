@@ -31,6 +31,7 @@
 
 * [📓 Make a Source](developers/make-a-source.md)
 * [🛒 Distribute with AltStore PAL](developers/distribute-with-altstore-pal.md)
+* [🏷️ “Download on AltStore” Badge](developers/download-on-altstore-badge.md)
 * [📝 App Guidelines](developers/app-guidelines.md)
 * [📔 REST API](developers/rest-api.md)
 * [⬆️ Updating Apps](developers/updating-apps.md)
