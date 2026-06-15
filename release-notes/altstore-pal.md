@@ -1,5 +1,14 @@
 # 🛒 AltStore PAL
 
+## <mark style="color:blue;">AltStore PAL 2.3.2</mark>
+
+<mark style="color:blue;">**June 15, 2026**</mark>
+
+* Added Brazilian Portuguese localization
+* New Brazil-inspired alternate app icon
+
+
+
 ## <mark style="color:blue;">AltStore PAL 2.3.1</mark>
 
 <mark style="color:blue;">**March 17, 2026**</mark>
