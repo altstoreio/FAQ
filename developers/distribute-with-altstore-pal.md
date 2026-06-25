@@ -1,9 +1,9 @@
 # 🛒 Distribute with AltStore PAL
 
-Distributing your app with AltStore PAL is similar to what you may be used to when submitting to the Apple App Store. You will still submit apps through App Store Connect using your paid Apple Developer account, so make sure you are set up with one before proceeding. The only major difference is that your apps will only be available in the EU and Japan.
+Distributing your app with AltStore PAL is similar to what you may be used to when submitting to the Apple App Store. You will still submit apps through App Store Connect using your paid Apple Developer account, so make sure you are set up with one before proceeding. The only major difference is that your apps will only be available in the EU, Japan, and Brazil.
 
 {% hint style="info" %}
-You can distribute apps with AltStore PAL from anywhere. You **do not** need to be located in or have a business in the EU or Japan.
+You can distribute apps with AltStore PAL from anywhere. You **do not** need to be located in or have a business in the EU, Japan, or Brazil.
 {% endhint %}
 
 When ready, follow each of the steps outlined below to begin distributing your apps on AltStore PAL 🙂
@@ -80,7 +80,7 @@ Once you've uploaded your source, it will be made available on PAL and anyone ca
 
 <details>
 
-<summary>Make your source discoverable (Optional) </summary>
+<summary>Make your source discoverable (Optional)</summary>
 
 You can optionally make your source discoverable, which means your apps and updates will appear automatically on our [website](https://explore.alt.store/) where anyone can easily find them.
 
