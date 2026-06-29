@@ -152,7 +152,7 @@ This error can appear for many reasons, and below are a few that you might see (
 
 This means that Windows Defender is blocking your request. You may need to first disable Real-Time Protection on Windows in order for AltStore to work as expected.
 
-####
+
 
 #### <mark style="color:purple;">**(1999) Underlying Error**</mark>&#x20;
 
@@ -622,3 +622,9 @@ This means that an error occurred while writing files to disk. Make sure your ph
 `AltServer.ProcessError`
 
 If you are trying to enable JIT on an iOS 17 device, you may see this error. Make sure to install all dependencies and keep your device connected with the app open until JIT has successfully been enabled. Instructions for this can be found [here](../altstore-classic/enabling-jit/altjit.md#ios-17-instructions-macos-only).
+
+#### <mark style="color:purple;">**(3) AltStore PAL Install Error**</mark>
+
+`AltStore.InstallationError3`
+
+If you receive this error, it means the developer might not yet have agreed to the latest Apple Developer Program License Agreement. Once the developer agrees, the app should work as expected.
