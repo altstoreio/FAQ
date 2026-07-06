@@ -9,7 +9,7 @@ To distribute your apps with AltStore you need to first create a source, which i
 Download the appropriate example source as a template to edit with your source's information.
 
 {% hint style="success" %}
-Want to generate your source automatically? Try the community-built tool AltStudio! [https://altstudio.app/](https://altstudio.app/)
+Want to generate your source automatically? Try the community-built tool AltPublisher! [probably.ninja/altpublisher](https://probably.ninja/altpublisher)
 {% endhint %}
 
 **AltStore PAL**
