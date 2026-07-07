@@ -32,11 +32,13 @@ Want to generate your source automatically? Try the community-built tool AltPubl
   "iconURL": "https://example.com/source_icon.png",
   "headerURL": "https://example.com/source_header.png",
   "website": "https://example.com",
-  "patreonURL": "https://patreon.com/mycampaign"
+  "fediUsername": "example",
+  "patreonURL": "https://patreon.com/mycampaign",
   "tintColor": "#F54F32",
+  "nsfw": false,
   "featuredApps": [
     "com.example.myapp",
-    "com.example.anotherapp"
+    "com.example.anotherapp",
   ],
   "apps": [],
   "news": [],
@@ -119,6 +121,14 @@ This must be in hexadecimal format (e.g **#F54F32** or **C9B632**)
 
 {% hint style="info" %}
 If not provided, this defaults to the `tintColor` of the first app listed in your source.
+{% endhint %}
+
+#### `nsfw` <mark style="color:purple;">(boolean)</mark>
+
+Signifies whether your source contains any apps with adult (NSFW) content.
+
+{% hint style="info" %}
+This value must be accurate if you've opted in for discovery.
 {% endhint %}
 
 #### `featuredApps` <mark style="color:purple;">(array of strings)</mark>
@@ -669,7 +679,5 @@ A list of tier identifiers designating which tiers are required to download. A u
 You can find a tier's identifier by selecting a tier and going to its checkout page. The identifier is the numeric value at the end of the URL.
 
 <table><thead><tr><th width="529">URL</th><th>Tier ID</th><th data-hidden></th></tr></thead><tbody><tr><td> https://www.patreon.com/checkout/shaneriley?rid=<a data-footnote-ref href="#user-content-fn-1">8373919</a> </td><td>8373919</td><td></td></tr></tbody></table>
-
-
 
 [^1]: 
