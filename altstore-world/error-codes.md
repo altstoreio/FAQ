@@ -605,8 +605,6 @@ Updated information coming soon
 
 #### <mark style="color:purple;">(22410) Failed to write to disk</mark>
 
-
-
 This means that an error occurred while writing files to disk. Make sure your phone and PC both have plenty of available disk space and try again.
 
 #### <mark style="color:purple;">(512) Failed to write to disk</mark>
@@ -628,3 +626,8 @@ If you are trying to enable JIT on an iOS 17 device, you may see this error. Mak
 `AltStore.InstallationError3`
 
 If you receive this error, it means the developer might not yet have agreed to the latest Apple Developer Program License Agreement. Once the developer agrees, the app should work as expected.
+
+#### <mark style="color:purple;">**Socket Errors**</mark>
+
+If you receive a "Socket" Error, it means you need to enable DEveloper Mode on your device. You can do this by going to Settings > Privacy & Security > Developer Mode (ON)
+
