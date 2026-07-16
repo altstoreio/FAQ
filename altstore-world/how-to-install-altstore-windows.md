@@ -39,13 +39,15 @@ If you **need** to use the Windows Store version of iCloud, you can still use Al
 
 4\. Connect your iOS device to your computer and make sure it is unlocked. Trust your device with your computer if needed.
 
-5\. Open iTunes, then enable "Wi-Fi sync" on your device.
+5\. Open iTunes and sign in using your Apple ID.
 
-![](../.gitbook/assets/002\_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
+6\. In iTunes, enable "Wi-Fi sync" on your device.
 
-6\. Click the AltServer icon in the bottom right taskbar. Then go to “Install AltStore” and choose your iOS device.
+![](../.gitbook/assets/002_sync-iphone-over-wifi-1999751-0242f5c1b2814ecaac3b49815c365c59.webp)
 
-7\. Enter your Apple ID email address and password. This will allow AltServer to authenticate with Apple and configure your account to support sideloading apps.
+7\. Click the AltServer icon in the bottom right taskbar. Then go to “Install AltStore” and choose your iOS device.
+
+8\. Enter your Apple ID email address and password. This will allow AltServer to authenticate with Apple and configure your account to support sideloading apps.
 
 {% hint style="info" %}
 Your Apple ID and password are sent **only** to Apple — not us or anyone else.
