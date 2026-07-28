@@ -629,5 +629,5 @@ If you receive this error, it means the developer might not yet have agreed to t
 
 #### <mark style="color:purple;">**Socket Errors**</mark>
 
-If you receive a "Socket" Error, it means you need to enable DEveloper Mode on your device. You can do this by going to Settings > Privacy & Security > Developer Mode (ON)
+If you receive a "Socket" Error, it likely means you need to enable Developer Mode on your device. You can do this by going to Settings > Privacy & Security > Developer Mode (ON)
 
