@@ -4,13 +4,13 @@
 
 To distribute your apps with AltStore you need to first create a source, which is just a self-hosted JSON file containing basic metadata about your apps. Below is a list of required keys to make a valid source in AltStore along with optional keys you can use to further customize your source.
 
-### Example Source&#x20;
-
-Download the appropriate example source as a template to edit with your source's information.
-
 {% hint style="success" %}
 Want to generate your source automatically? Try the community-built tool AltPublisher! [probably.ninja/altpublisher](https://probably.ninja/altpublisher)
 {% endhint %}
+
+### Example Source&#x20;
+
+Download the appropriate example source as a template to edit with your source's information.
 
 **AltStore PAL**
 
@@ -198,7 +198,7 @@ A source cannot have multiple apps with the same bundle identifier.
 The "Apple ID" of your notarized app. You can find this on your app's App Store Connect page under "App Information."
 
 {% hint style="warning" %}
-Not required for non-notarized apps distributed with AltStore (World)
+Not required for non-notarized apps distributed with AltStore Classic
 {% endhint %}
 
 #### `developerName` _<mark style="color:purple;">(string)</mark>_
