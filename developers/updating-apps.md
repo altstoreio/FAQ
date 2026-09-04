@@ -7,7 +7,7 @@ description: Learn how to issue app updates
 
 
 {% hint style="info" %}
-Update apps in your source automatically by using AltServer's built-in AltSource tool.
+Update apps in your source automatically by using AltServer's built-in [AltSource tool](altsource-cli-beta.md).
 {% endhint %}
 
 ### Overview
@@ -52,7 +52,7 @@ Each entry must have a different `version` or `buildVersion` from the previous v
     "size": 80925,
     "minOSVersion": "14.0",
     "maxOSVersion": "16.3"
-  }
+  },
   {
     "version": "1.0",
     "buildVersion": "1",
@@ -62,7 +62,7 @@ Each entry must have a different `version` or `buildVersion` from the previous v
     "size": 79821,
     "minOSVersion": "12.0",
     "maxOSVersion": "16.3"
-  },
+  }
 ]
 ```
 {% endcode %}
