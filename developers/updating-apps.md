@@ -20,19 +20,17 @@ Specifically, AltStore detects updates by comparing the first version listed in 
 AltStore **does not** use dates to determine if there's a newer version.
 {% endhint %}
 
-
-
 ### Version Compatibility
 
 AltStore will only show that an app update is available if it's compatible with the user's OS version. By default AltStore considers all versions to be compatible, but if your update only supports certain iOS versions, you can specify this via the `minOSVersion` and `maxOSVersion` keys.
 
 Users can see a list of unsupported updates from the My Apps tab. Additionally, if a user tries to download a new app that is not compatible with their device, they will be asked to download a previous version instead.
 
-
-
 ### Update Instructions
 
-1. Upload the IPA file to your server and copy the URL.
+1. Upload the app to your server
+   * For _**AltStore Classic**_, upload the IPA file to your server and copy the URL.
+   * For _**AltStore PAL**_, upload the ADP folder to your server and copy the manifest.json URL.
 2. Add a new entry to the beginning of your app's `versions` array in your Source JSON file.
    * Update `downloadURL` to the copied URL
    * Update `version` to match the app's `CFBundleShortVersionString` (e.g "1.2.1")
