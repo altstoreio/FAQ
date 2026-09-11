@@ -32,10 +32,12 @@
             "versions": [
                 {
                     "version": "1.0",
+                    "buildVersion": "1",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
                     "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
+                    "localizedDescription": "Initial release.",
+                    "minOSVersion": "12.0"
                 }
             ],
             "appPermissions": {
