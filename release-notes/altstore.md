@@ -1,8 +1,41 @@
 # 🛍️ AltStore Classic
 
+## <mark style="color:green;">AltStore 2.3</mark>
+
+<mark style="color:green;">**September 14, 2026**</mark>
+
+### New
+
+Remote AltServer
+
+* Supports sideloading apps without a computer
+* Install, refresh, and (de-)activate apps from anywhere with a WiFi connection
+* Tap “Set up Remote AltServer” in AltStore settings to get started
+* Thanks Jackson Coxson and the entire SideStore team for making this possible!
+
+Liquid Glass UI
+
+* Updated design to fit at home on iOS 26
+
+### Improved
+
+* Includes \`ALT\_CLASSIC\_VER\` header with current build version when fetching sources
+* Uses app's tint color as background color when loading app icon
+* Improved error messages for better troubleshooting guidance
+* Raised minimum iOS version to 17.4
+
+### Fixed
+
+* Fixed unreadable text in light mode for some news alerts (thanks[ @partyknightsdev](https://github.com/partyknightsdev)!)
+* Fixed showing empty text view for updates with no description
+* Fixed extra space above version description for app updates
+* Fixed category cells not being accessible with VoiceOver
+* Fixed My Apps tab badge count showing incorrect number of app updates
+* Fixed memory leak due to strong-reference cycle in news tab
+
 ## <mark style="color:green;">AltStore 2.2</mark>
 
-<mark style="color:green;">**April 16, 2025**</mark>
+<mark style="color:green;">**April 16, 2026**</mark>
 
 ### **New**
 
