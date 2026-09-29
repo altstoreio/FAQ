@@ -16,6 +16,10 @@ To start using Remote AltServers, just tap "Set up Remote AltServer..." under Re
 
 ### Remote AltServer Troubleshooting Tips
 
+**I installed and connected LocalDevVPN and have WiFi on, but nothing is happening.**
+
+If you've followed all the steps to set up remote AltServer but nothing is happening, you may need to first restart your device.
+
 **AltStore couldn't reach remote AltServer**
 
 If you receive this error, please make sure you're connected to WiFi and LocalDevVPN
