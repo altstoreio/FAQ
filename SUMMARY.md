@@ -1,10 +1,10 @@
 # Table of contents
 
 * [🏡 AltStore Docs](README.md)
+* [🆚 AltStore PAL v. AltStore Classic](altstore-pal-v.-altstore-classic.md)
 
 ## AltStore PAL
 
-* [🤗 What is AltStore PAL?](altstore-pal/what-is-altstore-pal.md)
 * [🔗 Sources](altstore-pal/sources.md)
 * [🔼 Updating AltStore PAL](altstore-pal/updating-altstore-pal.md)
 * [🎁 Day One Promo](altstore-pal/day-one-promo.md)
@@ -31,7 +31,10 @@
 
 * [📓 Make a Source](developers/make-a-source.md)
 * [🛒 Distribute with AltStore PAL](developers/distribute-with-altstore-pal.md)
+* [🛍️ Distribute with AltStore Classic](developers/distribute-with-altstore-classic.md)
 * [🏷️ “Download on AltStore” Badge](developers/download-on-altstore-badge.md)
+* [💰 Fees](developers/fees.md)
+* [💬 Source Discoverability](developers/source-discoverability.md)
 * [📝 App Guidelines](developers/app-guidelines.md)
 * [📔 REST API](developers/rest-api.md)
 * [⬆️ Updating Apps](developers/updating-apps.md)

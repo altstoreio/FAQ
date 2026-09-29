@@ -1,27 +1,18 @@
 # 🛒 Distribute with AltStore PAL
 
+### Overview
+
+AltStore PAL is an official alternative app marketplace for Notarized apps available for users in the EU, Japan, and Brazil. [Learn more.](../altstore-pal-v.-altstore-classic.md)
+
 Distributing your app with AltStore PAL is similar to what you may be used to when submitting to the Apple App Store. You will still submit apps through App Store Connect using your paid Apple Developer account, so make sure you are set up with one before proceeding. The only major difference is that your apps will only be available in the EU, Japan, and Brazil.
 
 {% hint style="info" %}
 You can distribute apps with AltStore PAL from anywhere. You **do not** need to be located in or have a business in the EU, Japan, or Brazil.
 {% endhint %}
 
+### Instructions
+
 When ready, follow each of the steps outlined below to begin distributing your apps on AltStore PAL 🙂
-
-<details>
-
-<summary>Agree to Alternative EU Terms Addendum</summary>
-
-The Alternative EU Terms Addendum is an additional agreement you must make with Apple in order to distribute your apps outside the App Store in the EU specifically.
-
-Request EU Terms Addendum: [https://developer.apple.com/contact/request/alternative-eu-terms-addendum/](https://developer.apple.com/contact/request/alternative-eu-terms-addendum/)
-
-**Notes:**&#x20;
-
-1. The new terms will change your commission rates and fees for apps distributed in the EU. [Learn More](https://developer.apple.com/support/core-technology-fee/)
-2. If you're only planning on only distributing in Japan, you do not need to request the EU Terms Addendum.
-
-</details>
 
 <details>
 

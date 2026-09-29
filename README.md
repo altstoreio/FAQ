@@ -4,7 +4,7 @@ Welcome to AltStore! This guide will show you how to install AltStore onto your 
 
 [Return to Homepage](https://altstore.io)
 
-## [AltStore PAL](altstore-pal/what-is-altstore-pal.md)
+## [AltStore PAL](altstore-pal-v.-altstore-classic.md)
 
 ## [AltStore Classic](altstore-world/your-altstore.md)&#x20;
 
