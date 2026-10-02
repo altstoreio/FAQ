@@ -14,6 +14,7 @@ Accounts are automated and you won't be able to personally access the account. I
 
 1. Add a [`fediUsername`](make-a-source.md#fediusername-string) key to your source with your preferred username
 2. Upload your source
+3. Federate your source using our [REST API](https://faq.altstore.io/developers/rest-api#federate-source)
 
 ### Example Source Profile
 

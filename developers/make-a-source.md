@@ -95,7 +95,7 @@ A link to the primary website for your source. It will be displayed underneath y
 
 _(optional)_
 
-Your preferred username for your source's account on explore.alt.store (e.g. "utm" will become [@utm@alt.store](https://explore.alt.store/@utm)). **This cannot be changed later.**
+Your preferred username for your source's account on explore.alt.store (e.g. "utm" will become [@utm@alt.store](https://explore.alt.store/@utm)). **This cannot be changed later.** [Learn more](source-discoverability.md)**.**
 
 {% hint style="warning" %}
 You must include this to make your source discoverable with our [`REST API`](rest-api.md#federate-source)
