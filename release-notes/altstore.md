@@ -1,5 +1,28 @@
 # 🛍️ AltStore Classic
 
+## <mark style="color:green;">AltStore 2.3.1</mark>
+
+<mark style="color:green;">**October 21, 2026**</mark>
+
+### New
+
+Randomize Bundle IDs
+
+* New experimental feature in AltStore’s settings
+* Try this out as a potential fix for “Failed to verify code signature (the provisioning profile is banned)” errors
+* Automatically randomizes any sideloaded apps bundle ID to possibly prevent your Apple ID account from getting flagged
+
+### Improved
+
+* Improved error handling for Remote AltServer connection issues
+
+### Fixed
+
+* Fixed error -80045 when sideloading and refreshing apps
+* Fixed background refresh not working
+* Fixed 2FA codes not appearing
+* Fixed requiring Apple ID sign-in before Remote AltServer is set up
+
 ## <mark style="color:green;">AltStore 2.3</mark>
 
 <mark style="color:green;">**September 14, 2026**</mark>
