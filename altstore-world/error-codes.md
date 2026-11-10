@@ -613,7 +613,11 @@ This means that an error occurred while writing files to disk. Make sure your ph
 
 This means that an error occurred while writing files to disk. Make sure your phone and PC both have plenty of available disk space and try again.
 
+#### <mark style="color:purple;">(HTTP 503) Apple's authentication servers returned an error.</mark>
 
+This means that an error occurred while trying to connect to Remote AltServer. If after switching servers you continue to receive this error, you may need to reset your Remote AltServer.
+
+You can do this by going to AltStore's Settings > Remote AltServer and tapping "Reset Remote AltServer." Once you've reset, you can tap to set up again and follow the onboarding steps.
 
 #### <mark style="color:purple;">**(1) AltJIT failed with error code 1 (iOS 17)**</mark>
 
