@@ -125,10 +125,12 @@ If not provided, this defaults to the `tintColor` of the first app listed in you
 
 #### `nsfw` <mark style="color:purple;">(boolean)</mark>
 
+_(optional)_
+
 Signifies whether your source contains any apps with adult (NSFW) content.
 
 {% hint style="info" %}
-This value must be accurate if you've opted in for discovery.
+This value is required and must be accurate if you've opted in for [discovery](source-discoverability.md).
 {% endhint %}
 
 #### `featuredApps` <mark style="color:purple;">(array of strings)</mark>
