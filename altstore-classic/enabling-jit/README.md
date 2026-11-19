@@ -3,7 +3,7 @@
 Just-In-Time Compilation (JIT)  is a technology that allows certain types of apps to run significantly faster, or even at all. iOS does not normally allow apps to use JIT for security reasons, but you can enable JIT for apps sideloaded with AltStore Classic by following the instructions below.
 
 {% hint style="info" %}
-Using JIT requires a one-time setup with a Mac or PC. For an alternative method of enabling JIT, see [AltJIT](altjit.md).
+Using JIT requires a one-time setup with a computer. For an alternative method of enabling JIT, see [AltJIT](altjit.md).
 {% endhint %}
 
 ## Set-up Instructions
@@ -12,72 +12,46 @@ Using JIT requires a one-time setup with a Mac or PC. For an alternative method 
 These instructions only need to be done once to set your device up to use JIT.
 {% endhint %}
 
-#### Jitterbugpair (Mac/PC)
+### Install StikDebug&#x20;
 
-To enable JIT, you first need to download a program on your Mac or PC that will export information about your device.&#x20;
+<details>
 
-1. Download `jitterbugpair` onto your computer
-   1. [macOS](https://cdn.altstore.io/file/altstore/altstore/jitterbugpair.zip)
-   2. [Windows](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip)
+<summary>StikDebug (AltStore Classic)</summary>
+
+1. If you haven't already set up [remote AltServers](altstore-classic/remote-altservers.md), install LocalDevVPN from the [App Store](https://apps.apple.com/us/app/localdevvpn/id6755608044)
+2. Add the [StikDebug Source](https://stikdebug.xyz/index.json) to AltStore Classic
+3. Sideload StikDebug using AltStore Classic
+4. Launch LocalDevVPN and tap 'Connect'
+5. Press 'Allow' when prompted to add VPN Configurations and follow the instructions
+6. Launch StikDebug
+
+</details>
+
+### Pair StikDebug
+
+To enable JIT, you first need to download a program on your computer that will export information about your device.&#x20;
+
+1. Download `idevice_pair` onto your computer
+   1. [macOS](https://github.com/jkcoxson/idevice_pair/releases/latest/download/idevice_pair--macos-universal.dmg)
+   2. [Windows](https://github.com/jkcoxson/idevice_pair/releases/latest/download/idevice_pair--windows-x86_64.exe)
+   3. [Linux](https://github.com/jkcoxson/idevice_pair/releases/latest/download/idevice_pair--linux-x86_64.AppImage)
 2. Plug your iPhone or iPad into your computer
-3. Open Terminal (Mac) or PowerShell (Windows)
-4. Drag `jitterbugpair` into the Terminal/PowerShell window and hit 'Enter'
-5. Type `open .` then hit 'Enter' to open the output directory in Finder (Mac) or Explorer (Windows)
-6. Locate the `.mobiledevicepairing` file and transfer it to your iOS device
-
-#### Import File into StikDebug/SkitJIT&#x20;
-
-Once you've created the pairing file, you can import it into StikDebug/StikJIT to enable JIT:
-
-<details>
-
-<summary>StikDebug (AltStore PAL)</summary>
-
-1. Install StikDebug from the [StikDebug source](altstore-pal://source?url=https://stikdebug.xyz/apps.json)
-2. Open StikDebug
-3. Press "Allow" when prompted to add VPN Configurations and follow instructions
-4. Tap 'Select Pairing File'
-5. Select the `.mobiledevicepairing` file you transferred to your device in the above steps
-
-</details>
-
-<details>
-
-<summary> StikJIT (AltStore Classic)</summary>
-
-1. Install StosVPN from the [App Store](https://apps.apple.com/us/app/stosvpn/id6744003051)
-2. Download StikJIT .ipa from [GitHub](https://github.com/0-Blu/StikJIT/releases)
-3. Sideload StikJIT using AltStore Classic
-4. Launch StosVPN and tap "Connect"
-5. Press "Allow" when prompted to add VPN Configurations and follow instructions
-6. Launch StikJIT
-7. Tap 'Select Pairing File'
-8. Select the `.mobiledevicepairing` file you transferred to your device in the above steps
-
-</details>
-
+3. Open `idevice_pair` and select your device
+4. Click 'Create'
+5. Select 'StikDebug (Sideloaded)'
+   
 ## Enabling JIT
 
 <details>
 
-<summary>StikDebug (AltStore PAL)</summary>
+<summary>StikDebug (AltStore Classic)</summary>
 
-1. Open AltStore Classic
-2. Long-press an app in My Apps
-3. Tap "Enable JIT"
-4. The chosen app will then launch with JIT enabled
-
-</details>
-
-<details>
-
-<summary>StikJIT (AltStore Classic)</summary>
-
-1. Open StosVPN and tap "Connect"
-2. Open AltStore Classic
-3. Long-press an app in My Apps
-4. Tap "Enable JIT"
-5. The chosen app will then launch with JIT enabled
+1. Connect to Wi-Fi or enable Airplane Mode
+2. Open LocalDevVPN and tap 'Connect'
+3. Open AltStore Classic
+4. Long-press an app in My Apps
+5. Tap 'Enable JIT'
+6. The chosen app will then launch with JIT enabled
 
 </details>
 
