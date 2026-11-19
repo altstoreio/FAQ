@@ -72,7 +72,7 @@ This endpoint requires a notarized ADP ID. [Get your ADP ID](https://developer.a
 
 `POST https://api.altstore.io/adps`
 
-Use this endpoint if you haven't set up marketplace notifications, or if you don't want to wait for our servers to process your app automatically. **You must include your ADP ID in the JSON request body under the `adpID` key.**
+Use this endpoint if you haven't set up marketplace notifications, or if you don't want to wait for our servers to process your app automatically, or if a previously-processed ADP download has expired. **You must include your ADP ID in the JSON request body under the `adpID` key.**
 
 After it finishes processing, you can use the Download ADP endpoint above to download it.
 
